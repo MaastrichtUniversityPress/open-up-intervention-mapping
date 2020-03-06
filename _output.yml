@@ -1,0 +1,18 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">Book's Title</a></li>
+      after: |
+        <li><a href="./book-filename.pdf" target="blank">PDF</a></li>
+        <li><a href="./book-filename.epub" target="blank">EPUB</a></li>
+    edit: https://gitlab.com/matherion/book-filename/edit/master/%s
+    download: ["pdf", "epub"]
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+bookdown::epub_book: default

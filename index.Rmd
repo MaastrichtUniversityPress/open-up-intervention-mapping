@@ -1,0 +1,16 @@
+--- 
+title: "Title"
+author: "Author"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [bibliography.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "The description of this book"
+---
+
+# Introduction {-}
+
+Intro text here.

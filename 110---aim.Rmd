@@ -1,0 +1,4 @@
+# Aim of the workshop
+
+This is an example of a reference [@kok_taxonomy_2016].
+
