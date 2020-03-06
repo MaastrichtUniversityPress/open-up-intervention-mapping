@@ -13,4 +13,4 @@ description: "The description of this book"
 
 # Introduction {-}
 
-Intro text here.
+This book lives at https://intervention-mapping.gitlab.io/uva-im
