@@ -1,15 +1,13 @@
 # Your Guest Lecturers
 
-### Rob Ruiter
+*Rob Ruiter*
 
-![Rob][Rob]
 Prof Dr Rob Ruiter (MSc Health Sciences, 1995; PhD Psychology, 2000 Maastricht University) is an expert in Intervention Mapping, and coauthor of the book we use. He is a professor of applied psychology and head of department of Work and Social Psychology at the Faculty of Psychology and Neurocience, Maastricht University. The research projects he is involved in include studies into changing of risky health and safety behavior and developing and testing behavior change programs in the areas of blood donation, maternal health safe sex promotion, and traffic safety using Intervention Mapping. Since 1995, Rob is involved in PhD projects in Southern and Eastern Africa, mostly related to prevention of infectious diseases such as HIV/AIDS and malaria. These projects have the goal to develop theory- and evidence-based health education materials while training young students to become fully qualified public health researchers. See his publications [here](https://scholar.google.nl/citations?user=F2R3dN0AAAAJ&hl=en&oi=sra).
 
 We are very proud of the fact that Rob Ruiter was actively involved in this workshop from the start of the Development and Health mastertrack in 2017 With his indispensable expert knowledge in the field of Intervention Mapping.
   
-### Gjalt-Jorn Peters
+*Gjalt-Jorn Peters*
  
 For the third year in a row, we are happy to welcome Dr Gjalt-Jorn Peters (PhD Psychology, 2008, Maastricht University). GJ is a behavior change professional on the cross-section between behavior change science (psychology), methodology and statistics and technology (ICT) and an assistant professor at the Dutch Open University. His PhD thesis was on the determinants of ecstasy use and related behaviors. You can read it [here](http://phdthesis.nl/gjalt-jorn). His teaching during his PhD and post-doc projects at Maastricht University included health behavior change, specifically Intervention Mapping.
 He owns a behavior change research and intervention development company called [“Greater Good”](https://greatergood.eu/). With Greater Good, he develops online tools, for instance to help people to develop theory- and evidence-based behavior change interventions. He mainly investigates methods for behavior change, determinants of recreational substance use, smoking, and 'partying safely'. Do take a look at [his page on effective behavior change](https://effectivebehaviorchange.com).
 
-[Rob]: C:/Users/Nicole Oei/surfdrive/Documents/uva-im/Rob.jpg 
