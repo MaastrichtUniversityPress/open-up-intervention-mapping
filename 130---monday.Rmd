@@ -30,7 +30,7 @@ Given the nature of this Master, always keep the developmental phase of target g
 
 
 ## Task: Brainstorm on your topic
-{: .blue}
+
 
    * What do you already know about the problem?   
    * Use some efficient internet searches to get an idea of all aspects of the chosen problem  
@@ -54,4 +54,17 @@ Address the following issues in the brainstorm and make notes:
 <div style="border:1px solid black; height: 100px; margin: 20px;"></div>
 <!-- End of the box -->
 
+
+## Task:Planning group
+
+●	Form your planning group
+  
+  * Who represents your target population? (e.g. members of the at-risk group are important participants in a planning group)
+  * Who are possible environmental agents (e.g. decision makers)? 
+  * Who are the potential program implementers (e.g. the professionals who are going to implement your program)?
+
+## Task: CONDUCT A NEEDS ASSESSMENT TO CREATE A LOGIC MODEL OF THE PROBLEM
+
+  * Identify the problem and the target group (see Logic model of a problem below)
+  * What is the health problem exactly and/or who is at risk?
 
