@@ -68,3 +68,13 @@ Address the following issues in the brainstorm and make notes:
   * Identify the problem and the target group (see Logic model of a problem below)
   * What is the health problem exactly and/or who is at risk?
 
+## Task: The context
+
+* Describe the context: How does the environment directly or indirectly contribute to the problem?  
+
+    *** What are the behaviors of the at-risk group?  
+    
+  	*** What environmental conditions contribute to the problem (at the interpersonal, organizational, communal and societal level)?  
+    *** What would be the best intervention setting?  
+
+
