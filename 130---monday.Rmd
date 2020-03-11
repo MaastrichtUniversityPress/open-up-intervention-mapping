@@ -13,24 +13,40 @@
 
 * 13-15H - Little groups
 
-   * **Step 1: Logic model of the problem** (see book Chapter 4)
-  
+   * **Step 1: Logic model of the problem** (see book Chapter 4). Please, make slides of each task, so that you can receive feedback from Rob Ruiter
+   
+  **Background**: Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents. 
 
-## Task 1
+Step 1 should lead to answers to a series of questions helping in reaching a **logic model of the problem**: 
+
+_**What is the problem, why is it a problem at all, since when it is a problem and for whom it is a problem, what causes the problem, who needs to be convinced this problem should be solved, who must help solve the problem, and, yes, the problem contains social psychological aspects and should potentially be solvable.**_
+
+To answer these questions, IM begins with an analysis of community needs and capabilities. This analysis addresses people’s quality of life, health concerns and relevant behavioral and environmental conditions, as well as the community capacities that are potentially useful in improving community health. 
+
+To first come to a solid problem definition, IM starts with a _planning group_ to gather data from multiple sources about the problem and its background. This is to better understand all the facets of the problem, and to estimate the feasibility of possible interventions. Usually this will be a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, and individuals with the relevant expertise. Here, your little group is the planning group. 
+
+To reach a solid problem definition, data about the problem and its background need to be gathered from multiple sources to better understand all the facets of the problem, but it also functions to estimate the feasibility of possible interventions. Therefore, IM starts with gathering a planning group or groups. Usually a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, and individuals with the relevant expertise. 
+Given the nature of this Master, always keep the developmental phase of target group in mind; an intervention can be different for individuals of –for instance- different ethnicity, gender, SES, but also for children, adolescents, adolescents with a mild intellectual disability, students, professionals, or the elderly. 
+
+
+## Task: Brainstorm on your topic
 {: .blue}
 
-> Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents. 
+   * What do you already know about the problem?   
+   * Use some efficient internet searches to get an idea of all aspects of the chosen problem  
 
-> Step 1 should lead to answers to a series of questions helping in reaching a **logic model of the problem**: 
+Address the following issues in the brainstorm and make notes:
 
->_**What is the problem, why is it a problem at all, since when it is a problem and for whom it is a problem, what causes the problem, who needs to be convinced this problem should be solved, who must help solve the problem, and, yes, the problem contains social psychological aspects and should potentially be solvable.**_
->
->To answer these questions, IM begins with an analysis of community needs and capabilities. This analysis addresses people’s quality of life, health concerns and relevant behavioral and environmental conditions, as well as the community capacities that are potentially useful in improving community health. 
->
->To first come to a solid problem definition, IM starts with a _planning group_ to gather data from multiple sources about the problem and its background. This is to better understand all the facets of the problem, and to estimate the feasibility of possible interventions. Usually this will be a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, and individuals with the relevant expertise. Here, your little group is the planning group. 
-
->To reach a solid problem definition, data about the problem and its background need to be gathered from multiple sources to better understand all the facets of the problem, but it also functions to estimate the feasibility of possible interventions. Therefore, IM starts with gathering a planning group or groups. Usually a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, and individuals with the relevant expertise. 
->Given the nature of this Master, always keep the developmental phase of target group in mind; an intervention can be different for individuals of –for instance- different ethnicity, gender, SES, but also for children, adolescents, adolescents with a mild intellectual disability, students, professionals, or the elderly. 
+    * What is the central problem?   
+    * Why is it a problem? Is it a serious problem?  
+    * In what sense is it related to health? Who’s health?  
+    * For whom is it a problem (target groups; stakeholders)?   
+    * Which age-group (or more specific group) do you target?  
+    * What behaviors are related to the problem, or cause the problem?   
+    * What are the environmental conditions or conditions that are related to the problem?  
+    * What are the determinants or correlates of the behaviors involved?  
+    * What are the determinants or correlates of the environmental conditions involved?    
+    * Whose cooperation is necessary to help solve the problem? 
 
 
 <!-- This is the box where students can write their answer. -->
