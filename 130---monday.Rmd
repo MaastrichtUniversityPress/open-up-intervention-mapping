@@ -59,22 +59,21 @@ Address the following issues in the brainstorm and make notes:
 
 * Form your planning group  
   
-  * Who represents your target population? (e.g. members of the at-risk group are important participants in a planning group)
-  * Who are possible environmental agents (e.g. decision makers)? 
-  * Who are the potential program implementers (e.g. the professionals who are going to implement your program)?
+    * Who represents your target population? (e.g. members of the at-risk group are important participants in a planning group)
+    * Who are possible environmental agents (e.g. decision makers)?
+    * Who are the potential program implementers (e.g. the professionals who are going to implement your program)?
 
 ## Task: Conduct a needs assessment to create a logic model of the problem
 
-  * Identify the problem and the target group (see Logic model of a problem below)
-  * What is the health problem exactly and/or who is at risk?
+* Identify the problem and the target group (e.g. who is at risk)
+
 
 ## Task: The context
 
 * Describe the context: How does the environment directly or indirectly contribute to the problem?  
 
-    *** What are the behaviors of the at-risk group?  
-    
-  	*** What environmental conditions contribute to the problem (at the interpersonal, organizational, communal and societal level)?  
-    *** What would be the best intervention setting?  
+    * What are the behaviors of the at-risk group?
+    * What environmental conditions contribute to the problem (at the interpersonal, organizational, communal and societal level)?
+    * What would be the best intervention setting?  
 
 
