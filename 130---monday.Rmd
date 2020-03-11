@@ -22,4 +22,8 @@ To answer these questions, IM begins with an analysis of community needs and cap
 
 To reach a solid problem definition, data about the problem and its background need to be gathered from multiple sources to better understand all the facets of the problem, but it also functions to estimate the feasibility of possible interventions. Therefore, IM starts with gathering a planning group or groups. Usually a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, and individuals with the relevant expertise. Given the nature of this Master, always keep the developmental phase of target group in mind; an intervention can be different for individuals of –for instance- different ethnicity, gender, SES, but also for children, adolescents, adolescents with a mild intellectual disability, students, professionals, or elderly. 
 
+<!-- This is the box where students can write their answer. -->
+<!-- Have to think about how to make this appear in the PDF. -->
+<div style="border:1px solid black; height: 100px; margin: 20px;"></div>
+<!-- End of the box -->
 
