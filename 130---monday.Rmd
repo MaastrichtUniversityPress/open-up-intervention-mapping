@@ -2,8 +2,8 @@
 
 9-11H - PLENARY SESSION
 
-*Welcome and introduction by Dr Nicole Oei  
-*Chapter 2 pp 74-113     
+* Welcome and introduction by Dr Nicole Oei  
+* Chapter 2 pp 74-113     
 
 11-13H - PLENARY SESSION
 *STEP 1: Needs assessment* by Prof Dr Rob Ruiter    
@@ -11,11 +11,13 @@
 13-15H - LITTLE GROUPS - STEP 1 LOGIC MODEL OF THE PROBLEM
 Step 1 is addressed in chapter 4 of the IM book.
 
-*Read the following and do Task 1 to 1.4*
+## Task 1
 
 >Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents. In chapters 2 and 3 the most often used theories at the individual level and environmental levels are described.
-Step 1 should lead to answers to a series of questions helping in reaching a logic model of the problem: 
-What is the problem, why is it a problem at all, since when it is a problem and for whom it is a problem, what causes the problem, who needs to be convinced this problem should be solved, who must help solve the problem, and, yes, the problem contains social psychological aspects and should potentially be solvable.
+
+>Step 1 should lead to answers to a series of questions helping in reaching a logic model of the problem: 
+_What is the problem, why is it a problem at all, since when it is a problem and for whom it is a problem, what causes the problem, who needs to be convinced this problem should be solved, who must help solve the problem, and, yes, the problem contains social psychological aspects and should potentially be solvable._
 To answer these questions, IM begins with an analysis of community needs and capabilities. This analysis addresses people’s quality of life, health concerns and relevant behavioral and environmental conditions, as well as the capacity within a community that are potentially useful in improving community health. 
 To reach a solid problem definition, data about the problem and its background need to be gathered from multiple sources to better understand all the facets of the problem, but it also functions to estimate the feasibility of possible interventions. Therefore, IM starts with gathering a planning group or groups. Usually a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, and individuals with the relevant expertise. Given the nature of this Master, always keep the developmental phase of target group in mind; an intervention can be different for individuals of –for instance- different ethnicity, gender, SES, but also for children, adolescents, adolescents with a mild intellectual disability, students, professionals, or elderly. 
+
 
