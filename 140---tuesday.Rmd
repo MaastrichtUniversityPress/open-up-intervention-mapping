@@ -37,9 +37,10 @@ Change Objectives should be
 ![Logic model of Change](img/LogicModelofChange.png)
 
 
-## TASK: Individual health-related behavior and environmental outcomes 
+## Task: Individual health-related behavior and environmental outcomes 
 
-   * What are the desired changes in behavior and the environment?    
+**What are the desired changes in behavior and the environment?**
+
      * Make a list of at least 4 key health promoting behavioral outcomes of the target group   
      * Make a list of environmental conditions that need to be achieved (both key health promoting environmental outcomes and behavior outcomes of agents) 
 
@@ -50,3 +51,17 @@ For example, when you like to promote condom use (health promoting behavior), yo
 To find out the performance objectives for environmental conditions, ask yourself the following question: 
 ”What does the environmental agent need to do to accomplish the changes in environmental conditions?”
 For example, you want to make it easy for people to acquire condoms. Therefore, they should be easily available.
+
+
+##Task - Performance objectives for the behavioral and environmental outcomes 
+
+
+**Specify the required actions (performance objectives) for the health promoting behavioral outcomes and environmental outcomes** 	
+
+>Formulate performance objectives in a way that makes them measurable and that describes action. A major mistake is to formulate performance objectives as determinants: “X should be able to do Y”. That is not a performance objective; a performance objective should be: “X does Y”.
+
+     *List the most important behavioral outcomes (a maximum of four performance objectives for each individual health-related behavior in total, at least one of each).  
+     * List the most important environmental outcomes (a maximum of four performance objectives per environmental outcome: specifying agents at all levels: the interpersonal level, the organizational level, and the community / societal level).
+
+
+
