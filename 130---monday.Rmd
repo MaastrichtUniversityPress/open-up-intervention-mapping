@@ -96,10 +96,10 @@ Address the following issues in the brainstorm and make notes:
 
 * Determine your program goals  
   
-  * Prioritize on the basis of the needs assessment (see p 254)  
+  * Prioritize on the basis of the needs assessment (see p. 254)  
   *Decide what behaviors or environmental conditions are most relevant and most likely to change  
   * State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.  
 
 ![Logic model of the problem](img/LogicModel.png)
 
-Logic model of the problem, see book p. 227. [@bartholomew_eldredge_planning_2016] 
+Logic model of the problem, see book p. 227. 
