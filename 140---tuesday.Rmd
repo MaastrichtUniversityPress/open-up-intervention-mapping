@@ -15,6 +15,7 @@ LITTLE GROUPS# Tuesday
 
 
 
+
 **Background Step 2**: IM change objectives have to be specified explaining _who and what will change as a result of the intervention_. 
 
 Change objectives may refer to 
@@ -32,3 +33,18 @@ Change Objectives should be
 * **_Time_**: Within what period will you achieve your change goals?
 
 ![Logic model of Change](img/LogicModelofChange.png)
+
+
+## TASK: Individual health-related behavior and environmental outcomes 
+
+   * What are the desired changes in behavior and the environment?    
+     * Make a list of at least 4 key health promoting behavioral outcomes of the target group   
+     * Make a list of environmental conditions that need to be achieved (both key health promoting environmental outcomes and behavior outcomes of agents) 
+
+To identify the performance objectives for health promoting behaviors, ask yourself the following question:  
+“What do the people have to do to perform the health-related behavior?”
+For example, when you like to promote condom use (health promoting behavior), you want people to plan condom use; therefore one has to obtain condoms in order to use them. 
+
+To find out the performance objectives for environmental conditions, ask yourself the following question: 
+”What does the environmental agent need to do to accomplish the changes in environmental conditions?”
+For example, you want to make it easy for people to acquire condoms. Therefore, they should be easily available.
