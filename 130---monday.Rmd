@@ -90,3 +90,4 @@ Address the following issues in the brainstorm and make notes:
   *** Decide what behaviors or environmental conditions are most relevant and most likely to change  
   *** State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.  
 
+![Logic model of the problem](img/LogicModel.jpg)"Logic model of the problem [@bartholomew_eldredge_planning_2016] p 227
