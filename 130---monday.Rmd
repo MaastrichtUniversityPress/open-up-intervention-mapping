@@ -76,4 +76,17 @@ Address the following issues in the brainstorm and make notes:
     * What environmental conditions contribute to the problem (at the interpersonal, organizational, communal and societal level)?
     * What would be the best intervention setting?  
 
+## Task: - Stating program goals 
+
+* Brainstorm the key determinants of the behavioral and environmental conditions (WHY does the at-risk group behave this way? WHY do the environmental agents maintain or exacerbate unhealthy conditions?) 
+
+  *** Make a list of at least 4 key (personal) determinants of behavior  
+  *** Make a list of at least 4 key (personal) determinants of environmental condition & agent  
+  *** Show your logic model of the problem in a figure     
+
+* Determine your program goals  
+  
+  *** Prioritize on the basis of the needs assessment (see p 254)  
+  *** Decide what behaviors or environmental conditions are most relevant and most likely to change  
+  *** State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.  
 
