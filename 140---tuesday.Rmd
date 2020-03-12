@@ -1,8 +1,21 @@
-# Tuesday
+LITTLE GROUPS# Tuesday
 
-9-11H - Step 2 Logic model of change
+ 9-11H - Plenary session, Prof Dr Rob Ruiter 
+* **Step 2 Logic model of change**
 
-Step 2 (see IM book chapter 5): IM change objectives have to be specified explaining _who and what will change as a result of the intervention_. 
+11-13H - Little groups
+  * **Performance objectives**
+
+13-15H - Plenary session, Prof Dr Rob Ruiter
+  * **Feedback on your progress**
+
+15-17H - Little groups 
+  * **Determinants**
+
+
+
+
+**Background Step 2**: IM change objectives have to be specified explaining _who and what will change as a result of the intervention_. 
 
 Change objectives may refer to 
 
@@ -10,9 +23,12 @@ Change objectives may refer to
   * the _organizational level change_, e.g., "school administrators will acknowledge the advantages of condom distribution in school'  
   * or the _community level change_, e.g., "community leaders will approve of the sale of inexpensive condoms in schools and meeting places". 
 
-Change Objectives should be
-   * Specific: Change objectives should be defined as specific as possible: e.g., what should change in the target group and/or the environment in order to deal with or reduce the health-related problem. What should change, among whom?  
-   * Measurable: Can you measure the change (objectives)?  
-   * Achievable: Are the change objectives you set achievable and attainable?  
-   * Realistic: Can you realistically achieve the objectives with the resources you have?  
-   * Time: Within what period will you achieve your change goals?
+Change Objectives should be  
+    
+  * **_Specific_**: Define as specific as possible: e.g., what should change in the target group and/or the environment in order to deal with or reduce the health-related problem. What should change, among whom?  
+ * **_Measurable_**: Can you measure the change (objectives)?  
+* **_Achievable_**: Are the change objectives you set achievable and attainable?  
+* **_Realistic_**: Can you realistically achieve the objectives with the resources you have?  
+* **_Time_**: Within what period will you achieve your change goals?
+
+![Logic model of Change](img/LogicModelofChange.png)

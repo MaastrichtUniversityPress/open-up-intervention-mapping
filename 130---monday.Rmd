@@ -1,27 +1,26 @@
 # Monday
 
-* 9-11H  Dr Nicole Oei (plenary session)
-
-    * **Welcome and introduction**   
-    * **Theories: Book Chapter 2 pp 74-113**     
-
-
-* 11-13H - Prof Dr Rob Ruiter (plenary session)
-    
-    * **Step 1: Needs assessment**  
+9-11H - Plenary session, Dr Nicole Oei 
+  * **Welcome and introduction**   
+  * **Theories: Book Chapter 2 pp 74-113**     
 
 
-* 13-15H - Little groups
+11-13H - Plenary session, Prof Dr Rob Ruiter 
+  * **Step 1: Needs assessment**  
 
-   * **Step 1: Logic model of the problem** (see book Chapter 4). Please, make slides of each task, so that you can receive feedback from Rob Ruiter
+
+13-15H - Little groups
+  * **Step 1: Logic model of the problem** (see bookchapter 4).
    
  
-* 15-17H -  Prof Dr Rob Ruiter (plenary session)
+15-17H - Prof Dr Rob Ruiter (plenary session)
+  * **Feedback on step 1**  
 
-    * **Feedback on step 1**  
+
+
 
    
-**Background**: Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents. 
+**Step 1 - Background**: Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents. 
 
 Step 1 should lead to answers to a series of questions helping in reaching a **logic model of the problem**: 
 
@@ -33,6 +32,8 @@ To first come to a solid problem definition, IM starts with a _planning group_ t
 
 To reach a solid problem definition, data about the problem and its background need to be gathered from multiple sources to better understand all the facets of the problem, but it also functions to estimate the feasibility of possible interventions. Therefore, IM starts with gathering a planning group or groups. Usually a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, and individuals with the relevant expertise. 
 Given the nature of this Master, always keep the developmental phase of target group in mind; an intervention can be different for individuals of –for instance- different ethnicity, gender, SES, but also for children, adolescents, adolescents with a mild intellectual disability, students, professionals, or the elderly. 
+
+**Please, make slides of each task, so that you can receive feedback from Rob Ruiter**
 
 
 ## Task: Brainstorm on your topic
@@ -72,7 +73,7 @@ Address the following issues in the brainstorm and make notes:
 
 ## Task: Conduct a needs assessment to create a logic model of the problem
 
-* Identify the problem and the target group (e.g. who is at risk)
+* Identify the problem and the target group (e.g. who is at risk) (see Logic model of a problem below)
 
 
 ## Task: The context
