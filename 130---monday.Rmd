@@ -23,7 +23,7 @@
     -----------------
   
    
-  **Background**: Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents. 
+**Background**: Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents. 
 
 Step 1 should lead to answers to a series of questions helping in reaching a **logic model of the problem**: 
 
@@ -100,4 +100,6 @@ Address the following issues in the brainstorm and make notes:
   *Decide what behaviors or environmental conditions are most relevant and most likely to change  
   * State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.  
 
-![Logic model of the problem](img/LogicModel.png)"Logic model of the problem [@bartholomew_eldredge_planning_2016] p. 227"
+![Logic model of the problem](img/LogicModel.png)
+
+Logic model of the problem, see book p. 227. [@bartholomew_eldredge_planning_2016] 
