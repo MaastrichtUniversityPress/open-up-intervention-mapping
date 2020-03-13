@@ -1,15 +1,2 @@
 
 # Wednesday
-
-time | Content                    
------- | -----------------------------
-11-13h | **Welcome and introduction**  
-13-15h | **Step 1: Needs assessment** 
-
- 
-
-
-13-15H - Little groups  
-
-* **Step 1: Logic model of the problem** (see book chapter 4).
-   
