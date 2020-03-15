@@ -72,4 +72,10 @@ Environmental ‘determinants’ are not directly under the person’s control b
  + Copy the table below into your slides and identify the determinants that you want to focus on.   
  + Clearly indicate the ones you want to focus on.
 
-
+**Determinants of health promoting behavior**
+| Determinants | Importance | Changeability |
+| ------------------ | ------------------ | ------------------ | 
+|                    |                    |                    | 
+|                    |                    |                    |
+|                    |                    |                    |
+Etc
