@@ -73,9 +73,11 @@ Environmental ‘determinants’ are not directly under the person’s control b
  + Clearly indicate the ones you want to focus on.
 
 **Determinants of health promoting behavior**
-| Determinants | Importance | Changeability |
+
+| Determinants       | Importance         | Changeability      |
 | ------------------ | ------------------ | ------------------ | 
 |                    |                    |                    | 
 |                    |                    |                    |
 |                    |                    |                    |
+
 Etc
