@@ -57,9 +57,9 @@ For example, you want to make it easy for people to acquire condoms. Therefore, 
 >Formulate performance objectives in a way that makes them measurable and that describes action. A major mistake is to formulate performance objectives as determinants: “X should be able to do Y”. That is not a performance objective; a performance objective should be: “X does Y”.
 
      *List the most important behavioral outcomes (a maximum of four performance objectives for each individual health-related behavior in total, at least one of each).  
-     * List the most important environmental outcomes (a maximum of four performance objectives per environmental outcome: specifying agents at all levels: the interpersonal level, the organizational level, and the community / societal level).
+     * List the most important environmental outcomes (a maximum of four  performance objectives per environmental outcome: specifying agents at all levels: the interpersonal level, the organizational level, and the community / societal level).
 
-# TASK - Specify the determinants of your perfromance objectives 
+## Task- Specify the determinants of your performance objectives 
 
 Personal determinants are under the person’s control. 
 Environmental ‘determinants’ are not directly under the person’s control but under control of the agent – treat those under environmental conditions.
