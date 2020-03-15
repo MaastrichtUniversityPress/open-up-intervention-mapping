@@ -31,7 +31,7 @@ Change Objectives should be
 * **_Time_**: Within what period will you achieve your change goals?
 
 ![Logic model of Change](img/LogicModelofChange.png)
-
+Figure: Logic Model of Change (Bartholomew et al., 2016, p. 285)
 
 ## Task: Individual health-related behavior and environmental outcomes 
 
@@ -59,5 +59,17 @@ For example, you want to make it easy for people to acquire condoms. Therefore, 
      *List the most important behavioral outcomes (a maximum of four performance objectives for each individual health-related behavior in total, at least one of each).  
      * List the most important environmental outcomes (a maximum of four performance objectives per environmental outcome: specifying agents at all levels: the interpersonal level, the organizational level, and the community / societal level).
 
+# TASK - Specify the determinants of your perfromance objectives 
+
+Personal determinants are under the person’s control. 
+Environmental ‘determinants’ are not directly under the person’s control but under control of the agent – treat those under environmental conditions.
+
+●	**Brainstorm determinants**. Try to apply behavioral theories (see chapter 2 of the book) and use the determinants of the behavioral or environmental outcomes addressed in the needs assessment.  
+ + List personal determinants for each performance objective from task 2.2 from the performance objectives for each individual health-related behavior.  
+ + List personal determinants for each performance objective from task 2.2, from the performance objectives for and the environmental condition or agents’ performance objectives.  
+ + Read ‘Rating importance of determinants’, IM Book, pp. 306-308.  
+ + Select from your list those determinants for your intervention that are important - they contribute significantly to the behavior (0, +, or ++), and that are changeable - they can be changed with the available methods (0, +, or ++). Consult the literature and your common sense to make these decisions.   
+ + Copy the table below into your slides and identify the determinants that you want to focus on.   
+ + Clearly indicate the ones you want to focus on.
 
 
