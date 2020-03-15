@@ -1,7 +1,7 @@
 # Monday
 | Time   | Content                    | Teaching form    | Teacher     |                 
-| ------ | -------------------------- | ---------------- | ----------- |
- 9-11h | **Welcome and introduction; Theories: Book Chapter 2 pp 74-113** | Plenary session | Dr Nicole Oei | 
+| ------ | ---------------------- | --------------- | ------------------ |
+ 9-11h | **Welcome and introduction Theories: Book Chapter 2 pp 74-113** | Plenary session | Dr Nicole Oei | 
 11-13h | **Step 1: Needs assessment** | Plenary session | Prof Dr Rob Ruiter |
 13-15h | **Step 1: Logic model of the problem**| Little groups |
 15-17h | **Feedback on step 1** | Plenary session |Prof Dr Rob Ruiter |
