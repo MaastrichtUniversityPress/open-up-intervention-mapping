@@ -78,7 +78,7 @@ Environmental ‘determinants’ are not directly under the person’s control b
 
 
 | Determinants | Importance | Changeability |
-| :-: | :-:  | :-:  | 
+| --- | --- | --- | 
 | ................. | ................. | ................. | 
 | ................. | ................. | ................. |
 | ................. | ................. | ................. |
