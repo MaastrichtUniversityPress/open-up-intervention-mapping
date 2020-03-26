@@ -101,10 +101,20 @@ Etc
 
 ## Task - Specify the desired change objectives
 
-●	Build matrices (on pptx slides) 
+●	Build matrices of change objectives (on pptx slides) 
 
 First, read the following:
+Matrices of change objectives are generally made for each level of intervention planning: 
+Individual
+Interpersonal
+Organizational
+Community
+Societal
+
 Change objectives are the specific goals of your intervention. Change objectives literally state what should change at the individual levels, or what should change among environmental agents. Change objectives can be formulated when you cross performance objectives with their determinants. Therefore, you have to build matrices. You have to create one matrix for every health promoting behavior, every target group, and every environmental agent, that has to be influenced. For each matrix, put your performance objectives down the left-hand column. Put your personal determinants across the top. Fill in the cells with change objectives. 
+
+ 
+
 
 For change objective at the individual level ask: “What do people need to learn with regard to the determinant to do the performance objective?” 
 For example, for a change objective regarding self-efficacy, you might ask: _“What do people need to learn in regard to self-efficacy to carry a condom?”_
@@ -113,3 +123,32 @@ For a change objective regarding social norms in the community you might thus as
 
 Formulate change objectives in a way that makes them **measurable** by using active verbs such as “shows”, “indicates”, “demonstrates” etc; see page 317 of the IM book for examples of active verbs.
  
+ 
+**Make a powerpoint slide with a matrix for the individual level**
+
+●	Start with indicating the target group
+
+|  | Determinant 1 | Determinant 2 |
+| --- | --- | --- | 
+| Performance objective 1 | _Change objective_ | _Change objective_ | 
+| Performance objective 2 | _Change objective_ | _Change objective_ |
+
+
+**Make a powerpoint slide with a matrix for the environment**
+
+●	Start with indicating the environmental agent
+
+|  | Determinant 1 | Determinant 2 |
+| --- | --- | --- | 
+| Performance objective 1 | _Change objective_ | _Change objective_ | 
+| Performance objective 2 | _Change objective_ | _Change objective_ |
+
+
+## Task - Create a logic model of change 
+
+●	And put it on a powerpoint slide
+
+
+![Logic model of Change](img/LogicModelofChange.png)
+
+
