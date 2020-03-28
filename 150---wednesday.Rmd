@@ -6,5 +6,8 @@
 | ------ | ------------------- | ---------------- | ------------------ |
 | 9-11h  | **Feedback on your Logic model of change** | Plenary session |  Dr GJ Peters |
 | 11-13h | **Revise logic model and prepare step 3** | Little groups |
-| 13-15h | **Step 3: Program design methods and applications (chapter 6)** | Plenary session |  |
+| 13-15h | **Step 3: Program design methods and applications (chapter 6)** | Plenary session | Dr GJ Peters |
 | 15-18h | **Tasks program design** | Little groups |  
+
+
+![Program Design](img/programdesign.tiff)
