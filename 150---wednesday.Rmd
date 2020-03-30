@@ -50,7 +50,7 @@
 | .................................. | .................................. | .................................. |
 | .................................. | .................................. | .................................. |
 
-## Task - THEMES, COMPONENTS, SCOPE AND SEQUENCE
+## Task - Themes, components, scopre and sequence
 
 ●	Generate ideas about themes, components, scope and sequence of the program
 (see page 355 in the book)
