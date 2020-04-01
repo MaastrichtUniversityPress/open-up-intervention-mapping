@@ -12,7 +12,7 @@
 
 ●	Read book Step 4: Program production (pp 435- 476)
 
-## Task – PROGRAM PLAN
+## Task – Program plan
 
 ●	Refine program structure by organizing methods and applications in a program plan that describes who must do what and when, considering available channels and the delivery systems. The program structure should describe the following:
 
