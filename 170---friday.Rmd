@@ -4,7 +4,7 @@
 | Time   | Content             | Teaching form    | Teacher            |                 
 | ------ | ------------------- | ---------------- | ------------------ |
 | 9-11h  | <a href="## Presentations and final feedback"> **Presentations and final feedback** </a> | Plenary session | All teachers |
-| < 18h | **Finalize presentations** |  |
+| < 18h | <a href="## Finalize presentations"> **Finalize presentations**</a>|  |
 
 
 ## Presentations and final feedback
