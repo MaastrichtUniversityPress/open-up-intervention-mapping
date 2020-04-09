@@ -3,7 +3,7 @@
 
 | Time   | Content             | Teaching form    | Teacher            |                 
 | ------ | ------------------- | ---------------- | ------------------ |
-| 9-11h  | <a href="## **Presentations and final feedback**"> </a> | Plenary session | All teachers |
+| 9-11h  | <a href="## Presentations and final feedback"> **Presentations and final feedback** </a> | Plenary session | All teachers |
 | < 18h | **Finalize presentations** |  |
 
 
