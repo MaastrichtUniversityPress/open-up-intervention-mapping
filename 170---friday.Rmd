@@ -4,7 +4,7 @@
 | Time   | Content             | Teaching form    | Teacher            |                 
 | ------ | ------------------- | ---------------- | ------------------ |
 | 9-11h  | <a href="## Presentations and final feedback"> **Presentations and final feedback** </a> | Plenary session | All teachers |
-| < 18h | <a href="#Finalize presentations"> **Finalize presentations**</a>|  |
+| [< 18h](#finalizepresentations) | **Finalize presentations**|  |
 
 
 ## Presentations and final feedback
@@ -15,8 +15,7 @@
   - Give constructive feedback to your fellow students
 
 
-## Finalize presentations
-<a name= "#Finalize presentations"></a>
+## Finalize presentations {#finalizepresentations}
 
  - Process the feedback you have been given by prof Rob Ruiter and Dr GJ Peters to improve your slides  
  - Email the improved group presentation saved in PDF-format to N.Y.L.Oei@uva.nl before 18h
