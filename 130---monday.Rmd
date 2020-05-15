@@ -11,8 +11,6 @@
 
 
 
-
-
    
 **Step 1 - Background**: Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents. 
 
@@ -30,10 +28,10 @@ Given the nature of this Master, always keep the developmental phase of target g
 
 
 
-## Task: Brainstorm on your topic
+## Task: Brainstorm with your little group on your topic
 
 
-   * What do you already know about the problem?   
+   * What do you all already know about the problem?   
    * Use some efficient internet searches to get an idea of all aspects of the chosen problem 
    ***Please, make slides of each task, so that you can receive feedback from Rob Ruiter**
 
@@ -59,7 +57,7 @@ Address the following issues in the brainstorm and make notes:
 
 ## Task: Planning group
 
-* Form your planning group  
+* Who would you ask for your planning group?  
  
  
     * Who represents your target population? (e.g. members of the at-risk group are important participants in a planning group)
