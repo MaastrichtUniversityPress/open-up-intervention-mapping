@@ -1,6 +1,6 @@
 --- 
-title: "Title"
-author: "Author"
+title: "Intervention Mapping Workbook"
+author: "Nicole, GJ & Rob"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
