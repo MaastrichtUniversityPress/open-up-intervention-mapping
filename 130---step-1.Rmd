@@ -1,4 +1,3 @@
-# Monday
 | Time   | Content                    | Teaching form   | Teacher            |                 
 | ------ | -------------------------- | --------------- | ------------------ |
 | 9-11h | **Welcome and introduction - Theories: Book Chapter 2 pp 74-113** | Plenary session | Dr Nicole Oei | 
@@ -28,55 +27,62 @@ Given the nature of this Master, always keep the developmental phase of target g
 
 
 
-## Task: Brainstorm with your little group on your topic
+## Task: Conduct a needs assessment to create a logic model of the problem
 
-
-   * What do you all already know about the problem?   
+   * Brainstorm about the topic: what do you all already know about the problem?   
    * Use some efficient internet searches to get an idea of all aspects of the chosen problem 
    ***Please, make slides of each task, so that you can receive feedback from Rob Ruiter**
 
 Address the following issues in the brainstorm and make notes:
 
-    * What is the central problem?   
-    * Why is it a problem? Is it a serious problem?  
-    * In what sense is it related to health? Who’s health?  
-    * For whom is it a problem (target groups; stakeholders)?   
-    * Which age-group (or more specific group) do you target?  
-    * What behaviors are related to the problem, or cause the problem?   
-    * What are the environmental conditions or conditions that are related to the problem?  
-    * What are the determinants or correlates of the behaviors involved?  
-    * What are the determinants or correlates of the environmental conditions involved?    
-    * Whose cooperation is necessary to help solve the problem? 
+<div class="task-list">
 
+* What is the central problem?   
+* Why is it a problem? Is it a serious problem?  
+* In what sense is it related to health? Who’s health?  
+* For whom is it a problem (target groups; stakeholders)?   
+* Which age-group (or more specific group) do you target?  
+* What behaviors are related to the problem, or cause the problem?   
+* What are the environmental conditions or conditions that are related to the problem?
+* Who are the environmental agents who can control the environmental conditions, and what do they need to do to change those conditions?
+* What are the determinants or correlates of the behaviors involved, both for the target population, and for the environmental agents?
+* Whose cooperation is necessary to help solve the problem? 
+* Describe the context: How does the environment directly or indirectly contribute to the problem?  
+* What are the behaviors of the at-risk group?
+* What environmental conditions contribute to the problem (at the interpersonal, organizational, communal and societal level)?
+* What would be the best intervention setting?  
+* Identify the problem and the target group (e.g. who is at risk) (see Logic model of a problem below)
 
-<!-- This is the box where students can write their answer. -->
-<!-- Have to think about how to make this appear in the PDF. -->
-<div style="border:1px solid black; height: 100px; margin: 20px;"></div>
-<!-- End of the box -->
+</div>
 
+### Examples
+
+<div class="example-list">
+
+1. In an intervention to promote social distancing in Amsterdam, 
+  1. Age group = old people
+  2. dbdgdg
+
+2. In an intervention to promote condom use among toddlers in ...
+
+</div>
 
 ## Task: Planning group
 
 * Who would you ask for your planning group?  
  
+ <div class="task-list">
  
-    * Who represents your target population? (e.g. members of the at-risk group are important participants in a planning group)
-    * Who are possible environmental agents (e.g. decision makers)?
-    * Who are the potential program implementers (e.g. the professionals who are going to implement your program)?
+* Who represents your target population? (e.g. members of the at-risk group are important participants in a planning group)
+* Who are possible environmental agents (e.g. decision makers)?
+* Who are the potential program implementers (e.g. the professionals who are going to implement your program)?
 
-## Task: Conduct a needs assessment to create a logic model of the problem
+</div>
 
-* Identify the problem and the target group (e.g. who is at risk) (see Logic model of a problem below)
+<div class="produce-something">
+Produce the logic model of the problem
+</div>
 
-
-## Task: The context
-
-* Describe the context: How does the environment directly or indirectly contribute to the problem?  
-
-
-    * What are the behaviors of the at-risk group?
-    * What environmental conditions contribute to the problem (at the interpersonal, organizational, communal and societal level)?
-    * What would be the best intervention setting?  
 
 ## Task: Stating program goals 
 
@@ -93,4 +99,8 @@ Address the following issues in the brainstorm and make notes:
   * State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.  
 
 ![Logic model of the problem, see book p. 227.](img/LogicModel.png)
+
+<div class="produce-something">
+List the program goals.
+</div>
 

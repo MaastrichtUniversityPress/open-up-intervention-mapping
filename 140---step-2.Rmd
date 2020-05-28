@@ -1,5 +1,3 @@
-# Tuesday
-
 | Time   | Content             | Teaching form    | Teacher            |                 
 | ------ | ------------------- | ---------------- | ------------------ |
 | 9-11h  | **Step 2 Logic model of change** | Plenary session | Prof Dr Rob Ruiter |
@@ -10,6 +8,84 @@
 
 -----
 
+
+## Identify sub-behaviors / performance objectives
+
+Of target individual.
+
+<div class="example-list">
+
+1. For example, when the target behavior is "hand washing", valid sub-behaviors / performance objectives are:
+  1. Wash hands at leats 20 secs
+  2. Use soap
+  3. Clean throughly
+  4. Use paper towel
+
+</div>
+
+## Identify environmental conditions and environmental agents
+
+Product: list of all potentially relevant environmental conditions and environmental agents.
+
+<div class="example-list">
+
+1. Handwashing:
+  1. Soap needs to be there; Employer controls this.
+
+2. Condom use in gay sauna:
+  1. gotta have condoms, lube, etc
+
+</div>
+
+## Identify sub-behaviors / performance objectives
+
+Of environmental agents.
+
+<div class="example-list">
+
+1. Hand washing:
+  1. employer needs to adjust budgets for purchasing soal, towels, etc
+  2. employer needs to task somebody with ensuring full soap dispensers
+
+</div>
+
+## Identify determinants and sub-determinants
+
+Of target individual and of environmental agents.
+
+<div class="example-list">
+
+1. target individual, hand washing: expectations re: effectivenes of hand washing; degree to which hand washing is automated; etc
+
+2. employer, hand washing: ...
+
+2. gay sauna owner, safe sex: expectation that more customers will come when free lube is provided, etc - potential false belief: with free lube, people will slip and die.
+
+Belangrijk om domme dingen te includeren bij voorbeelden
+
+coronavirus: besmet willen worden omdat je dan weer kunt werken, of omdat over 2 maanden de ICs msch overvol zijn, etc.
+
+</div>
+
+## Select environmental conditions (and so, agents), and sub-behaviors and sub-determinants
+
+Out of the long list of potentially important stuff, decide which you select. If you do not select something, you can either defer (retain for potential later intervention) or forgo (eliminate, e.g. because it's irrelevant).
+
+<div class="example-list">
+
+selection based on how important stuff is for the behavior (relevance; iusuall =y correlational evidence) and how easy it is to change somehting (sadly usually anecdotal evidence; sometimes fofr detemrinants meta analyses or sysrevs)
+
+</div>
+
+## Produce Matrices of Change Objectives
+
+Reformulate sub-determinants as change objectives
+
+<div class="example-list">
+
+Je pakt de sub-determinanten (die je selecteerde, dus) en herformuleert ze als COs volgens IM richtlijnen.
+
+</div>
 
 
 

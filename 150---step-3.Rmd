@@ -1,7 +1,4 @@
 
-# Wednesday
-
-
 | Time   | Content             | Teaching form    | Teacher            |                 
 | ------ | ------------------- | ---------------- | ------------------ |
 | 9-11h  | **Feedback on your Logic model of change** | Plenary session |  Dr GJ Peters |
@@ -12,6 +9,37 @@
 
 
 ![Program Design](img/programdesign.png)
+
+## Copy-paste info in matrices of CO into ABCDs
+
+(cell A1 -> column G)
+(row headers (col A) -> column F)
+(column headers (row 1) -> column E)
+(cell content -> column D)
+
+## Select methods and applications
+
+Add these in columns A, B, C of ABCD matrix
+
+## Themes, components, scope and sequence
+
+
+
+
+
+
+-----------------------------------
+
+
+
+
+<!------------------------------------------------->
+<!------------------------------------------------->
+<!------------------- Old stuff ------------------->
+<!------------------------------------------------->
+<!------------------------------------------------->
+
+
 
 ## Task - Process feedback: Revise logic model and matrices 
 
@@ -50,7 +78,7 @@
 | .................................. | .................................. | .................................. |
 | .................................. | .................................. | .................................. |
 
-## Task - Themes, components, scopre and sequence
+## Task - Themes, components, scope and sequence
 
 ●	Generate ideas about themes, components, scope and sequence of the program
 (see page 355 in the book)
