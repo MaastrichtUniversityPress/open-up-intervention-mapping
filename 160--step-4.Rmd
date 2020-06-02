@@ -1,11 +1,4 @@
-# Thursday
-
-| Time   | Content             | Teaching form    | Teacher            |                 
-| ------ | ------------------- | ---------------- | ------------------ |
-| 9-11h  | **Perform task 6.1 to 6.5** | Little groups |  |
-| 11-13h | **IM in practice** | Plenary session | hosted by Dr Nicole Oei
-| 13-15h | <a href="#Step5"> **Step 5** </a> | Little groups |  |
-| 15-18h | **Finish tasks and presentation** | Little groups |  |
+# Step 4
 
 
 ## Task – Step 4 - Program production
