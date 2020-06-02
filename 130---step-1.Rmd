@@ -1,14 +1,4 @@
-| Time   | Content                    | Teaching form   | Teacher            |                 
-| ------ | -------------------------- | --------------- | ------------------ |
-| 9-11h | **Welcome and introduction - Theories: Book Chapter 2 pp 74-113** | Plenary session | Dr Nicole Oei | 
-| 11-13h | **Step 1: Needs assessment** | Plenary session | Prof Dr Rob Ruiter |
-| 13-15h | **Logic model of the problem** | Little groups |
-| 15-17h | **Feedback on step 1** | Plenary session |Prof Dr Rob Ruiter |
-
-
------
-
-
+#Step 1
 
    
 **Step 1 - Background**: Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents. 
