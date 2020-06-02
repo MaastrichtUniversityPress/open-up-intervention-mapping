@@ -13,19 +13,19 @@ pre code {
   white-space: inherit;
 }
 
-.task-list {
+.taskList {
   border:1px solid black;
   background-color: #dddddd;
   margin: 20px;
 }
 
-.example-list {
+.exampleList {
   border:1px dashed blue;
   background-color: #ddddff;
   margin: 20px;
 }
 
-.produce-something {
+.produceSomething {
   border:1px dashed red;
   background-color: #ffdddd;
   margin: 20px;

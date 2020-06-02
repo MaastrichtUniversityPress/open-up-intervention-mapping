@@ -22,7 +22,7 @@ Given the nature of this Master, always keep the developmental phase of target g
 
 Address the following issues in the brainstorm and make notes:
 
-<div class="task-list">
+<div class="taskList">
 
 * What is the central problem?   
 * Why is it a problem? Is it a serious problem?  
@@ -44,7 +44,7 @@ Address the following issues in the brainstorm and make notes:
 
 ### Examples
 
-<div class="example-list">
+<div class="exampleList">
 
 1. In an intervention to promote social distancing in Amsterdam, 
   1. Age group = old people
@@ -58,7 +58,7 @@ Address the following issues in the brainstorm and make notes:
 
 * Who would you ask for your planning group?  
  
- <div class="task-list">
+ <div class="taskList">
  
 * Who represents your target population? (e.g. members of the at-risk group are important participants in a planning group)
 * Who are possible environmental agents (e.g. decision makers)?
@@ -87,7 +87,7 @@ Produce the logic model of the problem
 
 ![Logic model of the problem, see book p. 227.](img/LogicModel.png)
 
-<div class="produce-something">
+<div class="produceSomething">
 List the program goals.
 </div>
 

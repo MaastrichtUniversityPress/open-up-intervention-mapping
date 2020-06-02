@@ -4,7 +4,7 @@
 
 Of target individual.
 
-<div class="example-list">
+<div class="exampleList">
 
 1. For example, when the target behavior is "hand washing", valid sub-behaviors / performance objectives are:
   1. Wash hands at leats 20 secs
@@ -18,7 +18,7 @@ Of target individual.
 
 Product: list of all potentially relevant environmental conditions and environmental agents.
 
-<div class="example-list">
+<div class="exampleList">
 
 1. Handwashing:
   1. Soap needs to be there; Employer controls this.
@@ -32,7 +32,7 @@ Product: list of all potentially relevant environmental conditions and environme
 
 Of environmental agents.
 
-<div class="example-list">
+<div class="exampleList">
 
 1. Hand washing:
   1. employer needs to adjust budgets for purchasing soal, towels, etc
@@ -44,7 +44,7 @@ Of environmental agents.
 
 Of target individual and of environmental agents.
 
-<div class="example-list">
+<div class="exampleList">
 
 1. target individual, hand washing: expectations re: effectivenes of hand washing; degree to which hand washing is automated; etc
 
@@ -62,7 +62,7 @@ coronavirus: besmet willen worden omdat je dan weer kunt werken, of omdat over 2
 
 Out of the long list of potentially important stuff, decide which you select. If you do not select something, you can either defer (retain for potential later intervention) or forgo (eliminate, e.g. because it's irrelevant).
 
-<div class="example-list">
+<div class="exampleList">
 
 selection based on how important stuff is for the behavior (relevance; iusuall =y correlational evidence) and how easy it is to change somehting (sadly usually anecdotal evidence; sometimes fofr detemrinants meta analyses or sysrevs)
 
@@ -72,7 +72,7 @@ selection based on how important stuff is for the behavior (relevance; iusuall =
 
 Reformulate sub-determinants as change objectives
 
-<div class="example-list">
+<div class="exampleList">
 
 Je pakt de sub-determinanten (die je selecteerde, dus) en herformuleert ze als COs volgens IM richtlijnen.
 
