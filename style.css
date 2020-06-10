@@ -15,19 +15,22 @@ pre code {
 
 .taskList {
   border:1px solid black;
-  background-color: #dddddd;
+  background-color: #ddffdd;
   margin: 20px;
+  padding: 5px;
 }
 
 .exampleList {
   border:1px dashed blue;
   background-color: #ddddff;
   margin: 20px;
+  padding: 5px;
 }
 
 .produceSomething {
   border:1px dashed red;
   background-color: #ffdddd;
   margin: 20px;
+  padding: 5px;
 }
 
