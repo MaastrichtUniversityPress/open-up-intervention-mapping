@@ -1,12 +1,5 @@
 # Friday {#friday}
 
-
-| Time   | Content             | Teaching form    | Teacher            |                 
-| ------ | ------------------- | ---------------- | ------------------ |
-| 9-11h  | <a href="## Presentations and final feedback"> **Presentations and final feedback** </a> | Plenary session | All teachers |
-| [< 18h](#finalize-presentations) | **Finalize presentations**|  |
-
-
 ## Presentations and final feedback
 
 ●	Give a PowerPoint presentation
