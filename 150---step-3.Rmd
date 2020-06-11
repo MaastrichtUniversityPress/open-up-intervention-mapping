@@ -1,4 +1,4 @@
-#Step 3
+# Step 3
 
 
 ![Program Design](img/programdesign.png)
