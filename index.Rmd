@@ -15,7 +15,7 @@ description: "The general aim of the workshop is to practice the steps of the in
 
 This book lives at https://im-wb.com. It is Open Access and is freely available under the [Creative Commons CC-BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-![CC-BY-NC-SA](img/by-nc-sa.eu.svg)
+![CC-BY-NC-SA](img/by-nc-sa.eu.png)
 
 ## Aim of the workshop
 
