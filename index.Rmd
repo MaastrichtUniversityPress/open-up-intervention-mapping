@@ -48,3 +48,19 @@ For the third year in a row, we are happy to welcome Dr Gjalt-Jorn Peters (PhD P
 
 He owns a behavior change research and intervention development company called [“Greater Good”](https://greatergood.eu/). With Greater Good, he develops online tools, for instance to help people to develop theory- and evidence-based behavior change interventions. He mainly investigates methods for behavior change, determinants of recreational substance use, smoking, and 'partying safely'. Do take a look at [his page on effective behavior change](https://effectivebehaviorchange.com).
 
+## Core processes
+
+In Intervention Mapping, questions are answered using the core processes. These processes are a systematic approach to obtaining answers that are theory- and evidence based, and allow balancing pragmatic considerations such as resource availability (time, funding) with optimizing answer quality and scientific integrity. These are explained in Chapter 1 of the Intervention Mapping book. The Core Processes are:
+
+1. Pose the question(s).
+2. Brainstorm potential answers to establish what the planning group already knows and draft a provisional list of answers.
+3. Review the scientific literature for answers based on empirical evidence and/or theory.
+4. Review applicable theories to expand the potential answers.
+5. Assess whether new data are needed, and if so, collect and process these.
+6. Develop a semi-definite list of answers.
+
+Note that like most aspects of IM, application of the core processes is iterative; therefore, the semi-definite list produced in the sixth phase can always be revised.
+
+In this course, there is no time to comprehensively apply these core processes. Therefore, instead, you will mostly just brainstorm potential answers. You can supplement the brainstorm with the literature that is provided and with quick internet searches, but make sure to not spend too much on obtaining the best answers.
+
+It is important that you understand which choices you have to make and how you can justify those choices. The quality of the evidence and theory you use is crucial in real life, but not important in this course.

@@ -61,15 +61,15 @@ Brainstorm about the topic: what do you all already know about the problem? When
 
 </div>
 
+![Logic model of the problem, see book p. 227.](img/LogicModel.png)
+
 ## Task: Planning group
 
 To ensure that you comprehensively define your problem, IM starts with a _planning group_, the first task of which is to gather data from multiple sources about the problem and its background. This is to better understand all the facets of the problem, and to estimate the feasibility of possible interventions. Usually this will be a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, mostly your target group (or their parents for instance when you want to target behavior in children) and individuals with the relevant expertise. Here, your little group is the planning group, but we also want you to think of who would need to be in the planning group.
 
 ### Brainstorm
 
-Who would you ask for your planning group?
-
-To help answer this question, brainstorm about questions such as:
+Who would you ask for your planning group? To help answer this question, brainstorm about questions such as:
  
 <div class="greenBox">
  
@@ -87,10 +87,6 @@ To help answer this question, brainstorm about questions such as:
 
 </div>
 
-
-
-
-
 ## Task: Stating program goals 
 
 * Brainstorm the key determinants of the behavioral and environmental conditions (WHY does the at-risk group behave this way? WHY do the environmental agents maintain or exacerbate unhealthy conditions?) 
@@ -104,8 +100,6 @@ To help answer this question, brainstorm about questions such as:
   * Prioritize on the basis of the needs assessment (see p. 254)  
   * Decide what behaviors or environmental conditions are most relevant and most likely to change  
   * State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.  
-
-![Logic model of the problem, see book p. 227.](img/LogicModel.png)
 
 <div class="produceSomething">
 List the program goals.
