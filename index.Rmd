@@ -15,22 +15,25 @@ description: "The general aim of the workshop is to practice the steps of the in
 
 This book lives at https://im-wb.com. It is Open Access and is freely available under the [Creative Commons CC-BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-![CC-BY-NC-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.eu.svg)
+![CC-BY-NC-SA](img/by-nc-sa.eu.svg)
 
 ## Aim of the workshop
 
-The general aim of the workshop is to practice the steps of the intervention mapping protocol in groups. The structure of the workshop is guided by the IM protocol, as described in the book PLANNING HEALTH PROMOTION PROGRAMS by Bartholomew et al (2016). Below, a detailed outline is presented of working with the Intervention Mapping protocol. For each step of the protocol specific tasks are formulated. 
+The general aim of the workshop is to practice the steps of the intervention mapping protocol in groups. The structure of the workshop is guided by the IM protocol, as described in the book PLANNING HEALTH PROMOTION PROGRAMS by Bartholomew et al (2016). Below, a detailed outline is presented of working with the Intervention Mapping protocol. For each step of the protocol, specific tasks are formulated.
 
-### Oral presentations
+### Group Work
 
-You are performing the tasks in little groups. While working on the tasks, you make notes, and Powerpoint slides of the progress that is made by your group. You present these in the plenary sessions to receive feedback from the IM experts.
+You are performing the tasks in workgroups.
 
-By Friday, your group will have gone through all the steps, and you will present a pptx presentation of the IM steps you have taken, ending up in your intervention, the possible ways the intervention should be designed and implemented and you provide the necessary theoretical background. You will receive expert feedback on the results of your intervention mapping and will have time to process that feedback to improve the plans. The final pptx slides must be handed in at the end of the workshop week (deadline Friday 6PM). 
+To collaborate on the exercises in this book, a main document is available as a Google Doc word processor document. Either your course instructors have prepared a version for your group, in which case they will provide the link in your electronic learning environment, or you can copy the [standard read-only version that is available here](https://docs.google.com/document/d/1U5eHyZNc-mCUv1YziEZGyYpaPlcGjiUXwcQ5SYE_Ji4). In addition to providing a structure for the answers you will produce in this course, the main document will also link to a number of Google Sheets that you will use.
+
+From the main document and the associated spreadsheets, you will make selections of the most important progress points, decisions, justifications, and issues. You will regularly present these in the plenary sessions so that you can receive feedback from an IM expert. Whereas the main document is highly structured, following the structure of this book, it is up to you to decide what to present and how. We recommend using Google Slides to enable smooth synchronous collaboration, but if you prefer, you can also use other applications such as Mcrosoft PowerPoint, Apple Keynote, or Prezi.
+
+By Friday, your group will have gone through all the steps, and you will have prepared a full main document as well as a full presentation of the most important points. You will present this final product on Friday, and you will receive one more round of expert feedback on the results of your intervention mapping and will have time to process that feedback to improve the plans. The final set of documents (the presentation, the main document, and the associated spreadsheets) must be handed in at the end of the workshop week (deadline Friday 18:00 CEST).
 
 ### Grade
 
-The Friday presentation will be evaluated as a group product. Team members will thus get the same grades. The presentation and final pptx slides count for 20% of your final course mark. The presentation will be evaluated by prof dr Rob Ruiter, dr GJ Peters and dr Nicole Oei. 
-Submit the presentation as pdf file and send it to the following email address: N.Y.L.Oei@uva.nl.
+The Friday presentation will be evaluated as a group product. Team members will thus get the same grades. The presentation and final pptx slides count for 20% of your final course mark. The presentation will be evaluated by prof dr Rob Ruiter, dr GJ Peters and dr Nicole Oei. Submit the presentation as pdf file and send it to the following email address: N.Y.L.Oei@uva.nl.
 
 ## Your Guest Lecturers
 
