@@ -4,6 +4,47 @@
 
 Given the nature of this Master, always keep the developmental phase of target group in mind; an intervention can be different for individuals of –for instance- different ethnicity, gender, SES, but also for children, adolescents, adolescents with a mild intellectual disability, students, professionals, or the elderly. 
 
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+
+## Task: Planning group
+
+To ensure that you comprehensively define your problem, IM starts with a _planning group_, the first task of which is to gather data from multiple sources about the problem and its background. This is to better understand all the facets of the problem, and to estimate the feasibility of possible interventions. Usually this will be a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, mostly your target group (or their parents for instance when you want to target behavior in children) and individuals with the relevant expertise. Here, your little group is the planning group, but we also want you to think of who would need to be in the planning group.
+
+### Core Processes
+
+Who would you ask for your planning group? To help answer this question, brainstorm about questions such as:
+ 
+<div class="coreProcesses">
+ 
+- Who represents your target population? (e.g. members of the at-risk group are important participants in a planning group)
+- Who are possible environmental agents (e.g. decision makers)?
+- Who are the potential program implementers (e.g. the professionals who are going to implement your program)?
+
+</div>
+
+### Examples
+
+<div class="exampleList">
+
+- dggdgd
+- dgdgg
+
+</div>
+
+### Product
+
+<div class="produceSomething">
+
+- List the important groups of stakeholders and other populations, groups, and experts that should be included in your planning group.
+
+</div>
+
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+
 ## Task: Conduct a needs assessment to create a logic model of the problem
 
 Step 1 should lead to answers to a series of questions helping in producing a **logic model of the problem**: 
@@ -20,30 +61,22 @@ Remember that in this course, instead of applying the core processes as they are
 
 <div class="coreProcesses">
 
-* What is the central problem?   
-* Why is it a problem? Is it a serious problem?  
-* In what sense is it related to health? Who’s health?  
-* For whom is it a problem (target groups; stakeholders)?   
-* Which age-group (or more specific group) do you target?  
-* What behaviors are related to the problem, or cause the problem?   
-* What are the environmental conditions or conditions that are related to the problem?
-* Who are the environmental agents who can control the environmental conditions, and what do they need to do to change those conditions?
-* What are the determinants or correlates of the behaviors involved, both for the target population, and for the environmental agents?
-* Whose cooperation is necessary to help solve the problem? 
-* Describe the context: How does the environment directly or indirectly contribute to the problem?  
-* What are the behaviors of the at-risk group?
-* What environmental conditions contribute to the problem (at the interpersonal, organizational, communal and societal level)?
-* What would be the best intervention setting?
-* Who is the at-risk group?
-* Who is the target group (can be the same as the at-risk group)?
-
-</div>
-
-### Product
-
-<div class="produceSomething">
-
-* Produce the logic model of the problem.
+- What is the central problem?   
+- Why is it a problem? Is it a serious problem?  
+- In what sense is it related to health? Who’s health?  
+- For whom is it a problem (target groups; stakeholders)?   
+- Which age-group (or more specific group) do you target?  
+- What behaviors are related to the problem, or cause the problem?   
+- What are the environmental conditions or conditions that are related to the problem?
+- Who are the environmental agents who can control the environmental conditions, and what do they need to do to change those conditions?
+- What are the determinants or correlates of the behaviors involved, both for the target population, and for the environmental agents?
+- Whose cooperation is necessary to help solve the problem? 
+- Describe the context: How does the environment directly or indirectly contribute to the problem?  
+- What are the behaviors of the at-risk group?
+- What environmental conditions contribute to the problem (at the interpersonal, organizational, communal and societal level)?
+- What would be the best intervention setting?
+- Who is the at-risk group?
+- Who is the target group (can be the same as the at-risk group)?
 
 </div>
 
@@ -51,33 +84,15 @@ Remember that in this course, instead of applying the core processes as they are
 
 <div class="exampleList">
 
-1. We want to promote social distancing in Amsterdam and we want to target the older population
+1. We want to promote social distancing in Amsterdam and we want to target the older population.
     1. Behavior at risk group = They do not always keep the proper distance when in the streets 
-    2. Target group = 60+ years old citizen
-    3. Environmental conditions = the sidewalks are not wide enough
-    4. Environmental agents = the municipality
-    5. ...
-2. We blabla
-    1. fsf
-    2. sggssg
-
-</div>
-
-![Logic model of the problem, see book p. 227.](img/LogicModel.png)
-
-## Task: Planning group
-
-To ensure that you comprehensively define your problem, IM starts with a _planning group_, the first task of which is to gather data from multiple sources about the problem and its background. This is to better understand all the facets of the problem, and to estimate the feasibility of possible interventions. Usually this will be a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, mostly your target group (or their parents for instance when you want to target behavior in children) and individuals with the relevant expertise. Here, your little group is the planning group, but we also want you to think of who would need to be in the planning group.
-
-### Core Processes
-
-Who would you ask for your planning group? To help answer this question, brainstorm about questions such as:
- 
-<div class="coreProcesses">
- 
-* Who represents your target population? (e.g. members of the at-risk group are important participants in a planning group)
-* Who are possible environmental agents (e.g. decision makers)?
-* Who are the potential program implementers (e.g. the professionals who are going to implement your program)?
+    2. At-risk group = 60+ years old citizen
+    3. Target group = 60+ years old citizen
+    4. Environmental conditions = the sidewalks are not wide enough
+    5. Environmental agents = the municipality
+2. We want primary school children to exercise more frequently.
+    1. Behavior at risk group = 
+    2. etc etc
 
 </div>
 
@@ -85,25 +100,44 @@ Who would you ask for your planning group? To help answer this question, brainst
 
 <div class="produceSomething">
 
-* List the important groups of stakeholders and other populations, groups, and experts that should be included in your planning group.
+- List at least four determinants.
+- List at least four environmental conditions.
+- Produce a diagram that visualises the logic model of the problem.
 
 </div>
+
+![Logic model of the problem, see book p. 227.](img/LogicModel.png)
+
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
 
 ## Task: Stating program goals 
 
-* Brainstorm the key determinants of the behavioral and environmental conditions (WHY does the at-risk group behave this way? WHY do the environmental agents maintain or exacerbate unhealthy conditions?) 
+Determine your program goals. You prioritize the potential goals on the basis of the needs assessment (see p. 254). This includes deciding what behaviors or environmental conditions are most relevant and most likely to change. State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.
 
-  * Make a list of at least 4 key (personal) determinants of behavior  
-  * Make a list of at least 4 key (personal) determinants of environmental condition & agent  
-  * Show your logic model of the problem in a figure     
+### Core Processes
 
-* Determine your program goals  
-  
-  * Prioritize on the basis of the needs assessment (see p. 254)  
-  * Decide what behaviors or environmental conditions are most relevant and most likely to change  
-  * State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.  
+<div class="coreProcesses">
 
-<div class="produceSomething">
-* List the program goals.
+- dgdsgsdgs
+- agsggsags
+
 </div>
 
+### Examples
+
+<div class="exampleList">
+
+- The goal is to ...
+- The goal is to ...
+
+</div>
+
+### Product
+
+<div class="produceSomething">
+
+- List the program goals.
+
+</div>
