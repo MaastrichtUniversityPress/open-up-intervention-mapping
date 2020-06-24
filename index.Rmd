@@ -13,7 +13,9 @@ description: "The general aim of the workshop is to practice the steps of the in
 
 # Introduction {-}
 
-This book lives at https://intervention-mapping.gitlab.io/uva-im.
+This book lives at https://im-wb.com. It is Open Access and is freely available under the [Creative Commons CC-BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![CC-BY-NC-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.eu.svg)
 
 ## Aim of the workshop
 

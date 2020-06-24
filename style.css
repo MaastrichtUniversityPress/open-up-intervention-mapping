@@ -34,7 +34,7 @@ pre code {
   padding: 5px;
 }
 
-.coreProcesses ul, .exampleList ul, .produceSomething ul {
-  margin-bottom: 0px;
+.coreProcesses .book .book-body .page-wrapper .page-inner section.normal ul, .exampleList .book .book-body .page-wrapper .page-inner section.normal ul, .book .book-body .page-wrapper .page-inner section.normal .produceSomething ul {
+  margin-bottom: 0;
 }
 
