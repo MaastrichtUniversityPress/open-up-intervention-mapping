@@ -28,8 +28,9 @@ Who would you ask for your planning group? To help answer this question, brainst
 
 <div class="exampleList">
 
-- dggdgd
-- dgdgg
+- example of members of the at-risk group are important participants in a planning group
+- exmaple of decision makers
+- example oif implementers
 
 </div>
 
