@@ -34,8 +34,11 @@ pre code {
   padding: 5px;
 }
 
-.produceSomething li:before {
+.produceSomething ul {
   list-style-type: none;
+}
+
+.produceSomething li:before {
   content: '✔️'; margin-left: -10px; margin-right: 10px;
 }
 
