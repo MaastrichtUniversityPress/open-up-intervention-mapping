@@ -64,12 +64,9 @@ When we say 'brainstorm', we mean that you have to try to address all aspects of
 * Who represents your target population? (e.g. members of the at-risk group are important participants in a planning group)
 * Who are possible environmental agents (e.g. decision makers)?
 * Who are the potential program implementers (e.g. the professionals who are going to implement your program)?
-
+* Produce the logic model of the problem
 </div>
 
-<div class="produceSomething">
-Produce the logic model of the problem
-</div>
 
 
 ## Task: Stating program goals 
