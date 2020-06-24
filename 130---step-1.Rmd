@@ -123,6 +123,7 @@ State in one sentence the expected change of your intervention and its time fram
 
 <div class="coreProcesses">
 
+- Which specific target group do we choose? 
 - How much behavior change can we expect from our target group? 
 - How quickly (or in what timeframe) would it be possible to reach our goals? Is this very likely?
 - Are effects on health outcomes quantifiable within the time frame or should we choose a certain behavior or environment?
@@ -133,8 +134,10 @@ State in one sentence the expected change of your intervention and its time fram
 
 <div class="exampleList">
 
-- The goal is to increase social distancing by 50% on the sidewalk in the Kalverstraat in Amsterdam within 2 weeks.
-- The goal is to increase physical activity in children between 6 and 12 by 30% and to decrease weight in the overweight children by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord.
+1) Reaching the 60+ population is more difficult, and they are physically slower, so although they are the at-risk group,we now choose the younger adults as target group. To do this in the entire city is not feasible, so we focus at one busy street. To set our goals too far in the future, would be useless, so we want fast implementation and fast results. The program goal would therefore be *to increase social distancing of adults under 30 by 50% on the sidewalk in the Kalverstraat in Amsterdam within 2 weeks.*
+2) The program goals are 
+* a. to increase physical activity in children between 6 and 10 by 30% and to decrease weight in the overweight children by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord. 
+* b. to decrease weight in the overweight children children between 6 and 10 by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord.
 
 </div>
 
