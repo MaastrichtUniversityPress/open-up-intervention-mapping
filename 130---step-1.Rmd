@@ -125,9 +125,8 @@ State in one sentence the expected change of your intervention and its time fram
 
 - Which specific target group do we choose? 
 - How much behavior change can we expect from our target group? 
-- How quickly (or in what timeframe) would it be possible to reach our goals? Is this very likely?
-- Are effects on health outcomes quantifiable within the time frame or should we choose a certain behavior or environment?
-
+- How quickly (or in what timeframe) would it be possible to reach that goal? Is this very likely?
+- Are effects on relevant health outcomes quantifiable within the chosen relevant and realistic time frame or should we choose a certain behavior or environment?
 </div>
 
 ### Examples
@@ -138,6 +137,7 @@ State in one sentence the expected change of your intervention and its time fram
 2) The program goals are 
 * a. to increase physical activity in children between 6 and 10 by 30% and to decrease weight in the overweight children by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord. 
 * b. to decrease weight in the overweight children children between 6 and 10 by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord.
+Here we could have the parents as target group (we need them to bring the children to the extracurricular gymnastic classes) and the head of schools in Amsterdam-Noord (who need to implement our intervention program at their school).
 
 </div>
 
@@ -145,6 +145,6 @@ State in one sentence the expected change of your intervention and its time fram
 
 <div class="produceSomething">
 
-- List the program goals.
+- List the program goal. 
 
 </div>
