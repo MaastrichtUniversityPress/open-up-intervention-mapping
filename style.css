@@ -32,9 +32,14 @@ pre code {
   background-color: #ffdddd;
   margin: 20px;
   padding: 5px;
+  list-style-type: none;
 }
 
-.coreProcesses .book .book-body .page-wrapper .page-inner section.normal ul, .exampleList .book .book-body .page-wrapper .page-inner section.normal ul, .book .book-body .page-wrapper .page-inner section.normal .produceSomething ul {
+.produceSomething li:before {
+  content: '✔️'; margin-left: -20px; margin-right: 10px;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal .coreProcesses ul, .book .book-body .page-wrapper .page-inner section.normal .exampleList ul, .book .book-body .page-wrapper .page-inner section.normal .produceSomething ul {
   margin-bottom: 0;
 }
 
