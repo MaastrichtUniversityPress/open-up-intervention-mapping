@@ -18,9 +18,9 @@ Given the nature of this Master, always keep the developmental phase of target g
    * Brainstorm about the topic: what do you all already know about the problem?   
    * Use some efficient internet searches to get an idea of all aspects of the chosen problem 
 
-When we say 'brainstorm', we mean that you have to try to address all aspects of the problem. Usually, you ask 'what-where-why-who-for whom' questions to get to the bottom of the problem. We help you out for your first 'brainstorm' with the following questions you should address. Make notes in your google doc of the answers:
+When we say 'brainstorm', we mean that you have to try to address all aspects of the problem. Usually, you ask 'what-where-why-who-for whom' questions to get to the bottom of the problem. We help you out for your first 'brainstorm' with the following questions you can ask yourselves to get started.
 
-<div class="taskList">
+<div class="greenBox">
 
 * What is the central problem?   
 * Why is it a problem? Is it a serious problem?  
@@ -58,7 +58,7 @@ When we say 'brainstorm', we mean that you have to try to address all aspects of
 
 * Who would you ask for your planning group?  
  
- <div class="taskList">
+ <div class="greenBox">
  
 * Who represents your target population? (e.g. members of the at-risk group are important participants in a planning group)
 * Who are possible environmental agents (e.g. decision makers)?
