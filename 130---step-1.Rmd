@@ -44,7 +44,7 @@ When we say 'brainstorm', we mean that you have to try to address all aspects of
 
 <div class="exampleList">
 
-1. In an intervention to promote social distancing in Amsterdam, we want to target the older population
+1. We want to promote social distancing in Amsterdam and we want to target the older population
   1. Behavior at risk group = They do not always keep the proper distance when in the streets 
   2. Target group = 60+ years old citizen
   3. Environmental conditions = the sidewalks are not wide enough
