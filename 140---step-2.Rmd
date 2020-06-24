@@ -2,9 +2,9 @@
 
 ## Identify sub-behaviors / performance objectives
 
-To identify the performance objectives for health promoting behaviors, ask yourself the following question: "What do the people have to do to perform the health-related behavior?" For example, when you like to promote condom use (health promoting behavior), you want people to plan condom use; therefore one has to obtain condoms in order to use them. 
+To identify the performance objectives for health promoting behaviors, ask yourself the following question: "What do the people *have to do* to perform the health-related behavior?" 
 
-Formulate performance objectives in a way that makes them measurable and that describes action. A major mistake is to formulate performance objectives as determinants: "X should be able to do Y". That is not a performance objective; a performance objective should be: "X does Y".
+Formulate performance objectives in a way that makes them measurable and that describes action. Do not formulate performance objectives as determinants: "X should be able to do Y". That is not a performance objective; a performance objective should be: "X does Y".
 
 <div class="produceSomething">
 
@@ -21,16 +21,20 @@ For example, when the target behavior is "hand washing", valid sub-behaviors / p
 3. Clean throughly
 4. Use paper towel
 
-And when ..., ...
+For example, when you like to promote condom use (health promoting behavior), you want people to plan condom use.
 
-1. gddg
-2. dgd
+1. Buy condoms.
+2. Use condoms. 
+
 
 </div>
 
 ## Identify environmental conditions and environmental agents
 
 <div class="produceSomething">
+
+To find out the performance objectives for the environmental conditions, ask yourself the following question:
+"What does the environmental agent *need to do* to accomplish the changes in environmental condition?"
 
 - List all potentially relevant environmental conditions.
 - For each environmental condition, list the corresponding environmental agent(s).
@@ -42,15 +46,15 @@ And when ..., ...
 
 Target behavior: handwashing
 
-- Soap needs to be there
-- Employer controls this
-- Employer is at organisational level
+- Employer provides soap (employer is at organisational level)
+- Soap is available in every bathroom at work
+
 
 Target behavior: condom use in gay sauna
+What does the sauna owner *need to do* to accomplish the changes in sauan?
+- Sauna owner buys condoms (organisational level)
+- sauna owner provides condoms to customers (organisational level)
 
-- gotta have condoms, lube, etc
-- sauna owner
-- organisational
 
 </div>
 
@@ -61,7 +65,7 @@ To find out the performance objectives for environmental conditions, ask yoursel
 <div class="exampleList">
 
 1. Hand washing:
-    1. employer needs to adjust budgets for purchasing soal, towels, etc
+    1. employer needs to adjust budgets for purchasing soap, towels, etc
     2. employer needs to task somebody with ensuring full soap dispensers
 
 </div>
