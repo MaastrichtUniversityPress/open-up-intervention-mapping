@@ -90,6 +90,7 @@ To help answer this question, brainstorm about questions such as:
 
 
 
+
 ## Task: Stating program goals 
 
 * Brainstorm the key determinants of the behavioral and environmental conditions (WHY does the at-risk group behave this way? WHY do the environmental agents maintain or exacerbate unhealthy conditions?) 
