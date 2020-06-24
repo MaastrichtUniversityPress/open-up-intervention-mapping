@@ -115,14 +115,17 @@ Remember that in this course, instead of applying the core processes as they are
 
 ## Task: Stating program goals 
 
-Determine your program goals. You prioritize the potential goals on the basis of the needs assessment (see p. 254). This includes deciding what behaviors or environmental conditions are most relevant and most likely to change. State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.
+Determine your program goals. You prioritize the potential goals on the basis of the needs assessment (see p. 254). This includes deciding what behaviors or environmental conditions are _most relevant_ and _most likely to change_. 
+
+State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.
 
 ### Core Processes
 
 <div class="coreProcesses">
 
-- dgdsgsdgs
-- agsggsags
+- How much behavior change can we expect from our target group? 
+- How quickly (or in what timeframe) would it be possible to reach our goals? Is this very likely?
+- Are effects on health outcomes quantifiable within the time frame or should we choose a certain behavior or environment?
 
 </div>
 
@@ -130,8 +133,8 @@ Determine your program goals. You prioritize the potential goals on the basis of
 
 <div class="exampleList">
 
-- The goal is to ...
-- The goal is to ...
+- The goal is to increase social distancing by 50% on the sidewalk in the Kalverstraat in Amsterdam within 2 weeks.
+- The goal is to increase physical activity in children between 6 and 12 by 30% and to decrease weight in the overweight children by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord.
 
 </div>
 
