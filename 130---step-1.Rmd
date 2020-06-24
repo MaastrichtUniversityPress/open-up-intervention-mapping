@@ -17,7 +17,6 @@ Given the nature of this Master, always keep the developmental phase of target g
 
    * Brainstorm about the topic: what do you all already know about the problem?   
    * Use some efficient internet searches to get an idea of all aspects of the chosen problem 
-   * **Please, make slides of each task, so that you can receive feedback from Rob Ruiter**
 
 When we say 'brainstorm', we mean that you have to try to address all aspects of the problem. Usually, you ask 'what-where-why-who-for whom' questions to get to the bottom of the problem. We help you out for your first 'brainstorm' with the following questions you should address. Make notes in your google doc of the answers:
 
