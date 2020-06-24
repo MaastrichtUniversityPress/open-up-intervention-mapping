@@ -14,9 +14,11 @@ To answer these questions, IM begins with an analysis of community needs and cap
 
 Brainstorm about the topic: what do you all already know about the problem? When we say 'brainstorm', we mean that you have to try to address all aspects of the problem. Usually, you ask 'what-where-why-who-for whom' questions to get to the bottom of the problem. We help you out for your first 'brainstorm'. In the box below, we listed a series of questions you can ask yourselves to get started. During your brainstorm, you can use some internet searches to get an idea of all aspects of the chosen problem.
 
-### Brainstorm
+### Core Processes
 
-<div class="greenBox">
+Remember that in this course, instead of applying the core processes as they are defined in Intervention Mapping, you should stick to brainstorming, supplemented by the provided literature and quick internet searches (see section \@ref{core-processes}).
+
+<div class="coreProcesses">
 
 * What is the central problem?   
 * Why is it a problem? Is it a serious problem?  
@@ -67,11 +69,11 @@ Brainstorm about the topic: what do you all already know about the problem? When
 
 To ensure that you comprehensively define your problem, IM starts with a _planning group_, the first task of which is to gather data from multiple sources about the problem and its background. This is to better understand all the facets of the problem, and to estimate the feasibility of possible interventions. Usually this will be a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, mostly your target group (or their parents for instance when you want to target behavior in children) and individuals with the relevant expertise. Here, your little group is the planning group, but we also want you to think of who would need to be in the planning group.
 
-### Brainstorm
+### Core Processes
 
 Who would you ask for your planning group? To help answer this question, brainstorm about questions such as:
  
-<div class="greenBox">
+<div class="coreProcesses">
  
 * Who represents your target population? (e.g. members of the at-risk group are important participants in a planning group)
 * Who are possible environmental agents (e.g. decision makers)?
@@ -102,6 +104,6 @@ Who would you ask for your planning group? To help answer this question, brainst
   * State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.  
 
 <div class="produceSomething">
-List the program goals.
+* List the program goals.
 </div>
 

@@ -1,11 +1,11 @@
 --- 
-title: "Intervention Mapping Workbook"
+title: "UvA Intervention Mapping Workbook"
 author: "Nicole, GJ & Rob"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-bibliography: [bibliography.bib]
+bibliography: [IMuva.bib]
 biblio-style: apalike
 link-citations: yes
 description: "The general aim of the workshop is to practice the steps of the intervention mapping protocol in groups. The structure of the workshop is guided by the IM protocol, as described in the book PLANNING HEALTH PROMOTION PROGRAMS by Bartholomew et al (2016). Below, a detailed outline is presented of working with the Intervention Mapping protocol. For each step of the protocol specific tasks are formulated."
@@ -13,7 +13,7 @@ description: "The general aim of the workshop is to practice the steps of the in
 
 # Introduction {-}
 
-This book lives at https://intervention-mapping.gitlab.io/uva-im
+This book lives at https://intervention-mapping.gitlab.io/uva-im.
 
 ## Aim of the workshop
 
@@ -48,7 +48,7 @@ For the third year in a row, we are happy to welcome Dr Gjalt-Jorn Peters (PhD P
 
 He owns a behavior change research and intervention development company called [“Greater Good”](https://greatergood.eu/). With Greater Good, he develops online tools, for instance to help people to develop theory- and evidence-based behavior change interventions. He mainly investigates methods for behavior change, determinants of recreational substance use, smoking, and 'partying safely'. Do take a look at [his page on effective behavior change](https://effectivebehaviorchange.com).
 
-## Core processes
+## Core processes {#core-processes}
 
 In Intervention Mapping, questions are answered using the core processes. These processes are a systematic approach to obtaining answers that are theory- and evidence based, and allow balancing pragmatic considerations such as resource availability (time, funding) with optimizing answer quality and scientific integrity. These are explained in Chapter 1 of the Intervention Mapping book. The Core Processes are:
 

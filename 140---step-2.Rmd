@@ -139,7 +139,7 @@ Figure: Logic Model of Change (Bartholomew et al., 2016, p. 285)
 
 **What are the desired changes in behavior and the environment?**
 
-<div class="greenBox">
+<div class="coreProcesses">
 
 - Make a list of at least 4 key health promoting behavioral outcomes of the target group
 
