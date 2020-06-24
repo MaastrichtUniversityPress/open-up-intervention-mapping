@@ -27,10 +27,12 @@ Who would you ask for your planning group? To help answer this question, brainst
 ### Examples
 
 <div class="exampleList">
-
-- example of members of the at-risk group are important participants in a planning group
-- exmaple of decision makers
-- example oif implementers
+We want to increase physical activity in young children, and decrease overweight. 
+- Members of the at-risk group are important participants in a planning group, but here we would ask one or two parents.
+- an example of a decision maker would be the ...
+- The head of schools are important implementers, so we would invite them.
+- Experts in physical exercise and obesity
+- etc
 
 </div>
 
