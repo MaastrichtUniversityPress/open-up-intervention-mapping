@@ -16,7 +16,7 @@ Formulate performance objectives in a way that makes them measurable and that de
 
 For example, when the target behavior is "hand washing", valid sub-behaviors / performance objectives are:
 
-1. Wash hands at leats 20 secs
+1. Wash hands at least 20 secs
 2. Use soap
 3. Clean throughly
 4. Use paper towel
