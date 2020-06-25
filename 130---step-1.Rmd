@@ -10,7 +10,7 @@ Given the nature of this Master, always keep the developmental phase of target g
 
 ## Task: Planning group
 
-To ensure that you comprehensively define your problem, IM starts with a _planning group_, the first task of which is to gather data from multiple sources about the problem and its background. This is to better understand all the facets of the problem, and to estimate the feasibility of possible interventions. Usually this will be a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, mostly your target group (or their parents for instance when you want to target behavior in children) and individuals with the relevant expertise. Here, your little group is the planning group, but we also want you to think of who would need to be in the planning group.
+To ensure that you comprehensively define your problem, IM starts with a _planning group_, the first task of which is to gather data from multiple sources about the problem and its background. This is to better understand all the facets of the problem, and to estimate the feasibility of possible interventions. Usually this will be a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, often this is your target group (or for instance when you want to change behavior in children, your target group will be the parents of the at-risk group) and individuals with the relevant expertise. Here, your little group is the planning group, but we also want you to think of who would need to be in the planning group.
 
 ### Core Processes
 
@@ -27,11 +27,11 @@ Who would you ask for your planning group? To help answer this question, brainst
 ### Examples
 
 <div class="exampleList">
-We want to increase physical activity in young children, and decrease overweight. 
-- Members of the at-risk group are important participants in a planning group, but here we would ask one or two parents.
-- an example of a decision maker would be the ...
-- The head of schools are important implementers, so we would invite them.
-- Experts in physical exercise and obesity
+
+- We want to increase physical activity in young children, and decrease overweight, but the at-risk group is a bit too young for the planning group, so asking parents (possible target group) is an idea.
+- Prevention workers and members of the local health council (decision maker)
+- The head of schools (implementers)
+- Experts in physical exercise and obesity in children
 - etc
 
 </div>
