@@ -2,7 +2,12 @@
 
 **Step 1 - Background**: Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents.
 
-Given the nature of this Master, always keep the developmental phase of target group in mind; an intervention can be different for individuals of –for instance- different ethnicity, gender, SES, but also for children, adolescents, adolescents with a mild intellectual disability, students, professionals, or the elderly. 
+Color of the boxes in the workbook:
+
+- Green box: Brainstorm
+- Blue/purple box: Examples 
+- Red box: Product that should be done in the main google doc/google sheet/presentation. 
+
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
