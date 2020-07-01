@@ -92,15 +92,19 @@ Remember that in this course, instead of applying the core processes as they are
 
 <div class="exampleList">
 
-1. We want to promote social distancing in Amsterdam and we want to target the older population.
-    1. Behavior at risk group = They do not always keep the proper distance when in the streets 
-    2. At-risk group = 60+ years old citizen
+Example: We want to promote social distancing in Amsterdam and we want to target the older population.
+    1. At-risk group = 60+ years old citizen
+    2. Behavior at risk group = They do not always keep the proper distance when in the streets 
     3. Target group = 60+ years old citizen
     4. Environmental conditions = the sidewalks are not wide enough
     5. Environmental agents = the municipality
-2. We want primary school children to exercise more frequently.
-    1. Behavior at risk group = 
-    2. etc etc
+
+Example: We want primary school children to exercise more frequently.
+    1. At-risk group = primary school children 
+    2. Behavior at risk group = They play videogames all afternoon. 
+    3. Target group = parents
+    4. Environmental conditions = no possibility to play outside
+    5. Environmental agents = heads of schools 
 
 </div>
 
