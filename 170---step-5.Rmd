@@ -1,17 +1,18 @@
 # Step 5 {#step5}
 
-## Presentations and final feedback
+## Planning program adoption and implementation 
 
-●	Give a PowerPoint presentation
-  - Each (group) presentation should have a duration of ± 20 minutes  
-  - The structure of the presentation should follow the steps of the intervention mapping protocol and should include a summary of tasks of IM steps 1-5  
-  - Give constructive feedback to your fellow students
+●	     See Chapter 8 of the book on step 5.
 
-
-## Finalize presentations {#finalize-presentations}
-
- - Process the feedback you have been given by prof Rob Ruiter and Dr GJ Peters to improve your slides  
- - Email the improved group presentation saved in PDF-format to N.Y.L.Oei@uva.nl before 18h
+Step 5 is about how to implement the program: Who has to do what to keep the program up and running. You want the program that you have developed to be used widely, you want it to be used the way you intended it to be used and you hope it will be used for quite some time. It is therefore very important that potential program users, or implementers, are actually aware of the existence of the program, are motivated to use it, understand how to use it, etc. Consequently, you will have to repeat all the steps again, but now for the program users (who are now your target group).
+So, identify potential adopters and implementers. 
+Adapt your planningsgroup (re-evaluate who should be in there), etc.
 
 
-
+<div class="exampleList">
+Example:
+Who executes your programme or intervention? 
+●	Our intervention for young overweight children will be adopted by parents and teachers. 
+How will they know that our intervention exists? 
+●	Head of schools should inform them. 
+</div>

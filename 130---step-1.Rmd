@@ -2,7 +2,12 @@
 
 **Step 1 - Background**: Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents.
 
-Given the nature of this Master, always keep the developmental phase of target group in mind; an intervention can be different for individuals of –for instance- different ethnicity, gender, SES, but also for children, adolescents, adolescents with a mild intellectual disability, students, professionals, or the elderly. 
+Color of the boxes in the workbook:
+
+- Green box: Brainstorm
+- Blue/purple box: Examples 
+- Red box: Product that should be done in the main google doc/google sheet/presentation. 
+
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
@@ -10,7 +15,7 @@ Given the nature of this Master, always keep the developmental phase of target g
 
 ## Task: Planning group
 
-To ensure that you comprehensively define your problem, IM starts with a _planning group_, the first task of which is to gather data from multiple sources about the problem and its background. This is to better understand all the facets of the problem, and to estimate the feasibility of possible interventions. Usually this will be a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, mostly your target group (or their parents for instance when you want to target behavior in children) and individuals with the relevant expertise. Here, your little group is the planning group, but we also want you to think of who would need to be in the planning group.
+To ensure that you comprehensively define your problem, IM starts with a _planning group_, the first task of which is to gather data from multiple sources about the problem and its background. This is to better understand all the facets of the problem, and to estimate the feasibility of possible interventions. Usually this will be a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, often this is your target group (or for instance when you want to change behavior in children, your target group will be the parents of the at-risk group) and individuals with the relevant expertise. Here, your little group is the planning group, but we also want you to think of who would need to be in the planning group.
 
 ### Core Processes
 
@@ -28,9 +33,11 @@ Who would you ask for your planning group? To help answer this question, brainst
 
 <div class="exampleList">
 
-- example of members of the at-risk group are important participants in a planning group
-- exmaple of decision makers
-- example oif implementers
+- We want to increase physical activity in young children, and decrease overweight, but the at-risk group is a bit too young for the planning group, so asking parents (possible target group) is an idea.
+- Prevention workers and members of the local health council (decision maker)
+- The head of schools (implementers)
+- Experts in physical exercise and obesity in children
+- etc
 
 </div>
 
@@ -115,7 +122,9 @@ Remember that in this course, instead of applying the core processes as they are
 
 ## Task: Stating program goals 
 
-Determine your program goals. You prioritize the potential goals on the basis of the needs assessment (see p. 254). This includes deciding what behaviors or environmental conditions are most relevant and most likely to change. State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.
+Determine your program goals. You prioritize the potential goals on the basis of the needs assessment (see p. 254). This includes deciding what behaviors or environmental conditions are _most relevant_ and _most likely to change_. 
+
+State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.
 
 Distinguish the following types of goals:
 
@@ -129,17 +138,21 @@ A program always has one or more ultimate goals. The environmental goals and beh
 
 <div class="coreProcesses">
 
-- dgdsgsdgs
-- agsggsags
-
+- Which specific target group do we choose? 
+- How much behavior change can we expect from our target group? 
+- How quickly (or in what timeframe) would it be possible to reach that goal? Is this very likely?
+- Are effects on relevant health outcomes quantifiable within the chosen relevant and realistic time frame or should we choose a certain behavior or environment?
 </div>
 
 ### Examples
 
 <div class="exampleList">
 
-- The goal is to ...
-- The goal is to ...
+1) Reaching the 60+ population is more difficult, and they are physically slower, so although they are the at-risk group,we now choose the younger adults as target group. To do this in the entire city is not feasible, so we focus at one busy street. To set our goals too far in the future, would be useless, so we want fast implementation and fast results. The program goal would therefore be *to increase social distancing of adults under 30 by 50% on the sidewalk in the Kalverstraat in Amsterdam within 2 weeks.*
+2) The program goals are 
+* a. to increase physical activity in children between 6 and 10 by 30% and to decrease weight in the overweight children by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord. 
+* b. to decrease weight in the overweight children children between 6 and 10 by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord.
+Here we could have the parents as target group (we need them to bring the children to the extracurricular gymnastic classes) or the head of schools in Amsterdam-Noord (who need to implement our intervention program at their school).
 
 </div>
 

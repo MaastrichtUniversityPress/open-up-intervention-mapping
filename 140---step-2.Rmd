@@ -44,17 +44,21 @@ A useful guideline is that if all performance objectives, as you formulated them
 
 <div class="exampleList">
 
-For example, when the target behavior is "hand washing", valid sub-behaviors / performance objectives are:
+For example, when the target behavior is "washing hands", valid sub-behaviors / performance objectives are:
 
-1. Wash hands at leats 20 secs
-2. Use soap
-3. Clean throughly
-4. Use paper towel
+1. Use soap
+2. Wash hands at least 20 secs
+3. Clean throughly (also the wrist, and under the nails)
+4. Use paper towel to dry hands
+5. Use paper towel to close the watertap
 
-And when ..., ...
+For example, when you like to promote condom use (health promoting behavior), you want people to plan condom use.
 
-1. gddg
-2. dgd
+1. Know where an at what time condoms can be bought.
+2. Have access to transportation to store where one can buy condoms.
+3. Go to that store and buy condoms.
+2. Use condoms. 
+
 
 </div>
 
@@ -67,25 +71,34 @@ In this section, you merge two lists:
 
 <div class="produceSomething">
 
+
 - List all potentially relevant environmental conditions.
 - For each environmental condition, list the corresponding environmental agent(s).
 - For each agent, list their environmental level (i.e. the interpersonal level, the organizational level, and the community / societal level).
 
 </div>
 
+<div class="coreProcesses">
+
+To find out the performance objectives for the environmental conditions, ask yourself the following question:
+"What does the environmental agent *need to do* to accomplish the changes in environmental condition?"
+
+</div>
+
+
 <div class="exampleList">
 
 Target behavior: handwashing
 
-- Soap needs to be there
-- Employer controls this
-- Employer is at organisational level
+- Employer provides soap (employer is at organisational level)
+- Soap is available in every bathroom at work
+
 
 Target behavior: condom use in gay sauna
+What does the sauna owner *need to do* to accomplish the changes in sauna?
+- Sauna owner buys condoms (organisational level)
+- sauna owner provides condoms to customers (organisational level)
 
-- gotta have condoms, lube, etc
-- sauna owner
-- organisational
 
 </div>
 
