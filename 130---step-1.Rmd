@@ -117,6 +117,14 @@ Remember that in this course, instead of applying the core processes as they are
 
 Determine your program goals. You prioritize the potential goals on the basis of the needs assessment (see p. 254). This includes deciding what behaviors or environmental conditions are most relevant and most likely to change. State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.
 
+Distinguish the following types of goals:
+
+- Ultimate program goals: these typically involve the quality of life or health of a specific population (the at-risk population)
+- Environmental program goals: these are the environmental conditions that you want to change in your program.
+- Behavioral program goals: these are the behaviors of the target population you want to change (note that the target population can be different from the at-risk population)
+
+A program always has one or more ultimate goals. The environmental goals and behavioral goals are means to achieve those ultimate goals, but it is possible a program only has environmental goals, or only behavioral goals.^[Note that in step 2, each environmental goal will be analysed and will result in behavioral goals for the environmental agents that have agency over the relevant environmental conditions.]
+
 ### Core Processes
 
 <div class="coreProcesses">
@@ -137,8 +145,12 @@ Determine your program goals. You prioritize the potential goals on the basis of
 
 ### Product
 
+Although "in real life", it is quite possible to not have any behavioral program goals, when working with this workbook, you *must* select a target population (which can be either the at-risk population or a different population) and a behavioral goal.
+
 <div class="produceSomething">
 
-- List the program goals.
+- List the ultimate program goals.
+- List the environmental program goals, if any.
+- List the behavioral program goals.
 
 </div>

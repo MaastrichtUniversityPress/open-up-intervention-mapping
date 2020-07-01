@@ -1,14 +1,44 @@
 # Step 2
 
+Step 2 starts with "The Flip". In step 1, the focus was on the problem and the corresponding problematic behaviors. However, if you want people to do something differently, you have to be able to recommend a course of action to replace the undesirable behavior.
+
+## The Flip
+
+### List target population
+
+Therefore, you start by deciding on the target population (the population whose behavior your program should change). This can be the at-risk population, but it is also possible that your intervention will work through another population, for example, parents.
+
+Note that it is possible that you did not specify any behavioral program goals in step 1, in which case you also do not directly target a target population.
+
+### Target behavior
+
+Then define the target behavior. This is the desirable behavior of the target population: what should they do, exactly?
+
+Note that it is possible that you did not specify any behavioral program goals in step 1, in which case you also do not have a target behavior to specify here (as you will see below, you will still end up specifying at least one target behavior, just not for the target population).
+
+### List environmental conditions
+
+Then, list the environmental conditions you want to realise. Note that like the target behavior, this should be the desirable state. 
+
+Note that it is possible that you did not specify any environmental program goals in step 1, in which case you also do not yet specify any environmental conditions here (you may still end up specifying environmental conditions below, though).
+
 ## Identify sub-behaviors / performance objectives
 
-To identify the performance objectives for health promoting behaviors, ask yourself the following question: "What do the people have to do to perform the health-related behavior?" For example, when you like to promote condom use (health promoting behavior), you want people to plan condom use; therefore one has to obtain condoms in order to use them. 
+"In real life", if you did not select a target population and target behavior in The Flip, you do not yet select performance objectives here. However, when working with this workbook, you must select a target population and a target behavior. Also note that even if in another situation, you do not select a target population and a target behavior, you will still select performance objectives for your environmental agent(s). The concept is quite central to Intervention Mapping.
 
-Formulate performance objectives in a way that makes them measurable and that describes action. A major mistake is to formulate performance objectives as determinants: "X should be able to do Y". That is not a performance objective; a performance objective should be: "X does Y".
+Target behaviors are often very broadly defined (see the examples below). Therefore, it is important to identify the sub-behaviors that make up the target behaviors. In Intervention Mapping, these sub-behaviors, ultimately being objectives you want to achieve with your intervention, are called Performance Objectives.
+
+To identify the performance objectives for your target behavior, ask yourself the following question: "What do the people have to do to perform this target behavior?" For example, when you like to promote condom use (target behavior), you need people to make sure they obtain condoms in advance; that they carry condoms; and that they use them before engaging in insertive sex.
+
+Formulate performance objectives in a way that includes the target population and that makes them measurable and that describes action, for example in the form of a statement like "[target population] [sub-behavior]", such as "Women recovering from breast cancer register at their local gym".
+
+A major mistake is to formulate performance objectives as determinants, for example, by expressing skills or knowledge. For example, "X should be able to do Y". That statement does not describe the performance of an action; it describes a prerequisite for performance of an action. A performance objective should be: "X does Y".
+
+A useful guideline is that if all performance objectives, as you formulated them, are true, the target behavior should by definition be performed. For example, if the statements "University students consistently carry condoms" and "University students consistently use condoms when engaging in insertive sex" are true, you know that the target behavior "condom use" is achieved. That is, assuming these two performance objectives exhaustively cover the target behavior!
 
 <div class="produceSomething">
 
-- List the performance objectives that comprise each target behavior.
+- List the performance objectives that comprise the target behavior.
 
 </div>
 
@@ -29,6 +59,11 @@ And when ..., ...
 </div>
 
 ## Identify environmental conditions and environmental agents
+
+In this section, you merge two lists:
+
+1. All environmental conditions that you listed in The Flip; and
+2. All environmental conditions for the performance objectives.
 
 <div class="produceSomething">
 
@@ -54,21 +89,63 @@ Target behavior: condom use in gay sauna
 
 </div>
 
-## Identify sub-behaviors / performance objectives
+## Identify environmental agent (sub-)behaviors
 
-To find out the performance objectives for environmental conditions, ask yourself the following question: "What does the environmental agent need to do to accomplish the changes in environmental conditions?" For example, you want to make it easy for people to acquire condoms. Therefore, they should be easily available.
+Environmental agents (the people, groups, or organisations that have the agency to control one or more environmental conditions) control their corresponding environmental conditions through their behavior.
+
+Therefore, to achieve the environmental conditions you aim for, you need to identify what those environmental agents need to do. Like for target populations, this also means identifying the constituent performance objectives (sub-behaviors).
+
+### Target behaviors
+
+Like for target populations (see above), target behaviors for environmental agents are usually very broadly defined. In fact, in many cases, environmental agents will be involved in work you yourself are unfamiliar with, so better specification for the target behaviors is sometimes not straightforward. Fortunately, those broad definitions are acceptable at the target behavior level. 
+
+### Sub-behaviors / performance objectives
+
+Because target behaviors for environmental agents, like target behaviors for target population members, are very broadly defined, intervening on them first requires specification. And like for target populations, the instrument for these specifications is the formulation of sub-behaviors or performance objectives. Therefore, repeat what you did for the target population, but for the environmental agents' target behaviors.
 
 <div class="exampleList">
 
-1. Hand washing:
+1. To realise the environmental condition "hand hygiene resources are available for employees", the environmental agent "employer" has to perform target behavior "make hand hygiene resources available". This target behavior is accomplished through the following performance objectives:
     1. employer needs to adjust budgets for purchasing soal, towels, etc
     2. employer needs to task somebody with ensuring full soap dispensers
+2. dgddg:
+    1. gdg
+    2. gdg
+
+</div>
+
+<div class="produceSomething">
+
+- List the target behavior for each environmental agent
+- List the performance object for each target behavior
 
 </div>
 
 ## Identify determinants and sub-determinants
 
-Of target individual and of environmental agents.
+If you get to this point, you mapped out the more tangible parts of the intervention. You now have a clear idea how you want the world to *look*: how do you think the environment of the important groups in your situation should look, and how should everybody in those groups act (at-risk population, the target population, and/or one or more environmental agents)?
+
+To achieve these more tangible goals, people have to change their behavior. For the at-risk population and the target population, their behavior is directly relevant to your intervention, and for the environmental agents, their behavior is instrumental to achieving the environmental conditions.
+
+People's behavior is a consequence of their environments and their psychology. You have identified the relevant environmental influences and processed them above as environmental conditions, which yielded environmental agents and their behaviors (and potentially, more environmental conditions). That means that at this point, only psychology remains.
+
+There are many theories that explain why people behave like they do. Each theory is designed for a specific purpose: some deal with habitual behavior, some with health behavior, some with reasoned behavior, and some with impulsive behavior. These theories postulate constructs to describe aspects of the human psychology that, according to the relevant theory, contribute to determining behavior. In the context of behavior change, such constructs that are theoretically assumed to predict behavior are called *determinants*.
+
+Such determinants are generally defined at a general level (a bit like target behaviros): examples are attitude, knowledge, habit, perceived norms, self-efficacy, willingness, self-identity, and risk perception. Such general definitions are useful when studying human behavior over a variety of populations and behaviors, but that generic level of definition provides no guidance for intervention development.
+
+In an intervention, you don't target "attitude" or "knowledge": you communicate about specific facts or list specific advantages or disadvantages. Therefore, when developing a behavior change intervention, the most important thing is identifying those more specifically defined sub-determinants.^[Note that it is also crucial to know the corresponding overarching determinants - you will need that information in step 3.] You identify the relevant sub-determinants and determinants for each performance objective in two steps.
+
+### Long-list sub-determinants and determinants
+
+First, you establish a long list, simply including everything that might be important. You normally do this for every performance objective - so for the target behavior of your target population, but also for the target behavior of each environmental agent. However, in this workbook, select only one environmental agent.
+
+### Select, defer, or forgo sub-determinants and determinants
+
+Second, you go through the list and you select those (sub-)determinants and determinants you will retain for your intervention. There are three potential actions at this point:
+
+1. Select a (sub-)determinant: in this case, you will retain this (sub-)determinant for step 3, and it will be targeted in your intervention.
+2. Defer a (sub-)determinant: in this case, you are not confident that this (sub-)determinant is not important (or not changeable), but you lack the resources to (also) target this (sub-)determinant in this intervention. This means you retain it for potential future iterations of your intervention.
+3. Forgo a (sub-)determinant: in this case, you decide that the (sub-)determinant is probably not important for the target behavior; or that it is important, but not feasible changeable with the means you have available or can conceivably secure in the future.
 
 <div class="exampleList">
 
