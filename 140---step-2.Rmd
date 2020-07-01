@@ -1,3 +1,8 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
 # Step 2
 
 Step 2 starts with "The Flip". In step 1, the focus was on the problem and the corresponding problematic behaviors. However, if you want people to do something differently, you have to be able to recommend a course of action to replace the undesirable behavior.
@@ -160,6 +165,14 @@ Second, you go through the list and you select those (sub-)determinants and dete
 2. Defer a (sub-)determinant: in this case, you are not confident that this (sub-)determinant is not important (or not changeable), but you lack the resources to (also) target this (sub-)determinant in this intervention. This means you retain it for potential future iterations of your intervention.
 3. Forgo a (sub-)determinant: in this case, you decide that the (sub-)determinant is probably not important for the target behavior; or that it is important, but not feasible changeable with the means you have available or can conceivably secure in the future.
 
+
+<div class="coreProcesses">
+
+- 
+
+</div>
+
+
 <div class="exampleList">
 
 1. target individual, hand washing: expectations re: effectivenes of hand washing; degree to which hand washing is automated; etc
@@ -174,6 +187,15 @@ coronavirus: besmet willen worden omdat je dan weer kunt werken, of omdat over 2
 
 </div>
 
+
+<div class="produceSomething">
+
+- Create a long list of potential (sub-)determinants
+- Process and long list and select, defer, or forgo each (sub-)determinant
+
+</div>
+
+
 ## Select environmental conditions (and so, agents), and sub-behaviors and sub-determinants
 
 Out of the long list of potentially important stuff, decide which you select. If you do not select something, you can either defer (retain for potential later intervention) or forgo (eliminate, e.g. because it's irrelevant).
@@ -184,15 +206,42 @@ selection based on how important stuff is for the behavior (relevance; iusuall =
 
 </div>
 
+<div class="produceSomething">
+
+- List your decisions regarding environmental conditions and agents
+
+</div>
+
 ## Produce Matrices of Change Objectives
 
-Reformulate sub-determinants as change objectives
+For each target behavior (for the target population and for each environmental agent), produce a Matrix of Change Objectives. A Change Objective is a  sub-determinant that you selected from the long list, reformulated according to specific guidelines. By applying these guidelines, you formulate change objectives according to similar principles as you applied for performance objectives. The idea is that while sub-determinants express a psychological state or process, change objectives are formulated to be measurable ('SMART').
+
+Change Objectives are statements that, when true, mean that the corresponding sub-determinant has been achieved. They use so-called action words are listed in the Intervention Mapping book (4th ed.: Table 5.10, p. 317). Note that (sub-)determinants that you deferred or forwent are *not* included in your Matrix of Change Objectives.
+
+The Matrix of Change Objectives is structured as follows:
+
+1. Each row corresponds to a performance objective;
+2. Each column corresponds to a determinant;
+3. Each cell contains all change objectives for that performance objectives and determinant.
+
+Note that some cells will contain multiple change objectives, and some cells will be empty, because not all determinants are important for all performance objectives.
 
 <div class="exampleList">
 
 Je pakt de sub-determinanten (die je selecteerde, dus) en herformuleert ze als COs volgens IM richtlijnen.
 
 </div>
+
+<div class="produceSomething">
+
+- Produce a matrix of change objectives
+
+</div>
+
+
+
+
+
 
 
 
@@ -216,13 +265,60 @@ Change objectives may refer to
 
 Change Objectives should be  
     
-  * **_Specific_**: Define as specific as possible: e.g., what should change in the target group and/or the environment in order to deal with or reduce the health-related problem. What should change, among whom?  
- * **_Measurable_**: Can you measure the change (objectives)?  
+* **_Specific_**: Define as specific as possible: e.g., what should change in the target group and/or the environment in order to deal with or reduce the health-related problem. What should change, among whom?  
+* **_Measurable_**: Can you measure the change (objectives)?  
 * **_Achievable_**: Are the change objectives you set achievable and attainable?  
 * **_Realistic_**: Can you realistically achieve the objectives with the resources you have?  
 * **_Time_**: Within what period will you achieve your change goals?
 
+```{r logic-model-of-behavior}
+
+### First specify the "target behavior subtree"
+logicModelOfBehavior_targetBehavior <-
+  data.tree::Node$new("Target Behavior");
+
+### Because data.tree uses R6, objects are references,
+### not copies, so use tmpNode to conveniently build
+### a deeper tree
+tmpNode <-
+  logicModelOfBehavior_targetBehavior$
+    AddChild("Performance Objectives /\nsub-behaviors");
+
+tmpNode <-
+  tmpNode$AddChild("Determinants");
+
+tmpNode <-
+  tmpNode$AddChild("Sub-determinants /\nChange Objectives");
+
+### Create logic model of behavior
+logicModelOfBehavior <-
+  data.tree::Node$new("Quality Of Life");
+
+tmpNode_healthOutcomes <-
+  logicModelOfBehavior$AddChild("Health Outcomes");
+
+### Add behavior tree to target population
+### and rename target behavior
+tmpNode_healthOutcomes$AddChildNode(logicModelOfBehavior_targetBehavior$clone());
+tmpNode_healthOutcomes$`Target Behavior`$name <- "At-Risk Population Behavior";
+
+### Store convenient reference to node for
+### environmental condition
+tmpNode <-
+  tmpNode_healthOutcomes$AddChild("Environmental Condition");
+
+### Add behavior tree to environmental
+### agent and rename target behavior
+tmpNode$AddChildNode(logicModelOfBehavior_targetBehavior$clone());
+tmpNode$`Target Behavior`$name <- "Target Behavior of\nEnvironmental Agent";
+
+
+```
+
+
+
 ![Logic model of Change](img/LogicModelofChange.png)
+
 Figure: Logic Model of Change (Bartholomew et al., 2016, p. 285)
 
 ## Task: Individual health-related behavior and environmental outcomes 
