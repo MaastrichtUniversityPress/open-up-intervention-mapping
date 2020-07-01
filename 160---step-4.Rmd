@@ -17,19 +17,30 @@
 
 
 ## Task
+Program materials should support your program, and logically follow from the change objectives that you have formulated in step 2, and the methods and applications that were chosen in step 3. The program should reach the intended at-risk population or target group, and the environmental agents, so the delivery context or setting are also important to consider. 
 
 ●	Prepare plans for program materials: Create specifications and working documents. 
-  - Working documents express the themes and messages of the materials.Points to consider: type of application, length, feasibility, salience, production qualities, design, clarity, etc). 
+  - Working documents express the themes and messages of the materials. Points to consider: type of application, length, feasibility, salience, production qualities, design, clarity, etc). 
 
 Specify the necessary creative resources (program producers) so that you can produce the applications. 
-(Remember that you have to collaborate with experts in different professions and that you are the only expert aware of the parameters of the methods; check the applications for parameters!)
+(Remember that you have to collaborate with experts in different professions and that you are the only expert aware of the parameters of the methods; check the (step 3) applications for parameters!)
 
-Example format for your program material plans:
+<div class="exampleList">
+
+Example format for program material plans:
 
 |Program Components | Description | Producers |
 | --- | --- | --- | 
 | .......... | .......... | .......... | 
 | .......... | .......... | .......... |
+
+</div>
+
+<div class="produceSomething">
+
+- Produce program material plans.
+
+</div>
 
 
 ## Task - Draft messages, materials and protocols
