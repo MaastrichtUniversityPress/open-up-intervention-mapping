@@ -48,10 +48,11 @@ Example format for program material plans:
 ## Task - Pretest, refine, and produce materials. 
 
 ●	How would you pretest the program applications and materials?
-●	Pretest materials on members of the target population and professionals
-●	Evaluate the results 
-●	Anticipate implementation before you finalize the applications and program
-●	Check: Are all your change objectives still in the final program?
+
+ - Pretest materials on members of the target population and professionals
+ - Evaluate the results 
+ - Anticipate implementation before you finalize the applications and program
+ - Check: Are all your change objectives still in the final program?
 
 
 
