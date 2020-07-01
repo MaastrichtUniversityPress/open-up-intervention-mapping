@@ -46,16 +46,16 @@ A useful guideline is that if all performance objectives, as you formulated them
 
 For example, when the target behavior is "washing hands", valid sub-behaviors/performance objectives are:
 
-1. Use soap
-2. Wash hands at least 20 secs
-3. Clean throughly (also the wrist, and under the nails)
-4. Use paper towel to dry hands
-5. Use paper towel to close the watertap
+ 1. Use soap
+ 2. Wash hands at least 20 secs
+ 3. Clean throughly (also the wrist, and under the nails)
+ 4. Use paper towel to dry hands
+ 5. Use paper towel to close the watertap
 
 For example, when you like to promote condom use (health promoting behavior), you want people to plan condom use.
 
-1. Go to the store and buy condoms.
-2. Use condoms. 
+ 1. Go to the store and buy condoms.
+ 2. Use condoms. 
 
 </div>
 
@@ -74,21 +74,13 @@ In this section, you merge two lists:
 1. All environmental conditions that you listed in The Flip; and
 2. All environmental conditions for the performance objectives.
 
-<div class="produceSomething">
-
-
-- List all potentially relevant environmental conditions.
-- For each environmental condition, list the corresponding environmental agent(s).
-- For each agent, list their environmental level (i.e. the interpersonal level, the organizational level, and the community / societal level).
-
-</div>
-
 <div class="coreProcesses">
 
 To find out the performance objectives for the environmental conditions, ask yourself the following question:
 "What does the environmental agent *need to do* to accomplish the changes in environmental condition?"
 
 </div>
+
 
 
 <div class="exampleList">
@@ -106,19 +98,29 @@ Target behavior: condom use in gay sauna
 
 </div>
 
+<div class="produceSomething">
+
+
+- List all potentially relevant environmental conditions.
+- For each environmental condition, list the corresponding environmental agent(s).
+- For each agent, list their environmental level (i.e. the interpersonal level, the organizational level, and the community / societal level).
+
+</div>
+
+
 ## Identify environmental agent (sub-)behaviors
 
 Environmental agents (the people, groups, or organisations that have the agency to control one or more environmental conditions) control their corresponding environmental conditions through their behavior.
 
-Therefore, to achieve the environmental conditions you aim for, you need to identify what those environmental agents need to do. Like for target populations, this also means identifying the constituent performance objectives (sub-behaviors).
+To achieve the environmental conditions you aim for, you need to identify what those environmental agents need to do. Similar as for target groups, this means identifying the constituent performance objectives (sub-behaviors).
 
 ### Target behaviors
 
-Like for target populations (see above), target behaviors for environmental agents are usually very broadly defined. In fact, in many cases, environmental agents will be involved in work you yourself are unfamiliar with, so better specification for the target behaviors is sometimes not straightforward. Fortunately, those broad definitions are acceptable at the target behavior level. 
+Target behaviors for environmental agents are usually very broadly defined. In fact, in many cases, environmental agents will be involved in work you yourself are unfamiliar with, so a good specification of the target behaviors is sometimes not straightforward. Fortunately, broad definitions are acceptable at the target behavior level. 
 
 ### Sub-behaviors / performance objectives
 
-Because target behaviors for environmental agents, like target behaviors for target population members, are very broadly defined, intervening on them first requires specification. And like for target populations, the instrument for these specifications is the formulation of sub-behaviors or performance objectives. Therefore, repeat what you did for the target population, but for the environmental agents' target behaviors.
+Because target behaviors for environmental agents are very broadly defined, intervening on them first requires specification. And like for target populations, the instrument for these specifications is the formulation of sub-behaviors or performance objectives. Therefore, repeat what you did for the target population, but for the environmental agents' target behaviors.
 
 <div class="exampleList">
 
