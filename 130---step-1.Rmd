@@ -126,6 +126,14 @@ Determine your program goals. You prioritize the potential goals on the basis of
 
 State in one sentence the expected change of your intervention and its time frame in clear quantifiable terms.
 
+Distinguish the following types of goals:
+
+- Ultimate program goals: these typically involve the quality of life or health of a specific population (the at-risk population)
+- Environmental program goals: these are the environmental conditions that you want to change in your program.
+- Behavioral program goals: these are the behaviors of the target population you want to change (note that the target population can be different from the at-risk population)
+
+A program always has one or more ultimate goals. The environmental goals and behavioral goals are means to achieve those ultimate goals, but it is possible a program only has environmental goals, or only behavioral goals.^[Note that in step 2, each environmental goal will be analysed and will result in behavioral goals for the environmental agents that have agency over the relevant environmental conditions.]
+
 ### Core Processes
 
 <div class="coreProcesses">
@@ -140,18 +148,22 @@ State in one sentence the expected change of your intervention and its time fram
 
 <div class="exampleList">
 
-1) Reaching the 60+ population is more difficult, and they are physically slower, so although they are the at-risk group,we now choose the younger adults as target group. To do this in the entire city is not feasible, so we focus at one busy street. To set our goals too far in the future, would be useless, so we want fast implementation and fast results. The program goal would therefore be *to increase social distancing of adults under 30 by 50% on the sidewalk in the Kalverstraat in Amsterdam within 2 weeks.*
-2) The program goals are 
-* a. to increase physical activity in children between 6 and 10 by 30% and to decrease weight in the overweight children by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord. 
-* b. to decrease weight in the overweight children children between 6 and 10 by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord.
+1. Reaching the 60+ population is more difficult, and they are physically slower, so although they are the at-risk group,we now choose the younger adults as target group. To do this in the entire city is not feasible, so we focus at one busy street. To set our goals too far in the future, would be useless, so we want fast implementation and fast results. The program goal would therefore be *to increase social distancing of adults under 30 by 50% on the sidewalk in the Kalverstraat in Amsterdam within 2 weeks.*
+2. The program goals are 
+    a. to increase physical activity in children between 6 and 10 by 30% and to decrease weight in the overweight children by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord. 
+    b. to decrease weight in the overweight children children between 6 and 10 by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord.
 Here we could have the parents as target group (we need them to bring the children to the extracurricular gymnastic classes) or the head of schools in Amsterdam-Noord (who need to implement our intervention program at their school).
 
 </div>
 
 ### Product
 
+Although "in real life", it is quite possible to not have any behavioral program goals, when working with this workbook, you *must* select a target population (which can be either the at-risk population or a different population) and a behavioral goal.
+
 <div class="produceSomething">
 
-- List the program goal. 
+- List the ultimate program goal(s).
+- List the environmental program goal(s), if any.
+- List the behavioral program goal(s).
 
 </div>
