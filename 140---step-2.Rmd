@@ -5,51 +5,46 @@ editor_options:
 ---
 # Step 2
 
-Step 2 starts with "The Flip". In step 1, the focus was on the problem and the corresponding problematic behaviors. However, if you want people to do something differently, you have to be able to recommend a course of action to replace the undesirable behavior.
+Step 2 starts with "The Flip". In step 1, the focus was on the problem and the corresponding problematic behaviors. However, if you want people to do something differently, you have to be able to recommend a course of action to replace the undesirable behavior: you want to change behavior. 
 
 ## The Flip
 
-### List target population
+### List target group
 
-Therefore, you start by deciding on the target population (the population whose behavior your program should change). This can be the at-risk population, but it is also possible that your intervention will work through another population, for example, parents.
+First, you decide on the target group (the population whose behavior your program should change). This can be the at-risk group, but it is also possible that your intervention will have to target another group. for instance, when your at-risk group is "new-born baby's" your target group will likely be the parents, or GP's.  
 
 Note that it is possible that you did not specify any behavioral program goals in step 1, in which case you also do not directly target a target population.
 
 ### Target behavior
 
-Then define the target behavior. This is the desirable behavior of the target population: what should they do, exactly?
+Second, you define the target behavior. This is the desirable behavior of the target group: what should they do exactly?
 
-Note that it is possible that you did not specify any behavioral program goals in step 1, in which case you also do not have a target behavior to specify here (as you will see below, you will still end up specifying at least one target behavior, just not for the target population).
+Note that it is possible that you did not specify any behavioral program goals in step 1, in which case you also do not have a target behavior to specify here (as you will see below, you will still end up specifying at least one target behavior, just not for the target group).
 
 ### List environmental conditions
 
-Then, list the environmental conditions you want to realise. Note that like the target behavior, this should be the desirable state. 
+Third, list the environmental conditions you want to realise. Similar to the target behavior, this should be the desirable state. 
 
-Note that it is possible that you did not specify any environmental program goals in step 1, in which case you also do not yet specify any environmental conditions here (you may still end up specifying environmental conditions below, though).
+Note that it is possible that you did not specify any environmental program goals in step 1, in which case you also do not yet specify any environmental conditions here (you may still end up specifying environmental conditions below).
 
 ## Identify sub-behaviors / performance objectives
 
-"In real life", if you did not select a target population and target behavior in The Flip, you do not yet select performance objectives here. However, when working with this workbook, you must select a target population and a target behavior. Also note that even if in another situation, you do not select a target population and a target behavior, you will still select performance objectives for your environmental agent(s). The concept is quite central to Intervention Mapping.
+"In real life", if you did not select a target group and target group in The Flip, you do not select performance objectives here yet. However, when working with this workbook, you must select a target group and a target behavior. Also note that even if in another situation, you do not select a target population and a target behavior, you will still select performance objectives for your environmental agent(s). The concept is quite central to Intervention Mapping.
 
 Target behaviors are often very broadly defined (see the examples below). Therefore, it is important to identify the sub-behaviors that make up the target behaviors. In Intervention Mapping, these sub-behaviors, ultimately being objectives you want to achieve with your intervention, are called Performance Objectives.
 
-To identify the performance objectives for your target behavior, ask yourself the following question: "What do the people have to do to perform this target behavior?" For example, when you like to promote condom use (target behavior), you need people to make sure they obtain condoms in advance; that they carry condoms; and that they use them before engaging in insertive sex.
+To identify the performance objectives for your target behavior, ask yourself the following question: _"What do the people have to do to perform this target behavior?"_ 
 
-Formulate performance objectives in a way that includes the target population and that makes them measurable and that describes action, for example in the form of a statement like "[target population] [sub-behavior]", such as "Women recovering from breast cancer register at their local gym".
+Formulate performance objectives in a way that includes the target group and that makes them measurable and that describes action, for example in the form of a statement like "[target population] [sub-behavior]", such as "Women recovering from breast cancer register at their local gym".
 
 A major mistake is to formulate performance objectives as determinants, for example, by expressing skills or knowledge. For example, "X should be able to do Y". That statement does not describe the performance of an action; it describes a prerequisite for performance of an action. A performance objective should be: "X does Y".
 
-A useful guideline is that if all performance objectives, as you formulated them, are true, the target behavior should by definition be performed. For example, if the statements "University students consistently carry condoms" and "University students consistently use condoms when engaging in insertive sex" are true, you know that the target behavior "condom use" is achieved. That is, assuming these two performance objectives exhaustively cover the target behavior!
+A useful guideline is that if all performance objectives, as you formulated them, are true, the target behavior should by definition be performed. For example, if the statements "University students consistently carry condoms" and "University students consistently use condoms when engaging in sex" are true, you know that the target behavior "condom use" is achieved. That is, assuming these two performance objectives exhaustively cover the target behavior!
 
-<div class="produceSomething">
-
-- List the performance objectives that comprise the target behavior.
-
-</div>
 
 <div class="exampleList">
 
-For example, when the target behavior is "washing hands", valid sub-behaviors / performance objectives are:
+For example, when the target behavior is "washing hands", valid sub-behaviors/performance objectives are:
 
 1. Use soap
 2. Wash hands at least 20 secs
@@ -59,13 +54,18 @@ For example, when the target behavior is "washing hands", valid sub-behaviors / 
 
 For example, when you like to promote condom use (health promoting behavior), you want people to plan condom use.
 
-1. Know where an at what time condoms can be bought.
-2. Have access to transportation to store where one can buy condoms.
-3. Go to that store and buy condoms.
+1. Go to the store and buy condoms.
 2. Use condoms. 
 
+</div>
+
+
+<div class="produceSomething">
+
+- List the performance objectives that comprise the target behavior.
 
 </div>
+
 
 ## Identify environmental conditions and environmental agents
 
@@ -95,15 +95,14 @@ To find out the performance objectives for the environmental conditions, ask you
 
 Target behavior: handwashing
 
-- Employer provides soap (employer is at organisational level)
-- Soap is available in every bathroom at work
+ - Employer provides soap (employer is at organisational level)
+ - Soap is available in every bathroom at work
 
 
 Target behavior: condom use in gay sauna
-What does the sauna owner *need to do* to accomplish the changes in sauna?
-- Sauna owner buys condoms (organisational level)
-- sauna owner provides condoms to customers (organisational level)
 
+ - Sauna owner buys condoms (organisational level)
+ - sauna owner provides condoms to customers (organisational level)
 
 </div>
 
