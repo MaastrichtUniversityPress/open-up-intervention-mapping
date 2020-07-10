@@ -246,8 +246,7 @@ Select from your list the most relevant determinants for your intervention that 
 
 <div class="produceSomething">
 
-- Create a long list of potential (sub-)determinants
-- Process and long list and select, defer, or forgo each (sub-)determinant
+- Process the and select, defer, or forgo each (sub-)determinant
 
 </div>
 
