@@ -47,7 +47,11 @@ Note that sometimes in step 1 environmental program goals were not specified. In
 
 Target behaviors are often very broadly defined (see the examples below). Therefore, it is important to identify the sub-behaviors that make up the target behaviors. In Intervention Mapping, these sub-behaviors, ultimately being objectives you want to achieve with your intervention, are called Performance Objectives.
 
-To identify the performance objectives for your target behavior, ask yourself the following question: _"What do the people have to do to perform this target behavior?"_ 
+<div class="coreProcesses">
+
+To identify the performance objectives for your target behavior, ask yourself the following question: _*"What do the people have to do to perform this target behavior?"*_ 
+
+</div>
 
 Formulate performance objectives in a way that includes the target group and that makes them measurable and that describes action, for example in the form of a statement like "[target population] [sub-behavior]", such as "Women recovering from breast cancer register at their local gym".
 
