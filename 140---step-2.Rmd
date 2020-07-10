@@ -148,7 +148,7 @@ Because target behaviors for environmental agents are very broadly defined, inte
 <div class="exampleList">
 
 1. To realise the environmental condition "hand hygiene resources are available for employees", the environmental agent "employer" has to perform target behavior "make hand hygiene resources available". This target behavior is accomplished through the following performance objectives:
-    1. employer needs to adjust budgets for purchasing soap and towels
+    1. employer needs to adjust budgets for purchasing soal, towels, etc
     2. employer needs to task somebody with ensuring full soap dispensers
 2. dgddg:
     1. gdg
@@ -177,25 +177,19 @@ Such determinants are generally defined at a general level (a bit like target be
 
 In an intervention, you don't target "attitude" or "knowledge": you communicate about specific facts or list specific advantages or disadvantages. Therefore, when developing a behavior change intervention, the most important thing is identifying those more specifically defined sub-determinants.^[Note that it is also crucial to know the corresponding overarching determinants - you will need that information in step 3.] You identify the relevant sub-determinants and determinants for each performance objective in two steps.
 
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+
 ### Long-list sub-determinants and determinants
 
 First, you establish a long list, simply including everything that might be important. You normally do this for every performance objective - so for the target behavior of your target population, but also for the target behavior of each environmental agent. However, in this workbook, select only one environmental agent.
 
-### Select, defer, or forgo sub-determinants and determinants
-
-Second, you go through the list and you select those (sub-)determinants and determinants you will retain for your intervention. There are three potential actions at this point:
-
-1. Select a (sub-)determinant: in this case, you will retain this (sub-)determinant for step 3, and it will be targeted in your intervention.
-2. Defer a (sub-)determinant: in this case, you are not confident that this (sub-)determinant is not important (or not changeable), but you lack the resources to (also) target this (sub-)determinant in this intervention. This means you retain it for potential future iterations of your intervention.
-3. Forgo a (sub-)determinant: in this case, you decide that the (sub-)determinant is probably not important for the target behavior; or that it is important, but not feasible changeable with the means you have available or can conceivably secure in the future.
-
-
 <div class="coreProcesses">
 
-- 
+- Brainstorm and use the literature and behavioral theories (see chapter 2 of the book) to compile a long list of determinants for the target behavior individuals and for the environmental agent(s)
 
 </div>
-
 
 <div class="exampleList">
 
@@ -215,10 +209,46 @@ coronavirus: besmet willen worden omdat je dan weer kunt werken, of omdat over 2
 <div class="produceSomething">
 
 - Create a long list of potential (sub-)determinants
+
+</div>
+
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+
+### Select, defer, or forgo sub-determinants and determinants
+
+Second, you go through the list and you select those (sub-)determinants and determinants you will retain for your intervention. There are three potential actions at this point:
+
+1. Select a (sub-)determinant: in this case, you will retain this (sub-)determinant for step 3, and it will be targeted in your intervention.
+2. Defer a (sub-)determinant: in this case, you are not confident that this (sub-)determinant is not important (or not changeable), but you lack the resources to (also) target this (sub-)determinant in this intervention. This means you retain it for potential future iterations of your intervention.
+3. Forgo a (sub-)determinant: in this case, you decide that the (sub-)determinant is probably not important for the target behavior; or that it is important, but not feasible changeable with the means you have available or can conceivably secure in the future.
+
+Select from your list the most relevant determinants for your intervention that are important - they contribute significantly to the behavior (0, +, or ++), and that are changeable - they can be changed with the available methods (0, +, or ++). Consult the literature and your common sense to make these decisions.   
+
+<div class="coreProcesses">
+
+- Read ‘Rating importance of determinants’, IM Book, pp. 306-308.  
+- Decide for each determinant whether to select, defer, or forgo it, based on information about the determinants' associations to (proxies of) behavior in the case of the population (e.g. your target group or an environmental agent), and information (
+
+</div>
+
+<div class="exampleList">
+
+1. examples about determinant selection based on importance and changeability, using e.g. https://www.healthpsychologybulletin.com/articles/10.5334/hpb.18/
+
+</div>
+
+<div class="produceSomething">
+
+- Create a long list of potential (sub-)determinants
 - Process and long list and select, defer, or forgo each (sub-)determinant
 
 </div>
 
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
 
 ## Select environmental conditions (and so, agents), and sub-behaviors and sub-determinants
 
@@ -369,45 +399,6 @@ Figure: Logic Model of Change (Bartholomew et al., 2016, p. 285)
 <!-- Dit stukje hieronder is heeeeeeeeeeeeeeeeeeeeeel belangrijk. ------------->
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
-
-## Task - Specify the determinants of your performance objectives 
-
-Personal determinants are under the person’s control. 
-Environmental ‘determinants’ are not directly under the person’s control but under control of the agent – treat those under environmental conditions.
-
-●	**Brainstorm determinants**. Try to apply behavioral theories (see chapter 2 of the book) and use the determinants of the behavioral or environmental outcomes addressed in the needs assessment.  
- + List personal determinants for each performance objective from task 2.2 from the performance objectives for each individual health-related behavior.  
- + List personal determinants for each performance objective from task 2.2, from the performance objectives for and the environmental condition or agents’ performance objectives.  
- + Read ‘Rating importance of determinants’, IM Book, pp. 306-308.  
- + Select from your list those determinants for your intervention that are important - they contribute significantly to the behavior (0, +, or ++), and that are changeable - they can be changed with the available methods (0, +, or ++). Consult the literature and your common sense to make these decisions.   
- + Copy the table below into your slides and identify the determinants that you want to focus on.   
- + Clearly indicate the ones you want to focus on.
-
-**Determinants of health promoting behavior**
-
-
-
-
-| Determinants | Importance | Changeability |
-| --- | --- | --- | 
-| .................................. | .................................. | .................................. | 
-| .................................. | .................................. | .................................. |
-| .................................. | .................................. | .................................. |
-
-
-Etc
-
-
-**Determinants of environmental conditions/agents**
-
-
-
-| Determinants | Importance | Changeability |
-| --- | --- | --- | 
-| .................................. | .................................. | .................................. | 
-| .................................. | .................................. | .................................. |
-| .................................. | .................................. | .................................. |
-
 
 
 ## Task - Specify the desired change objectives
