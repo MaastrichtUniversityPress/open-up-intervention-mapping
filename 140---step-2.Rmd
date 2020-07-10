@@ -106,9 +106,11 @@ To find out the performance objectives for the environmental conditions, ask you
 
 <div class="exampleList">
 
-Target behavior: handwashing
-Environmental condition: Soap is available in every bathroom at work
-Performance objective: Employer provides soap (employer is at organisational level)
+Target behavior: handwashing at work
+Environmental agent =  the boss
+Environmental condition = Soap is available in every bathroom at work
+Performance objective: the boss provides soap (the boss is at the organisational level)
+
  
 Target behavior: condom use in gay sauna
 Environmental condition: Sauna owner has a positive attitude towards providing condoms in his sauna
@@ -145,7 +147,7 @@ Because target behaviors for environmental agents are very broadly defined, inte
 <div class="exampleList">
 
 1. To realise the environmental condition "hand hygiene resources are available for employees", the environmental agent "employer" has to perform target behavior "make hand hygiene resources available". This target behavior is accomplished through the following performance objectives:
-    1. employer needs to adjust budgets for purchasing soal, towels, etc
+    1. employer needs to adjust budgets for purchasing soap, towels, etc
     2. employer needs to task somebody with ensuring full soap dispensers
 2. dgddg:
     1. gdg
