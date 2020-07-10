@@ -25,14 +25,15 @@ In this chapter of the workbook, we still do the same work. However, the followi
 
 ## The Flip
 
+
 ### List target group
 
 First, you decide on the target group (the population whose behavior your program should change). This can be the at-risk group, but it is also possible that your intervention will have to target another group. For instance, when your at-risk group is "new-born baby's" your target group will likely be the parents, or GP's.  
 
 
-### Target behavior
+### Define the target behavior
 
-Second, you define the target behavior. This is the desirable behavior of the target group: what should they do exactly?
+Second, you define the target behavior. This is _the desirable behavior_ of the target group: what should they do exactly?
 
 
 ### List environmental conditions
@@ -67,8 +68,9 @@ For example, when the target behavior is "washing hands", valid sub-behaviors/pe
 
 For example, when you like to promote condom use (health promoting behavior), you want people to plan condom use.
 
- 1. Go to the store and buy condoms.
- 2. Use condoms. 
+ 1. Plan to purchase condoms.
+ 2. Go to the store and buy condoms.
+ 3. Use condoms. 
 
 </div>
 
@@ -106,10 +108,10 @@ Performance objective: Employer provides soap (employer is at organisational lev
  
 
 Target behavior: condom use in gay sauna
-Environmental condition:
+Environmental condition: Sauna owner has a positive attitude towards providing condoms in his sauna
 Performance objective:
  - Sauna owner buys condoms (organisational level)
- - sauna owner provides condoms to customers (organisational level)
+ - sauna owner shows where condoms are to customers (organisational level)
 
 </div>
 
