@@ -296,45 +296,14 @@ Je pakt de sub-determinanten (die je selecteerde, dus) en herformuleert ze als C
 
 </div>
 
+## Start on the logic model of change
+
+The logic of change is a model showing how you expect your intervention to work. These logic models can be easily produced using Acyclic Behavior Change Diagrams.
 
 
 
 
 
-
-
-<!----------------------------------------------------------------------------->
-<!----------------------------------------------------------------------------->
-<!----------------------------------------------------------------------------->
-<!-- Dit stukje hieronder is het oude stukje. --------------------------------->
-<!----------------------------------------------------------------------------->
-<!----------------------------------------------------------------------------->
-<!----------------------------------------------------------------------------->
-<!-- Alles hieronder moet worden verwijderd en eventueel, als het er al ------->
-<!-- niet staat, geintegreerd in het stuk hierboven. -------------------------->
-<!----------------------------------------------------------------------------->
-<!----------------------------------------------------------------------------->
-<!----------------------------------------------------------------------------->
-
-
-
-
-
-**Background Step 2**: IM change objectives have to be specified explaining _who and what will change as a result of the intervention_. 
-
-Change objectives may refer to 
-
-  * the _individual level of change_, e.g.,"adolescents will express confidence regarding negotiating condom use with a sexual partner"  
-  * the _organizational level change_, e.g., "school administrators will acknowledge the advantages of condom distribution in school'  
-  * or the _community level change_, e.g., "community leaders will approve of the sale of inexpensive condoms in schools and meeting places". 
-
-Change Objectives should be  
-    
-* **_Specific_**: Define as specific as possible: e.g., what should change in the target group and/or the environment in order to deal with or reduce the health-related problem. What should change, among whom?  
-* **_Measurable_**: Can you measure the change (objectives)?  
-* **_Achievable_**: Are the change objectives you set achievable and attainable?  
-* **_Realistic_**: Can you realistically achieve the objectives with the resources you have?  
-* **_Time_**: Within what period will you achieve your change goals?
 
 ```{r logic-model-of-behavior}
 
@@ -382,6 +351,41 @@ tmpNode$`Target Behavior`$name <- "Target Behavior of\nEnvironmental Agent";
 
 
 
+
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+<!-- Dit stukje hieronder is het oude stukje. --------------------------------->
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+<!-- Alles hieronder moet worden verwijderd en eventueel, als het er al ------->
+<!-- niet staat, geintegreerd in het stuk hierboven. -------------------------->
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+
+
+
+
+
+**Background Step 2**: IM change objectives have to be specified explaining _who and what will change as a result of the intervention_. 
+
+Change objectives may refer to 
+
+  * the _individual level of change_, e.g.,"adolescents will express confidence regarding negotiating condom use with a sexual partner"  
+  * the _organizational level change_, e.g., "school administrators will acknowledge the advantages of condom distribution in school'  
+  * or the _community level change_, e.g., "community leaders will approve of the sale of inexpensive condoms in schools and meeting places". 
+
+Change Objectives should be  
+    
+* **_Specific_**: Define as specific as possible: e.g., what should change in the target group and/or the environment in order to deal with or reduce the health-related problem. What should change, among whom?  
+* **_Measurable_**: Can you measure the change (objectives)?  
+* **_Achievable_**: Are the change objectives you set achievable and attainable?  
+* **_Realistic_**: Can you realistically achieve the objectives with the resources you have?  
+* **_Time_**: Within what period will you achieve your change goals?
+
+
 ![Logic model of Change](img/LogicModelofChange.png)
 
 Figure: Logic Model of Change (Bartholomew et al., 2016, p. 285)
@@ -397,6 +401,8 @@ Figure: Logic Model of Change (Bartholomew et al., 2016, p. 285)
 - Make a list of environmental conditions that need to be achieved (both key health promoting environmental outcomes and behavior outcomes of agents)
 
 </div>
+
+
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
