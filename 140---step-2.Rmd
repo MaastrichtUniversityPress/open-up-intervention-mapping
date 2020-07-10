@@ -169,17 +169,17 @@ Because target behaviors for environmental agents are broadly defined, interveni
 
 ## Identify determinants and sub-determinants
 
-If you get to this point, you mapped out the more tangible parts of the intervention. You now have a clear idea how you want the world to *look*: how do you think the environment of the important groups in your situation should look, and how should everybody in those groups act (at-risk population, the target population, and/or one or more environmental agents)?
+If you get to this point, you mapped out the more concrete parts of the intervention. You should next get a clear idea of what the world should look like: what do you think the environment of the important groups in your situation should look like, and how should everybody in those groups behave (at-risk group, the target group, and/or one or more environmental agents)?
 
-To achieve these more tangible goals, people have to change their behavior. For the at-risk population and the target population, their behavior is directly relevant to your intervention, and for the environmental agents, their behavior is instrumental to achieving the environmental conditions.
+To achieve these even more tangible goals, people shall actually have to change their behavior. The behavior of the at-risk group and the target group is directly relevant to your intervention, and the behavior of the environmental agents is instrumental to achieving the environmental conditions.
 
-People's behavior is a consequence of their environments and their psychology. You have identified the relevant environmental influences and processed them above as environmental conditions, which yielded environmental agents and their behaviors (and potentially, more environmental conditions). That means that at this point, only psychology remains.
+Roughly speaking, people's behavior is a consequence of their environments and their psychology. You have identified the relevant environmental influences and processed them above as environmental conditions, which yielded environmental agents and their behaviors (and potentially, more environmental conditions). That means that at this point, only psychology remains.
 
-There are many theories that explain why people behave like they do. Each theory is designed for a specific purpose: some deal with habitual behavior, some with health behavior, some with reasoned behavior, and some with impulsive behavior. These theories postulate constructs to describe aspects of the human psychology that, according to the relevant theory, contribute to determining behavior. In the context of behavior change, such constructs that are theoretically assumed to predict behavior are called *determinants*.
+There are many theories that explain why people behave like they do. Each theory is designed for a specific purpose: some deal with habitual behavior, some with health behavior, some with reasoned behavior, and some with impulsive behavior. These theories postulate constructs to describe aspects of the human psychology that, according to the relevant theory, contribute to determining behavior. In the context of behavior change, constructs that are theoretically assumed to predict behavior are called *determinants*.
 
-Such determinants are generally defined at a general level (a bit like target behaviros): examples are attitude, knowledge, habit, perceived norms, self-efficacy, willingness, self-identity, and risk perception. Such general definitions are useful when studying human behavior over a variety of populations and behaviors, but that generic level of definition provides no guidance for intervention development.
+Determinants are generally defined at a general level. For instance, attitude, knowledge, habits, perceived norms, self-efficacy, willingness, self-identity, and risk perception are all determinants. Such general definitions are useful when studying human behavior over a variety of populations and behaviors, but the generic level of definition provides no guidance for intervention development.
 
-In an intervention, you don't target "attitude" or "knowledge": you communicate about specific facts or list specific advantages or disadvantages. Therefore, when developing a behavior change intervention, the most important thing is identifying those more specifically defined sub-determinants.^[Note that it is also crucial to know the corresponding overarching determinants - you will need that information in step 3.] You identify the relevant sub-determinants and determinants for each performance objective in two steps.
+In an intervention, you don't target "attitude" or "knowledge": you communicate about specific facts or list specific advantages or disadvantages. Therefore, when developing a behavior change intervention, the most important thing is identifying the more specifically defined sub-determinants.^[Note that it is also crucial to know the corresponding overarching determinants - you will need that information in step 3.] You identify the relevant sub-determinants and determinants for each performance objective in two steps: listing, en selecting. 
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
@@ -187,25 +187,25 @@ In an intervention, you don't target "attitude" or "knowledge": you communicate 
 
 ### Long-list sub-determinants and determinants
 
-First, you establish a long list, simply including everything that might be important. You normally do this for every performance objective - so for the target behavior of your target population, but also for the target behavior of each environmental agent. However, in this workbook, select only one environmental agent.
+First, you establish a long list, by simply including everything that might be important. Normally, you do this for every performance objective - for the target behavior of your target population, but also for the target behavior of each environmental agent. In real IM life you use all core processes and thus could look at theories, literature (e.g. meta-analyses), do your own experimental studies, or qualitative research, or do all of them. However, in this workbook, just select one environmental agent.
 
 <div class="coreProcesses">
 
-- Brainstorm and use the literature and behavioral theories (see chapter 2 of the book) to compile a long list of determinants for the target behavior individuals and for the environmental agent(s)
+- Brainstorm and use literature and behavioral theories (see chapter 2 of the book) to compile a long list of determinants for the individuals' target behavior and for the environmental agent(s). 
 
 </div>
 
 <div class="exampleList">
 
-1. target individual, hand washing: expectations re: effectivenes of hand washing; degree to which hand washing is automated; etc
+1. target individual, hand washing: expectations regarding effectivenes of hand washing; degree to which hand washing is automated; etc
 
-2. employer, hand washing: ...
+2. environmental agent = employer
+Determinants regarding hand washing: belief that handwashing will reduce work production; belief that illness will reduce work production; perceived norm regarding good employership.
 
-3. gay sauna owner, safe sex: expectation that more customers will come when free lube is provided, etc - potential false belief: with free lube, people will slip and die.
+3. gay sauna owner, safe sex: expectation that more customers will come when free lube is provided; potential false belief: with free lube, people will slip and die.
 
-Belangrijk om domme dingen te includeren bij voorbeelden
 
-coronavirus: besmet willen worden omdat je dan weer kunt werken, of omdat over 2 maanden de ICs msch overvol zijn, etc.
+4. individual, keeping distance in the street: belief that becoming ill sooner than later is a positive thing because ICU's might be full in two months; expectation that one's immune system is strong enough; negative attitude towards older people in the streets; etc. 
 
 </div>
 
