@@ -229,7 +229,7 @@ Select from your list the most relevant determinants for your intervention that 
 <div class="coreProcesses">
 
 - Read ‘Rating importance of determinants’, IM Book, pp. 306-308.  
-- Decide for each determinant whether to select, defer, or forgo it, based on information about the determinants' associations to (proxies of) behavior in the case of the population (e.g. your target group or an environmental agent), and information (
+- Decide for each determinant whether to select, defer, or forgo it, based on information about the determinants' associations to (proxies of) behavior in the case of the population (e.g. your target group or an environmental agent), and information about the changeability of the determinants, for example based on psychological theory.
 
 </div>
 
