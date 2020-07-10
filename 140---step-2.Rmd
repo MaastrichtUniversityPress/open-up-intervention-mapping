@@ -116,7 +116,7 @@ Target behavior: condom use in gay sauna
 Environmental condition: Sauna owner has a positive attitude towards providing condoms in his sauna
 Performance objective 1: Sauna employees receive customers in a non-judgmental fashion and have an empathic attitude (interpersonal level) level)
 Performance objective 2: Sauna owner buys condoms (organisational level)
-Performance objective 3:sauna owner implements protocol for employees which contains showing customers where condoms are (organisational level)
+
 
 </div>
 
@@ -138,20 +138,25 @@ To achieve the environmental conditions you aim for, you need to identify what t
 
 ### Target behaviors
 
-Target behaviors for environmental agents are usually very broadly defined. In fact, in many cases, environmental agents will be involved in work you yourself are unfamiliar with, so a good specification of the target behaviors is sometimes not straightforward. Fortunately, broad definitions are acceptable at the target behavior level. 
+In many cases, environmental agents will be involved in work you yourself are unfamiliar with, so a good specification of the target behaviors is sometimes not straightforward. Fortunately, broad definitions are acceptable at the target behavior level. 
 
 ### Sub-behaviors / performance objectives
 
-Because target behaviors for environmental agents are very broadly defined, intervening on them first requires specification. And like for target populations, the instrument for these specifications is the formulation of sub-behaviors or performance objectives. Therefore, repeat what you did for the target population, but for the environmental agents' target behaviors.
+Because target behaviors for environmental agents are broadly defined, intervening on them requires specification. You specify them by formulating sub-behaviors or performance objectives. So, repeat what you did for the target group, but do it now for the environmental agents' target behaviors.
 
 <div class="exampleList">
 
-1. To realise the environmental condition "hand hygiene resources are available for employees", the environmental agent "employer" has to perform target behavior "make hand hygiene resources available". This target behavior is accomplished through the following performance objectives:
-    1. employer needs to adjust budgets for purchasing soap, towels, etc
-    2. employer needs to task somebody with ensuring full soap dispensers
-2. dgddg:
-    1. gdg
-    2. gdg
+1. Environmental condition = hand hygiene resources are available for employees
+2. Environmental agent = employer 
+3. Target behavior of environmental agent = "make hand hygiene resources available". 
+4. This target behavior is accomplished through the following performance objectives:
+    1. employer adjusts budgets for purchasing soap, towels, etc
+    2. employer task somebody with ensuring full soap dispensers
+    
+2. Environmental condition = people keep 1.5 meter distance in a small  street
+2. Environmental agent = municipality
+3. Target behavior of environmental agent = "clearly indicate with signs that people should keep distance" 
+    Performance objective = municipality orders the placing of signs (organisational level)
 
 </div>
 
