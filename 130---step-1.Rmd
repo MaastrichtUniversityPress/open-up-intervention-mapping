@@ -9,15 +9,15 @@ In the 4th edition of the Intervention Mapping textbook, step 1 is discussed in 
 - Describe the context for the intervention, including the population, setting and community
 - State program goals.
 
-In this chapter of the workbook, we will do the work in these tasks. However, in these exercises, we deviate a bit from the structure in the book to easily split each task into subtasks.
+In this chapter of the workbook, we will do the same work. However, in the following exercises, we deviate from the structure in the book by splitting up each task into subtasks, which makes it all easier.
 
-In the online version of this workbook, we used boxes with different colours to clearly signal types of content:
+In the online version of this workbook, we use boxes with different colours to clearly signal types of content:
 
-- Green box: Brainstorm
+- Green box: Brainstorm (and other core processes)
 - Blue/purple box: Examples 
 - Red box: Product that should be done in the main google doc/google sheet/presentation. 
 
-In the downloadable version of this workbook, these boxes do not yet have a colour. On that note: if you happen to be good with LaTeX and willing to help out, it would be great of you could get in touch.
+In the downloadable version of this workbook, these boxes do not yet have a colour. On that note: if you happen to be good with LaTeX and willing to help out, it would be great if you would get in touch with us.
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
