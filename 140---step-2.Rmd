@@ -319,8 +319,17 @@ Je pakt de sub-determinanten (die je selecteerde, dus) en herformuleert ze als C
 
 The logic of change is a model showing how you expect your intervention to work. These logic models can be easily produced using Acyclic Behavior Change Diagrams (ABCD).
 
+To produce the ABCDs, you first fill the ABCD matrix. The ABCD matrix is a table into which you copypaste, in the fourth, fifth, sixth, and seventh columns, the information in your Matrix of Change Objectives. This ABCD matrix is then used to produce the ABCD itself.
 
+Open the Matrix of Change Objectives that you just produced, and open the empty ABCD matrix provided in the Google document. Then, copy the following cells from the Matrix of Change Objectives spreadsheet to the ABCD matrix spreadsheet:
 
+- Cell A1 lists the target behavior: copy it to cell G2, and then duplicate it to the cells in column G for every row you end up filling in the ABCD matrix.
+- The row headers (column A) contain the performance objectives (the sub-behaviors). Copy these to column F of the ABCD matrix.
+- The column headers (row 1) contain the determinants. You will eventually copy these to column E of the ABCD matrix (but see the next bullet).
+- In the cells, the Matrix of Change Objectives contains the Change Objectives themselves. These are sub-determinants that have been rephrased conform the specific guidelines for Change Objective phrasing. Each of these sub-determinants/Change Objectives has its own line in the ABCD matrix. The sub-determinant/Change Objective itself is in column D of that row. Note that the Matrix of Change Objectives can have multiple Change Objectives in one cell, so some cells in your Matrix of Change Objectives may end up corresponding to multiple rows in your ABCD matrix, because in your ABCD matrix, it is crucial that each sub-determinant/Change Objective has its own line.
+- After you copy-pasted all sub-determinants/Change Objectives into column D of the ABCD matrix, verify that every row also has the corresponding determinant in column E, the corresponding sub-behavior/performance objective in column F, and the corresponding target behavior in column G.
+
+You will fill columns A, B, and C in step 3.
 
 
 
