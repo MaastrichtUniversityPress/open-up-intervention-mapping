@@ -1,13 +1,23 @@
 # Step 1
 
-**Step 1 - Background**: Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents.
+Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents.
 
-Color of the boxes in the workbook:
+In the 4th edition of the Intervention Mapping textbook, step 1 is discussed in Chapter 4, where the following learning objectives and tasks are discussed:
+
+- Establish and work with a planning group
+- Conduct a needs assessment to create a logic model of the problem
+- Describe the context for the intervention, including the population, setting and community
+- State program goals.
+
+In this chapter of the workbook, we will do the work in these tasks. However, in these exercises, we deviate a bit from the structure in the book to easily split each task into subtasks.
+
+In the online version of this workbook, we used boxes with different colours to clearly signal types of content:
 
 - Green box: Brainstorm
 - Blue/purple box: Examples 
 - Red box: Product that should be done in the main google doc/google sheet/presentation. 
 
+In the downloadable version of this workbook, these boxes do not yet have a colour. On that note: if you happen to be good with LaTeX and willing to help out, it would be great of you could get in touch.
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
