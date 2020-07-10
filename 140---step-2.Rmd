@@ -6,7 +6,7 @@ editor_options:
 
 # Step 2
 
-Step 2 starts with "The Flip". In step 1, the focus was on the problem and the corresponding problematic behaviors. However, if you want people to do something differently, you have to be able to recommend a course of action to replace the undesirable behavior: you want to change behavior.
+Step 2 starts with "The Flip". In step 1, the focus was on the problem and the corresponding problematic behaviors. However, when you want people to do something differently, you have to be able to recommend a course of action to replace the undesirable behavior or to increase healthy behaviors: you want to _change behavior_.
 
 In the 4th edition of the Intervention Mapping textbook, step 2 is discussed in Chapter 5, where the following learning objectives and tasks are discussed:
 
@@ -16,15 +16,15 @@ In the 4th edition of the Intervention Mapping textbook, step 2 is discussed in 
 - Construct matrices of change objectes
 - Create a logic model of change
 
-In this chapter of the workbook, we will do the work in these tasks. However, in these exercises, we deviate a bit from the structure in the book to easily split each task into subtasks.
+In this chapter of the workbook, we do the work of these tasks. However, the following exercises deviate a bit from the structure in the book, as it is easier to split each task into subtasks.
 
 In the online version of this workbook, we used boxes with different colours to clearly signal types of content:
 
-- Green box: Brainstorm
+- Green box: Brainstorm (and other core processes)
 - Blue/purple box: Examples 
 - Red box: Product that should be done in the main google doc/google sheet/presentation. 
 
-In the downloadable version of this workbook, these boxes do not yet have a colour. On that note: if you happen to be good with LaTeX and willing to help out, it would be great of you could get in touch.
+In the downloadable version of this workbook, these boxes do not yet have a colour. On that note: if you happen to be good with LaTeX and willing to help out, it would be great if you would get in touch with us.
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
