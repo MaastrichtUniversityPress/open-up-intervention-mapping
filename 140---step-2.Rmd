@@ -235,7 +235,12 @@ Select from your list the most relevant determinants for your intervention that 
 
 <div class="exampleList">
 
-1. examples about determinant selection based on importance and changeability, using e.g. https://www.healthpsychologybulletin.com/articles/10.5334/hpb.18/
+- examples about determinant selection based on importance and changeability, using e.g. https://www.healthpsychologybulletin.com/articles/10.5334/hpb.18/
+
+- Eating behavior: https://www.sciencedirect.com/science/article/abs/pii/S0195666320300672
+
+- Using a high dose of MDMA: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5508122/
+
 
 </div>
 
