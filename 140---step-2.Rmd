@@ -272,9 +272,30 @@ selection based on how important stuff is for the behavior (relevance; iusuall =
 
 ## Produce Matrices of Change Objectives
 
-For each target behavior (for the target population and for each environmental agent), produce a Matrix of Change Objectives. A Change Objective is a  sub-determinant that you selected from the long list, reformulated according to specific guidelines. By applying these guidelines, you formulate change objectives according to similar principles as you applied for performance objectives. The idea is that while sub-determinants express a psychological state or process, change objectives are formulated to be measurable ('SMART').
+A Change Objective is a sub-determinant that you selected from the long list, reformulated according to specific guidelines. By applying these guidelines, you formulate change objectives according to similar principles as you applied for performance objectives. The idea is that while sub-determinants express a psychological state or process, change objectives are formulated to be measurable ('SMART').
+
+SMART refers to:  
+    
+* **_Specific_**: Define your change objectives as specific as possible: e.g., what should change in the target group and/or the environment in order to deal with or reduce the health-related problem. What should change, among whom?  
+* **_Measurable_**: Can you measure the change (objectives)?  
+* **_Achievable_**: Are the change objectives you set achievable and attainable?  
+* **_Realistic_**: Can you realistically achieve the objectives with the resources you have?  
+* **_Time_**: Within what period will you achieve your change goals?
+
 
 Change Objectives are statements that, when true, mean that the corresponding sub-determinant has been achieved. They use so-called action words are listed in the Intervention Mapping book (4th ed.: Table 5.10, p. 317). Note that (sub-)determinants that you deferred or forwent are *not* included in your Matrix of Change Objectives.
+
+<div class="exampleList">
+
+**Background Step 2**: IM change objectives have to be specified explaining _who and what will change as a result of the intervention_. 
+
+Who or what will change can be at 
+
+  * the _individual level of change_, e.g.,"adolescents will express confidence regarding negotiating condom use with a sexual partner"  
+  * the _organizational level change_, e.g., "school administrators will acknowledge the advantages of condom distribution in school'  
+  * or the _community level change_, e.g., "community leaders will approve of the sale of inexpensive condoms in schools and meeting places". 
+
+</div>
 
 The Matrix of Change Objectives is structured as follows:
 
@@ -292,13 +313,13 @@ Je pakt de sub-determinanten (die je selecteerde, dus) en herformuleert ze als C
 
 <div class="produceSomething">
 
-- Produce a matrix of change objectives
+- Produce a Matrix of Change Objectives for each target behavior (for the target group and for each environmental agent).
 
 </div>
 
 ## Start on the logic model of change
 
-The logic of change is a model showing how you expect your intervention to work. These logic models can be easily produced using Acyclic Behavior Change Diagrams.
+The logic of change is a model showing how you expect your intervention to work. These logic models can be easily produced using Acyclic Behavior Change Diagrams (ABCD).
 
 
 
@@ -369,21 +390,7 @@ tmpNode$`Target Behavior`$name <- "Target Behavior of\nEnvironmental Agent";
 
 
 
-**Background Step 2**: IM change objectives have to be specified explaining _who and what will change as a result of the intervention_. 
 
-Change objectives may refer to 
-
-  * the _individual level of change_, e.g.,"adolescents will express confidence regarding negotiating condom use with a sexual partner"  
-  * the _organizational level change_, e.g., "school administrators will acknowledge the advantages of condom distribution in school'  
-  * or the _community level change_, e.g., "community leaders will approve of the sale of inexpensive condoms in schools and meeting places". 
-
-Change Objectives should be  
-    
-* **_Specific_**: Define as specific as possible: e.g., what should change in the target group and/or the environment in order to deal with or reduce the health-related problem. What should change, among whom?  
-* **_Measurable_**: Can you measure the change (objectives)?  
-* **_Achievable_**: Are the change objectives you set achievable and attainable?  
-* **_Realistic_**: Can you realistically achieve the objectives with the resources you have?  
-* **_Time_**: Within what period will you achieve your change goals?
 
 
 ![Logic model of Change](img/LogicModelofChange.png)
