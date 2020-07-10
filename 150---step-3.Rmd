@@ -1,16 +1,40 @@
 # Step 3
 
+In step 2, you produced a matrix of change objectives and you started on the Acyclic Behavior Change Diagram (ABCD; the logic model of change). In step 3, you will complete this ABCD by filling the three left-most columns. You will also wrap all this together into one coherent intervention by producing a program theme, designating each application to one or more program components, and deciding on the compenents' sequence and the program scope.
+
+In the 4th edition of the Intervention Mapping textbook, step 3 is discussed in Chapter 6, where the following learning objectives and tasks are discussed:
+
+- Generate program themes, components, scope, and sequence
+- Choose theory- and evidence-based change methods
+- Select or design practical applications to deliver change methods
+
+Pages 345-364 of the fourth edition of the IM book cover these tasks and give some examples. In this chapter of the workbook, we will do the work in these tasks. However, in these exercises, we deviate a bit from the structure in the book to easily split each task into subtasks.
+
+In the online version of this workbook, we used boxes with different colours to clearly signal types of content:
+
+- Green box: Brainstorm
+- Blue/purple box: Examples 
+- Red box: Product that should be done in the main google doc/google sheet/presentation. 
+
+In the downloadable version of this workbook, these boxes do not yet have a colour. On that note: if you happen to be good with LaTeX and willing to help out, it would be great of you could get in touch.
+
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+
+
+
+
 
 ![Program Design](img/programdesign.png)
-
-## Copy-paste info in matrices of CO into ABCDs
-
-(cell A1 -> column G)
-(row headers (col A) -> column F)
-(column headers (row 1) -> column E)
-(cell content -> column D)
-
 ## Select methods and applications
+
+The change objectives in each of your Matrix of Change Objectives, which correspond to the sub-determinants in column D of your ABCD matrix, exhaustively describe what you will target (and therefore, can expect to change) for each targeted population (e.g. your target population, each environmental agent, etc).
+
+Each of these sub-determinants represent psychological constructs that describe parts of the human psychology. As such, each relates to specific other constructs, such as psychological variables and processes. Ultimately, these constructs are metaphors for regularities in the neural networks that together form the human brain. All changes in those neural networks are called learning, and changing these constructs, therefore, inevitably also requires learning.
+
+In humans (and other organisms), nine learning processes evolved, called Evolutionary Learning Processes [ELPs; @crutzen_evolutionary_2017]. These learning processes each correspond to specific parts of the human brain: some have to do with social processes, some are more about habits. When developing behavior change interventions, however, you normally don't use ELPs: instead, you use Behavior Change Principles (BCPs) that leverage these very low-level ELPs in higher level descriptions. This has two important implications. First, each BCP works best to target specific psychological constructs. Second, when applying a BCP, it is important to closely 
+
 
 Add these in columns A, B, C of ABCD matrix
 
@@ -38,7 +62,7 @@ Add these in columns A, B, C of ABCD matrix
 
 ●	Get together online or offline with your little group
 ●	Use the feedback you received during the plenary session to enhance both your logic model of change and matrices 
-●	Read IM book (pp 345-364) to prepare for the plenary session
+●	
 
 
 ## Task – Identify methods and applications 
