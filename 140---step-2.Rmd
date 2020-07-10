@@ -6,7 +6,7 @@ editor_options:
 
 # Step 2
 
-Step 2 starts with "The Flip". In step 1, the focus was on the problem and the corresponding problematic behaviors. However, when you want people to do something differently, you have to be able to recommend a course of action to replace the undesirable behavior or to increase healthy behaviors: you want to _change behavior_.
+In step 1, the focus was on the problem and the corresponding problematic behaviors. However, when you want people to do something differently, you have to be able to recommend a course of action to replace the undesirable behavior or to increase healthy behaviors: you want to _change behavior_. IM experts call this "the Flip". Step 2 starts with "The Flip".
 
 In the 4th edition of the Intervention Mapping textbook, step 2 is discussed in Chapter 5, where the following learning objectives and tasks are discussed:
 
@@ -16,15 +16,8 @@ In the 4th edition of the Intervention Mapping textbook, step 2 is discussed in 
 - Construct matrices of change objectes
 - Create a logic model of change
 
-In this chapter of the workbook, we do the work of these tasks. However, the following exercises deviate a bit from the structure in the book, as it is easier to split each task into subtasks.
+In this chapter of the workbook, we still do the same work. However, the following exercises deviate from the structure in the textbook, as it is easier to split up each task into subtasks.
 
-In the online version of this workbook, we used boxes with different colours to clearly signal types of content:
-
-- Green box: Brainstorm (and other core processes)
-- Blue/purple box: Examples 
-- Red box: Product that should be done in the main google doc/google sheet/presentation. 
-
-In the downloadable version of this workbook, these boxes do not yet have a colour. On that note: if you happen to be good with LaTeX and willing to help out, it would be great if you would get in touch with us.
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
@@ -34,25 +27,22 @@ In the downloadable version of this workbook, these boxes do not yet have a colo
 
 ### List target group
 
-First, you decide on the target group (the population whose behavior your program should change). This can be the at-risk group, but it is also possible that your intervention will have to target another group. for instance, when your at-risk group is "new-born baby's" your target group will likely be the parents, or GP's.  
+First, you decide on the target group (the population whose behavior your program should change). This can be the at-risk group, but it is also possible that your intervention will have to target another group. For instance, when your at-risk group is "new-born baby's" your target group will likely be the parents, or GP's.  
 
-Note that it is possible that you did not specify any behavioral program goals in step 1, in which case you also do not directly target a target population.
 
 ### Target behavior
 
 Second, you define the target behavior. This is the desirable behavior of the target group: what should they do exactly?
 
-Note that it is possible that you did not specify any behavioral program goals in step 1, in which case you also do not have a target behavior to specify here (as you will see below, you will still end up specifying at least one target behavior, just not for the target group).
 
 ### List environmental conditions
 
 Third, list the environmental conditions you want to realise. Similar to the target behavior, this should be the desirable state. 
 
-Note that it is possible that you did not specify any environmental program goals in step 1, in which case you also do not yet specify any environmental conditions here (you may still end up specifying environmental conditions below).
+Note that sometimes in step 1 environmental program goals were not specified. In that case, you also do not yet specify any environmental conditions here (but you may still end up specifying environmental conditions below).
 
 ## Identify sub-behaviors / performance objectives
 
-"In real life", if you did not select a target group and target group in The Flip, you do not select performance objectives here yet. However, when working with this workbook, you must select a target group and a target behavior. Also note that even if in another situation, you do not select a target population and a target behavior, you will still select performance objectives for your environmental agent(s). The concept is quite central to Intervention Mapping.
 
 Target behaviors are often very broadly defined (see the examples below). Therefore, it is important to identify the sub-behaviors that make up the target behaviors. In Intervention Mapping, these sub-behaviors, ultimately being objectives you want to achieve with your intervention, are called Performance Objectives.
 
@@ -89,6 +79,8 @@ For example, when you like to promote condom use (health promoting behavior), yo
 
 </div>
 
+"In real life", if you did not select a target group and target behavior in The Flip, you do not select performance objectives here yet. Also note that even if in another situation, you do not select a target population and a target behavior, you will still select performance objectives for your environmental agent(s). The concept is quite central to Intervention Mapping.
+
 
 ## Identify environmental conditions and environmental agents
 
@@ -109,13 +101,13 @@ To find out the performance objectives for the environmental conditions, ask you
 <div class="exampleList">
 
 Target behavior: handwashing
-
- - Employer provides soap (employer is at organisational level)
- - Soap is available in every bathroom at work
-
+Environmental condition: Soap is available in every bathroom at work
+Performance objective: Employer provides soap (employer is at organisational level)
+ 
 
 Target behavior: condom use in gay sauna
-
+Environmental condition:
+Performance objective:
  - Sauna owner buys condoms (organisational level)
  - sauna owner provides condoms to customers (organisational level)
 
