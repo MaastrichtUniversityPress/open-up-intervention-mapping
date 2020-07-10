@@ -125,7 +125,7 @@ Because target behaviors for environmental agents are very broadly defined, inte
 <div class="exampleList">
 
 1. To realise the environmental condition "hand hygiene resources are available for employees", the environmental agent "employer" has to perform target behavior "make hand hygiene resources available". This target behavior is accomplished through the following performance objectives:
-    1. employer needs to adjust budgets for purchasing soal, towels, etc
+    1. employer needs to adjust budgets for purchasing soap and towels
     2. employer needs to task somebody with ensuring full soap dispensers
 2. dgddg:
     1. gdg
