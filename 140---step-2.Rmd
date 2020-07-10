@@ -110,12 +110,11 @@ Target behavior: handwashing
 Environmental condition: Soap is available in every bathroom at work
 Performance objective: Employer provides soap (employer is at organisational level)
  
-
 Target behavior: condom use in gay sauna
 Environmental condition: Sauna owner has a positive attitude towards providing condoms in his sauna
-Performance objective:
- - Sauna owner buys condoms (organisational level)
- - sauna owner shows where condoms are to customers (organisational level)
+Performance objective 1: Sauna employees receive customers in a non-judgmental fashion and have an empathic attitude (interpersonal level) level)
+Performance objective 2: Sauna owner buys condoms (organisational level)
+Performance objective 3:sauna owner implements protocol for employees which contains showing customers where condoms are (organisational level)
 
 </div>
 
