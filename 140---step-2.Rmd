@@ -315,6 +315,17 @@ Je pakt de sub-determinanten (die je selecteerde, dus) en herformuleert ze als C
 
 The logic of change is a model showing how you expect your intervention to work. These logic models can be easily produced using Acyclic Behavior Change Diagrams (ABCD).
 
+To produce the ABCDs, you first fill the ABCD matrix. The ABCD matrix is a table into which you copypaste, in the fourth, fifth, sixth, and seventh columns, the information in your Matrix of Change Objectives. This ABCD matrix is then used to produce the ABCD itself.
+
+
+
+## Copy-paste info in matrices of CO into ABCDs
+
+(cell A1 -> column G)
+(row headers (col A) -> column F)
+(column headers (row 1) -> column E)
+(cell content -> column D)
+
 
 
 
