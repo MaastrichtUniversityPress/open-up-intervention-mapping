@@ -143,17 +143,16 @@ Because target behaviors for environmental agents are broadly defined, interveni
 
 <div class="exampleList">
 
-1. Environmental condition = hand hygiene resources are available for employees
-2. Environmental agent = employer 
-3. Target behavior of environmental agent = "make hand hygiene resources available". 
-4. This target behavior is accomplished through the following performance objectives:
-    1. employer adjusts budgets for purchasing soap, towels, etc
-    2. employer task somebody with ensuring full soap dispensers
-    
-2. Environmental condition = people keep 1.5 meter distance in a small  street
-2. Environmental agent = municipality
-3. Target behavior of environmental agent = "clearly indicate with signs that people should keep distance" 
-    Performance objective = municipality orders the placing of signs (organisational level)
+- Environmental condition = hand hygiene resources are available for employees
+- Environmental agent = employer 
+- Target behavior of environmental agent = "make hand hygiene resources available". 
+- This target behavior is accomplished through the following performance objectives:
+    - employer adjusts budgets for purchasing soap, towels, etc
+    - employer task somebody with ensuring full soap dispensers
+- Environmental condition = people keep 1.5 meter distance in a small  street
+- Environmental agent = municipality
+- Target behavior of environmental agent = "clearly indicate with signs that people should keep distance" 
+- Performance objective = municipality orders the placing of signs (organisational level)
 
 </div>
 
