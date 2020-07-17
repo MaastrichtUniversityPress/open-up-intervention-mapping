@@ -16,7 +16,7 @@ In the 4th edition of the Intervention Mapping textbook, step 2 is discussed in 
 - Construct matrices of change objectes
 - Create a logic model of change
 
-In this chapter of the workbook, we still do the same work. However, the following exercises deviate from the structure in the textbook, as it is easier to split up each task into subtasks.
+In this workbook, we still do the same work. However, the following exercises deviate from the structure in the textbook, as it is easier to split up each task into subtasks.
 
 
 <!----------------------------------------------------------------------------->
@@ -107,12 +107,16 @@ To find out the performance objectives for the environmental conditions, ask you
 <div class="exampleList">
 
 - Target behavior: handwashing at work
-    - Environmental agent =  the boss
     - Environmental condition = Soap is available in every bathroom at work
-    - Performance objective: the boss provides soap (the boss is at the organisational level)
+    - Environmental agent =  the boss (the boss is at the organisational level)
+    - Environmental agents' target behavior = the boss provides soap
+        - Performance objective 1: the boss buys soap 
+        - Performance objective 2: the boss tasks employee to regularly refill soap containers
+        
+        
 - Target behavior: condom use in gay sauna
-    - Environmental condition: Sauna owner has a positive attitude towards providing condoms in his sauna
-    - Performance objective 1: Sauna employees receive customers in a non-judgmental fashion and have an empathic attitude (interpersonal level) level)
+    - Environmental condition: Sauna visitor is welcomed in a non-judgmental fashion towards using condoms in the sauna
+    - Performance objective 1: Sauna employees receive customers in a non-judgmental fashion and have an empathic attitude (interpersonal level)
     - Performance objective 2: Sauna owner buys condoms (organisational level)
 
 </div>

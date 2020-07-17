@@ -1,6 +1,6 @@
 # Step 3
 
-In step 2, you produced a matrix of change objectives and you started on the Acyclic Behavior Change Diagram (ABCD; the logic model of change). In step 3, you will complete this ABCD by filling the three left-most columns. You will also wrap all this together into one coherent intervention by producing a program theme, designating each application to one or more program components, and deciding on the compenents' sequence and the program scope.
+You produced a matrix of change objectives and you started on the Acyclic Behavior Change Diagram (ABCD; the logic model of change) in the previous step. In step 3, you complete this ABCD by filling in the three leftmost columns. You will then wrap all this together into one coherent intervention by producing a program theme, designating each application to one or more program components, and deciding on the components' sequence and the program scope.
 
 In the 4th edition of the Intervention Mapping textbook, step 3 is discussed in Chapter 6, where the following learning objectives and tasks are discussed:
 
@@ -8,15 +8,8 @@ In the 4th edition of the Intervention Mapping textbook, step 3 is discussed in 
 - Choose theory- and evidence-based change methods
 - Select or design practical applications to deliver change methods
 
-Pages 345-364 of the fourth edition of the IM book cover these tasks and give some examples. In this chapter of the workbook, we will do the work in these tasks. However, in these exercises, we deviate a bit from the structure in the book to easily split each task into subtasks.
+Pages 345-364 of the fourth edition of the IM book cover these tasks and give some examples. In this workbook, we still do the same work. However, the following exercises deviate from the structure in the textbook, as it is easier to split up each task into subtasks.
 
-In the online version of this workbook, we used boxes with different colours to clearly signal types of content:
-
-- Green box: Brainstorm
-- Blue/purple box: Examples 
-- Red box: Product that should be done in the main google doc/google sheet/presentation. 
-
-In the downloadable version of this workbook, these boxes do not yet have a colour. On that note: if you happen to be good with LaTeX and willing to help out, it would be great of you could get in touch.
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
@@ -24,27 +17,27 @@ In the downloadable version of this workbook, these boxes do not yet have a colo
 
 ## Select methods and applications
 
-The change objectives in each of your Matrix of Change Objectives, which correspond to the sub-determinants in column D of your ABCD matrix, exhaustively describe what you will target (and therefore, can expect to change) for each targeted population (e.g. your target population, each environmental agent, etc).
+The change objectives in each of your Matrices of Change Objectives correspond to the sub-determinants in column D of your ABCD matrix. The change objectives describe what you will target (and thus what you expect to change) for each targeted population (i.e., your target group, your environmental agent(s), etc).
 
-Each of these sub-determinants represent psychological constructs that describe parts of the human psychology. As such, each relates to specific other constructs, such as psychological variables and processes. Ultimately, these constructs are metaphors for regularities in the neural networks that together form the human brain. All changes in those neural networks are called learning, and changing these constructs, therefore, inevitably also requires learning.
+These sub-determinants represent psychological constructs that describe parts of the human psychology. As such, each relates to specific other constructs, such as psychological variables and processes. Ultimately, these constructs are metaphors for regularities in the neural networks that together form the human brain. All changes in those neural networks are called learning, and changing these constructs, therefore, inevitably also requires learning.
 
-In humans (and other organisms), nine learning processes evolved, called Evolutionary Learning Processes [ELPs; @crutzen_evolutionary_2017]. These learning processes each correspond to specific parts of the human brain: some have to do with social processes, some are more about habits. When developing behavior change interventions, however, you normally don't use ELPs: instead, you use Behavior Change Principles (BCPs) that leverage these very low-level ELPs in higher level descriptions. This has two important implications. First, each BCP works best to target specific psychological constructs. Second, when applying a BCP, it is important to closely approximate the conditions under which the underlying ELPs are effective. These conditions are described in each BCPs conditions for effectiveness.
+In humans (and other organisms), nine learning processes evolved, called Evolutionary Learning Processes [ELPs; @crutzen_evolutionary_2017]. These learning processes correspond to specific parts of the human brain: some have to do with social processes, some are more about habits. When developing behavior change interventions, however, you normally don't use ELPs: instead, you use Behavior Change Principles (BCPs) that leverage these very low-level ELPs in higher level descriptions. This has two important implications: First, each BCP works best to target specific psychological constructs. Second, when applying a BCP, it is important to closely approximate the conditions under which the underlying ELPs are effective. These conditions are described in each BCPs conditions for effectiveness.
 
 In Intervention Mapping, BCPs are called "methods", and each method's conditions for effectiveness are called "parameters for effectiveness". They are listed in Tables 6.5 to 6.18 in Chapter 6 (pages 345-433 of the 4th edition of the book), as well as included in the supplementary materials available at https://osf.io/ng3xh.
 
-In this step, you will add the methods and applications to your ABCD matrix, completing your logic model of change, and you will decide on a theme, a scope, components, and a sequence for your intervention.
+In this step, you will add the methods and applications to your ABCD matrix, completing your logic model of change, and you have to decide on a theme, a scope, components, and a sequence for your intervention.
 
 ## Select methods and applications
 
-Column D of your ABCD matrix contains the complete list of aspects of the psychology of the relevant target group (e.g. your intervention's target population, or an environmental agent, or an implementer, see Step 5). Each aspect (i.e. each sub-determinant / Change Objective) must be targeted by at least one application in your final intervention.
+Column D of your ABCD matrix contains the complete list of aspects of the psychology of the relevant target group (e.g. your intervention's target group, or an environmental agent, or an implementer, see Step 5). Each  sub-determinant/Change Objective must be targeted by at least one application in your final intervention.
 
-Therefore, start by thinking about which methods and application you want to use. This depends on what you will have available in your intervention: if the intervention can contain interactive elements, other methods are available than if you have to work through letters or bill boards (but letters or bill boards are cheaper, and can be more accessible, than other channels).
+Therefore, it is best to start by thinking about which methods and applications you want to use. This depends on what is available in your intervention: if the intervention contains interactive elements, other methods are available than if you have to work with mailings or bill boards (letters/mailings or bill boards are cheaper, and can be more accessible, than other channels).
 
-Deciding on your methods and applications is an iterative process, and you can approach it from either direction: either start thinking from which theoretical methods you want to use, and then think about how to apply them; or start thinking about how your intervention can look (the application) and then decide which methods are suited for those applications.
+Deciding on your methods and applications is an iterative process, and you can approach it from both directions: either you start thinking from which theoretical methods you want to use, and then think about how to apply them; or you can start thinking about what your intervention will look like (the application) and then decide which methods are suited for those applications.
 
 The important thing is that for every Change Objective in column D of your ABCD matrix, you specify which method you will use to target it in column A; how you will apply that method in column C; and how, in that application, you will implement that method's parameters for effectiveness in column B.
 
-If you target a Change Objective with multiple applications and/or methods, copy its row, such that you and up with an ABCD matrix where every row lists exactly one structural-causal chain.
+If you target a Change Objective with multiple applications and/or methods, copy its row, in such manner that you end up with an ABCD matrix where every row lists exactly one structural-causal chain.
 
 Use the determinants in column E to select the methods (the tables referred to above are organised per determinants).
 
@@ -59,8 +52,9 @@ Use the determinants in column E to select the methods (the tables referred to a
 
 
 <div class="exampleList">
+As you will see in the 2 examples, not every ABCD matrix looks the same. So, do not immediately think you did something wrong if it is not entirely similar to the examples. 
 
-- Maybe just link to some full ABCDs?
+- Link to 2 ABCD's unrelated to sex. 
 
 </div>
 
@@ -74,7 +68,7 @@ Use the determinants in column E to select the methods (the tables referred to a
 
 ## Themes, components, scope and sequence
 
-The Acyclic Behavior Change Diagram you now produce is the blueprint for your intervention. However, it is also extremely modular and very far from a coherent whole. Therefore, it is important to tie everything together into a coherent intervention.
+The Acyclic Behavior Change Diagram you produced is the blueprint for your intervention. However, it still is far from a coherent whole. It should still be tied together into a coherent intervention.
 
 To achieve this, you need to organize the applications (column C from your ABCD matrix) into components. Of these components, you need to decide the order in which they will be presented (the sequence), and you will need to decide the scope of each component (e.g. are there topics that should not be addressed?).
 
