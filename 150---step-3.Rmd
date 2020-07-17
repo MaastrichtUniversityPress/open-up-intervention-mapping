@@ -89,7 +89,7 @@ You also need a theme. You can think of the theme as the 'face' or 'corporate id
 
 <div class="exampleList">
 
-- Link to example themes etc from real interventions? Maybe COVID-19 related, or other publicly available and/or well-known interventions?
+-  This is really the moment to be creative together! Of course you could find themes on the internet of well-known interventions, which  might inspire you, or might be crippling and turn you into a copy-cat. 
 
 </div>
 
