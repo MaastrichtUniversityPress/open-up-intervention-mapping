@@ -295,9 +295,9 @@ Change Objectives are statements that, when true, mean that the corresponding su
 
 Who or what will change can be at 
 
-  * the _individual level of change_, e.g.,"adolescents will express confidence regarding negotiating condom use with a sexual partner"  
-  * the _organizational level change_, e.g., "school administrators will acknowledge the advantages of condom distribution in school'  
-  * or the _community level change_, e.g., "community leaders will approve of the sale of inexpensive condoms in schools and meeting places". 
+* the _individual level of change_, e.g.,"adolescents will express confidence regarding negotiating condom use with a sexual partner"  
+* the _organizational level change_, e.g., "school administrators will acknowledge the advantages of condom distribution in school'  
+* or the _community level change_, e.g., "community leaders will approve of the sale of inexpensive condoms in schools and meeting places". 
 
 </div>
 
