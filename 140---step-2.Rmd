@@ -212,7 +212,7 @@ Determinants regarding hand washing: belief that handwashing will reduce work pr
 
 <div class="produceSomething">
 
-- Create a long list of potential (sub-)determinants
+- Create a long list of potential (sub-)determinants in the spreadsheet linked to from the Google doc (complete columns A-E).
 
 </div>
 
@@ -250,7 +250,7 @@ Select from your list the most relevant determinants for your intervention that 
 
 <div class="produceSomething">
 
-- Process the and select, defer, or forgo each (sub-)determinant
+- Process each sub-determinant listed in the spreadsheet doc and select, defer, or forgo each (sub-)determinant (complete columns F and G)
 
 </div>
 
