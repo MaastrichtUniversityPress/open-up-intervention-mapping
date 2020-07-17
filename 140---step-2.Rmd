@@ -106,17 +106,14 @@ To find out the performance objectives for the environmental conditions, ask you
 
 <div class="exampleList">
 
-Target behavior: handwashing at work
-Environmental agent =  the boss
-Environmental condition = Soap is available in every bathroom at work
-Performance objective: the boss provides soap (the boss is at the organisational level)
-
- 
-Target behavior: condom use in gay sauna
-Environmental condition: Sauna owner has a positive attitude towards providing condoms in his sauna
-Performance objective 1: Sauna employees receive customers in a non-judgmental fashion and have an empathic attitude (interpersonal level) level)
-Performance objective 2: Sauna owner buys condoms (organisational level)
-
+- Target behavior: handwashing at work
+    - Environmental agent =  the boss
+    - Environmental condition = Soap is available in every bathroom at work
+    - Performance objective: the boss provides soap (the boss is at the organisational level)
+- Target behavior: condom use in gay sauna
+    - Environmental condition: Sauna owner has a positive attitude towards providing condoms in his sauna
+    - Performance objective 1: Sauna employees receive customers in a non-judgmental fashion and have an empathic attitude (interpersonal level) level)
+    - Performance objective 2: Sauna owner buys condoms (organisational level)
 
 </div>
 
