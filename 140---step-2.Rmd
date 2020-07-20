@@ -187,7 +187,7 @@ In an intervention, you don't target "attitude" or "knowledge": you communicate 
 
 ### Long-list sub-determinants and determinants
 
-First, you establish a long list, by simply including everything that might be important. Normally, you do this for every performance objective - for the target behavior of your target population, but also for the target behavior of each environmental agent. In real IM life you use all core processes and thus could look at theories, literature (e.g. meta-analyses), do your own experimental studies, or qualitative research, or do all of them. However, in this workbook, just select one environmental agent.
+First, you establish a long list by simply including everything that might be important. Normally, you do this for every performance objective - for the target behavior of your target population, but also for the target behavior of each environmental agent. In real IM life you use all core processes and thus should look at theories, literature (e.g. meta-analyses), do your own experimental studies, or qualitative research, or do all of them. However, in this workbook, just select one environmental agent.
 
 <div class="coreProcesses">
 
@@ -197,15 +197,31 @@ First, you establish a long list, by simply including everything that might be i
 
 <div class="exampleList">
 
-1. target individual, hand washing: expectations regarding effectivenes of hand washing; degree to which hand washing is automated; etc
+Target behavior individual = hand washing
 
-2. environmental agent = employer
-Determinants regarding hand washing: belief that handwashing will reduce work production; belief that illness will reduce work production; perceived norm regarding good employership.
+- Determinants of the individuals' target behavior:
+   - expectations regarding effectivenes of hand washing; 
+   - degree to which hand washing is automated; etc
 
-3. gay sauna owner, safe sex: expectation that more customers will come when free lube is provided; potential false belief: with free lube, people will slip and die.
+Environmental agent = employer
+
+- Determinants regarding hand washing: 
+    - belief that handwashing will reduce work production;
+    - belief that illness will reduce work production; 
+    - perceived norm regarding good employership, etc.
+
+Environmental agent = Gay sauna owner
+Target behavior = promoting safe sex in his sauna 
+- Determinants regarding safe sex:
+    - expectation that more customers will come when free lube is provided; 
+    - potential false belief: with free lube, people will slip and die.
 
 
-4. individual, keeping distance in the street: belief that becoming ill sooner than later is a positive thing because ICU's might be full in two months; expectation that one's immune system is strong enough; negative attitude towards older people in the streets; etc. 
+Target behavior individuals = keeping distance from eachother in the busy street
+- Determinants regarding social istancing:
+  - belief that becoming ill sooner than later is a positive thing because ICU's might be full in two months; 
+  - expectation that one's immune system is strong enough; 
+  - negative attitude towards elderly people in the streets; etc. 
 
 </div>
 
