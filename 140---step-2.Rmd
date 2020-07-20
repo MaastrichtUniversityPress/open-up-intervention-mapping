@@ -238,24 +238,27 @@ Target behavior individuals = keeping distance from eachother in the busy street
 
 ### Select, defer, or forgo sub-determinants and determinants
 
-Second, you go through the list and you select those (sub-)determinants and determinants you will retain for your intervention. There are three potential actions at this point:
+Second, you go through the list and you select those (sub-)determinants and determinants you wish to keep for your intervention. There are three potential actions at this point:
 
-1. Select a (sub-)determinant: in this case, you will retain this (sub-)determinant for step 3, and it will be targeted in your intervention.
-2. Defer a (sub-)determinant: in this case, you are not confident that this (sub-)determinant is not important (or not changeable), but you lack the resources to (also) target this (sub-)determinant in this intervention. This means you retain it for potential future iterations of your intervention.
-3. Forgo a (sub-)determinant: in this case, you decide that the (sub-)determinant is probably not important for the target behavior; or that it is important, but not feasible changeable with the means you have available or can conceivably secure in the future.
+1. *Select a (sub-)determinant*: you will retain this (sub-)determinant for step 3, to target it with your intervention.
+2. *Defer a (sub-)determinant*: you lack the resources to (also) target this (sub-)determinant in this intervention. You think   that this (sub-)determinant is important (and changeable), but you keep it for potential future iterations of your intervention.
+3. *Forgo a (sub-)determinant*: you decide that the (sub-)determinant is probably not so important for the target behavior; or that it is important, but not changeable with the means you have available or can conceivably secure in the future.
 
-Select from your list the most relevant determinants for your intervention that are important - they contribute significantly to the behavior (0, +, or ++), and that are changeable - they can be changed with the available methods (0, +, or ++). Consult the literature and your common sense to make these decisions.   
+Select from your list the most relevant determinants for your intervention that are important - *they contribute significantly to the behavior (0, +, or ++*), and that are *changeable - they can be changed with the available methods (0, +, or ++*). Consult the literature and your common sense to make these decisions.   
 
 <div class="coreProcesses">
 
 - Read ‘Rating importance of determinants’, IM Book, pp. 306-308.  
-- Decide for each determinant whether to select, defer, or forgo it, based on information about the determinants' associations to (proxies of) behavior in the case of the population (e.g. your target group or an environmental agent), and information about the changeability of the determinants, for example based on psychological theory.
+- Decide for each determinant whether to select, defer, or forgo it, based on information about the determinants' associations to (proxies of) behavior in the case of the population (e.g., your target group or an environmental agent), and information about the changeability of the determinants, for example based on psychological theory.
 
 </div>
 
 <div class="exampleList">
 
-- examples about determinant selection based on importance and changeability, using e.g. https://www.healthpsychologybulletin.com/articles/10.5334/hpb.18/
+Here are links with examples of determinant selection based on importance and changeability:
+
+- Cannabis use:
+https://www.healthpsychologybulletin.com/articles/10.5334/hpb.18/
 
 - Eating behavior: https://www.sciencedirect.com/science/article/abs/pii/S0195666320300672
 
@@ -280,7 +283,7 @@ Out of the long list of potentially important stuff, decide which you select. If
 
 <div class="exampleList">
 
-selection based on how important stuff is for the behavior (relevance; iusuall =y correlational evidence) and how easy it is to change somehting (sadly usually anecdotal evidence; sometimes fofr detemrinants meta analyses or sysrevs)
+Selection based on how important stuff is for the behavior (relevance; usually correlational evidence) and how easy it is to change something (sadly, this is too often just anecdotal evidence; sometimes for determinants meta-analyses or systematic reviews)
 
 </div>
 
@@ -303,7 +306,9 @@ SMART refers to:
 * **_Time_**: Within what period will you achieve your change goals?
 
 
-Change Objectives are statements that, when true, mean that the corresponding sub-determinant has been achieved. They use so-called action words are listed in the Intervention Mapping book (4th ed.: Table 5.10, p. 317). Note that (sub-)determinants that you deferred or forwent are *not* included in your Matrix of Change Objectives.
+Change Objectives are statements that, when true, mean that the corresponding sub-determinant has been achieved. They use so-called action words, which are listed in the IM textbook (4th ed.: Table 5.10, p. 317). 
+
+Note that (sub-)determinants that you deferred or forwent are *not* included in your Matrix of Change Objectives.
 
 <div class="exampleList">
 
@@ -312,8 +317,8 @@ Change Objectives are statements that, when true, mean that the corresponding su
 Who or what will change can be at 
 
 * the _individual level of change_, e.g.,"adolescents will express confidence regarding negotiating condom use with a sexual partner"  
-* the _organizational level change_, e.g., "school administrators will acknowledge the advantages of condom distribution in school'  
-* or the _community level change_, e.g., "community leaders will approve of the sale of inexpensive condoms in schools and meeting places". 
+* the _organizational level change_, e.g., "sauna owners will acknowledge the advantages of condom distribution in the sauna'  
+* or the _community level change_, e.g., "community leaders will approve of extracurricular physical workouts in school buildings". 
 
 </div>
 
@@ -325,11 +330,6 @@ The Matrix of Change Objectives is structured as follows:
 
 Note that some cells will contain multiple change objectives, and some cells will be empty, because not all determinants are important for all performance objectives.
 
-<div class="exampleList">
-
-Je pakt de sub-determinanten (die je selecteerde, dus) en herformuleert ze als COs volgens IM richtlijnen.
-
-</div>
 
 <div class="produceSomething">
 
