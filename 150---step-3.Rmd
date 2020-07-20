@@ -70,20 +70,20 @@ As you will see in the 2 examples, not every ABCD matrix looks the same. So, do 
 
 The Acyclic Behavior Change Diagram you produced is the blueprint for your intervention. However, it still is far from a coherent whole. It should still be tied together into a coherent intervention.
 
-To achieve this, you need to organize the applications (column C from your ABCD matrix) into components. Of these components, you need to decide the order in which they will be presented (the sequence), and you will need to decide the scope of each component (e.g. are there topics that should not be addressed?).
+To achieve this, you need to *organize the applications* (column C from your ABCD matrix) into components. Next, you decide on *the sequence*; the order in which the components will be presented, and decide on *the scope* of each component (e.g., are there topics that should not be addressed?).
 
-You also need a theme. You can think of the theme as the 'face' or 'corporate identity' of your intervention. It is how your intervention will be called and presented to your target group and to implementers.
+You also need a theme. You can think of the theme as the 'face' or 'corporate identity' of your intervention. How do you "call" your intervention and present it to your target group and to implementers?
 
 <div class="coreProcesses">
 
-- Generate ideas about themes, components, scope and sequence of the program
+- Generate ideas about possible themes, components, the scope and sequence of the program
 (see page 355 in the book)
 
 </div>
 
 <div class="exampleList">
 
--  This is really the moment to be creative together! Of course you could find themes on the internet of well-known interventions, which  might inspire you, or might be crippling and turn you into a copy-cat. 
+-  This is really the moment to be creative together! Of course you could find themes on the internet of well-known interventions, which  might inspire you, or first seeing other examples might be creativity-crippling and turn you into a copy-cat. 
 
 </div>
 
