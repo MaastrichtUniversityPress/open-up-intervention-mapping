@@ -17,7 +17,7 @@ Pages 345-364 of the fourth edition of the IM book cover these tasks and give so
 
 ## Select methods and applications
 
-The change objectives in each of your Matrices of Change Objectives correspond to the sub-determinants in column D of your ABCD matrix. The change objectives describe what you will target (and thus what you expect to change) for each targeted population (i.e., your target group, your environmental agent(s), etc).
+The change objectives in each of your Matrices of Change Objectives correspond to the sub-determinants in column D of your ABCD matrix. They describe what you will target (and thus what you expect to change) for each targeted population (i.e., your target group, your environmental agent(s), etc).
 
 These sub-determinants represent psychological constructs that describe parts of the human psychology. As such, each relates to specific other constructs, such as psychological variables and processes. Ultimately, these constructs are metaphors for regularities in the neural networks that together form the human brain. All changes in those neural networks are called learning, and changing these constructs, therefore, inevitably also requires learning.
 
@@ -43,7 +43,7 @@ Use the determinants in column E to select the methods (the tables referred to a
 
 <div class="coreProcesses">
 
-- Study Tables 6.5 to 6.18 in Chapter 6 (pages 345-433 of the 4th edition of the book) or the tables in the supplementary materials available at https://osf.io/ng3xh.
+- Study Tables 6.5 to 6.18 in Chapter 6 (pages 345-433 of the 4th edition of the IM book) or the tables in the supplementary materials available at https://osf.io/ng3xh.
 - Select theoretical methods for your Change Objectives. If you are unable to identify methods but able to identify applications, ask yourself – why would it work? The answer will lead you to a method.
 - Complete columns A, B, and C of your ABCD matrix.
 - Do this both for the ABCD matrix of the target group and for one environmental agent. Note that for environmental agents, different methods exist depending on their environmental level.
