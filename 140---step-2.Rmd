@@ -424,12 +424,12 @@ tmpNode$`Target Behavior`$name <- "Target Behavior of\nEnvironmental Agent";
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
-<!-- Dit stukje hieronder is het oude stukje. --------------------------------->
+<!-- Dit stukje hieronder is het oude stukje. Wat het onduidelijk maakt voor mij, is dat daaronder weer staat dat iets HEEL belangrijk is. Niet oud en niet weg doen, dus? ik heb wat gemixt met hierboven. --------------------------------->
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
 <!-- Alles hieronder moet worden verwijderd en eventueel, als het er al ------->
-<!-- niet staat, geintegreerd in het stuk hierboven. -------------------------->
+<!-- niet staat, geintegreerd in het stuk hierboven.  -------------------------->
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
@@ -509,9 +509,5 @@ Formulate change objectives in a way that makes them **measurable** by using act
 ![Logic model of Change](img/LogicModelofChange.png)
 
 
-## Task - Finish the powerpoint slides
 
-Tomorrow morning, Dr. G. J. Peters will give feedback on your Logic Model of Change. 
-●	Bring the presentation on a USB stick tomorrow!
-●	Prepare explanation of the slides of your logic model of change, and the 2 matrices of change objectives of task 4.4
 
