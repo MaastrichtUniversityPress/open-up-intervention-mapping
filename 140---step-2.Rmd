@@ -33,19 +33,19 @@ First, you decide on the target group (the population whose behavior your progra
 
 ### Define the target behavior
 
-Second, you define the target behavior. This is _the desirable behavior_ of the target group: what should they do exactly?
+Second, you define the target behavior. This is _*the desirable behavior*_ of the target group: what should they do exactly?
 
 
 ### List environmental conditions
 
-Third, list the environmental conditions you want to realise. Similar to the target behavior, this should be the desirable state. 
+Third, list the environmental conditions you want to realise. Similar to the target behavior, this should be the _*desirable state*_. 
 
-Note that sometimes in step 1 environmental program goals were not specified. In that case, you also do not yet specify any environmental conditions here (but you may still end up specifying environmental conditions below).
+*Note that in step 1 environmental program goals are not always specified. In that case, you also do not specify environmental conditions here yet (but you may still end up specifying environmental conditions below).*
 
-## Identify sub-behaviors / performance objectives
+## Identify sub-behaviors/performance objectives
 
 
-Target behaviors are often very broadly defined (see the examples below). Therefore, it is important to identify the sub-behaviors that make up the target behaviors. In Intervention Mapping, these sub-behaviors, ultimately being objectives you want to achieve with your intervention, are called Performance Objectives.
+Target behaviors are often very broadly defined (see the examples below). It is therefore important to identify the _sub-behaviors_ that make up the target behaviors. These ultimately being objectives you want to achieve with your intervention, In Intervention Mapping, these sub-behaviors are called Performance Objectives.
 
 <div class="coreProcesses">
 
