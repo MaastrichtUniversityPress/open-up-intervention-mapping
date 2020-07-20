@@ -43,7 +43,8 @@ Who would you ask for your planning group? To help answer this question, brainst
 
 <div class="exampleList">
 
-- We want to increase physical activity in young children, and decrease overweight, but the at-risk group is a bit too young for the planning group, so asking parents (possible target group) is an idea.
+We want to increase physical activity in young children, and decrease overweight, but the at-risk group is a bit too young for the planning group, so asking parents (possible target group) is an idea.
+
 - Prevention workers and members of the local health council (decision maker)
 - The head of schools (implementers)
 - Experts in physical exercise and obesity in children
@@ -103,18 +104,20 @@ Remember that in this course, instead of applying the core processes as they are
 <div class="exampleList">
 
 Example: We want to promote social distancing in Amsterdam and we want to target the older population.
-    1. At-risk group = 60+ years old citizen
-    2. Behavior at risk group = They do not always keep the proper distance when in the streets 
-    3. Target group = 60+ years old citizen
-    4. Environmental conditions = the sidewalks are not wide enough
-    5. Environmental agents = the municipality
+
+ 1. At-risk group = 60+ years old citizen
+ 2. Behavior at risk group = They do not always keep the proper distance when in the streets 
+ 3. Target group = 60+ years old citizen
+ 4. Environmental conditions = the sidewalks are not wide enough
+ 5. Environmental agents = the municipality
 
 Example: We want primary school children to exercise more frequently.
-    1. At-risk group = primary school children 
-    2. Behavior at risk group = They play videogames all afternoon. 
-    3. Target group = parents
-    4. Environmental conditions = no possibility to play outside
-    5. Environmental agents = heads of schools 
+
+ 1. At-risk group = primary school children 
+ 2. Behavior at risk group = They play videogames all afternoon. 
+ 3. Target group = parents
+ 4. Environmental conditions = no possibility to play outside
+ 5. Environmental agents = heads of schools 
 
 </div>
 
