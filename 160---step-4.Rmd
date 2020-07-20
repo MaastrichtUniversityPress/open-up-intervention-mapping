@@ -1,13 +1,13 @@
 # Step 4
 
 
-## Task – Step 4 - Program production
+## Program production
 
-●	Read book Step 4: Program production (pp 435- 476)
+●	Read IM book on Program production (pp 435- 476) as a preparation. 
 
-## Task – Program plan
+## Program plan
 
-●	Refine program structure by organizing methods and applications in a program plan that describes who must do what and when, considering available channels and the delivery systems. The program structure should describe the following:
+●	Your program plan needs a good structure. You first organize the methods and applications of choice in a program plan that describes who must do what and when, considering available channels and the delivery systems. The program structure should describe the following:
 
  - the themes (general organizing constructs) (p.356)  
  - the scope of the program (the breadth and amount of the program) (p. 358)  
@@ -16,7 +16,7 @@
  - The book emphasizes cultural relevance (p. 438), but when you are a  Development and Health psychology student, you might need to be aware of age-relevant issues and developmental stages.
 
 
-## Task
+## Program materials
 Program materials should support your program, and logically follow from the change objectives that you have formulated in step 2, and the methods and applications that were chosen in step 3. The program should reach the intended at-risk population or target group, and the environmental agents, so the **delivery context or setting** are important to consider. 
 
 ●	Prepare plans for program materials: Create specifications and working documents. 
@@ -43,9 +43,9 @@ Example format for program material plans:
 </div>
 
 
-## Task - Draft messages, materials and protocols
+## Draft messages, materials and protocols
 
-## Task - Pretest, refine, and produce materials. 
+## Pretest, refine, and produce materials. 
 
 ●	How would you pretest the program applications and materials?
 
@@ -54,7 +54,7 @@ Example format for program material plans:
  - Anticipate implementation before you finalize the applications and program
  - Check: Are all your change objectives still in the final program?
 
-
+Of course you will not be able to do all these things in this workshop but in real life IM you shall have to take these steps too.  
 
 
 
