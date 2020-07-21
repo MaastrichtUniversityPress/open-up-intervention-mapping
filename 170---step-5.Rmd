@@ -12,9 +12,10 @@ Then, adapt your planningsgroup (re-evaluate who should be in there), etc.
 <div class="exampleList">
 
 Example:
-Who executes your programme or intervention?
-- Our intervention for young overweight children will be adopted by parents and teachers. 
-How will they know that our intervention exists?
-- Head of schools should inform them. 
+
+- Who executes your programme or intervention?
+  - Our intervention for young overweight children will be adopted by parents and teachers. 
+- How will they know that our intervention exists?
+  - Head of schools should inform them. 
 
 </div>
