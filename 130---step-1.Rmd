@@ -166,16 +166,16 @@ A program always has one or more ultimate goals. The environmental goals and beh
 <div class="exampleList">
 
 1. Reaching the 60+ population is more difficult, and they are physically slower, so although they are the at-risk group,we now choose the younger adults as target group. To do this in the entire city is not feasible, so we focus at one busy street. To set our goals too far in the future, would be useless, so we want fast implementation and fast results. The program goal would therefore be *to increase social distancing of adults under 30 by 50% on the sidewalk in the Kalverstraat in Amsterdam within 2 weeks.*
-2. The program goals are 
-    a. to increase physical activity in children between 6 and 10 by 30% and to decrease weight in the overweight children by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord. 
-    b. to decrease weight in the overweight children children between 6 and 10 by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord.
-Here we could have the parents as target group (we need them to bring the children to the extracurricular gymnastic classes) or the head of schools in Amsterdam-Noord (who need to implement our intervention program at their school).
+2. We wanted primary school children to exercise more frequently. We chose the following program goals: 
+    a. *to increase physical activity in children between 6 and 10 by 30% and to decrease weight in the overweight children by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord.* 
+    b. *to decrease weight in the overweight children children between 6 and 10 by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord.*
+Note that we separated increasing activity and decreasing weight. Here we might picked the parents as the target group (we need them to bring the children to the extracurricular gymnastic classes) or the heads of schools in Amsterdam-Noord (who need to implement our intervention program at their school). By the way: the program goals should be feasible! Our examples might not be that feasible, but at least we focused at a specific agegroup of children in a specific area (Amsterdam-Noord), instead of 'all children in the world'.  
 
 </div>
 
 ### Product
 
-Although "in real life", it is quite possible to not have any behavioral program goals, when working with this workbook, you *must* select a target population (which can be either the at-risk population or a different population) and a behavioral goal.
+Although "in real life", it is quite possible to not have any behavioral program goals, when working with this workbook, you *must* select a target group (which can be either the at-risk group or a different population) and a behavioral goal.
 
 <div class="produceSomething">
 
