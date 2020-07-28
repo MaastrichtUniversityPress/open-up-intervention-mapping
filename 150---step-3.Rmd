@@ -15,7 +15,7 @@ Pages 345-364 of the fourth edition of the IM book cover these tasks and give so
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
 
-## Select methods and applications
+## Background information
 
 The change objectives in each of your Matrices of Change Objectives correspond to the sub-determinants in column D of your ABCD matrix. The change objectives describe what you will target (and thus what you expect to change) for each targeted population (i.e., your target group, your environmental agent(s), etc).
 
