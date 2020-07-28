@@ -33,19 +33,19 @@ First, you decide on the target group (the population whose behavior your progra
 
 ### Define the target behavior
 
-Second, you define the target behavior. This is _the desirable behavior_ of the target group: what should they do exactly?
+Second, you define the target behavior. This is _*the desirable behavior*_ of the target group: what should they do exactly?
 
 
 ### List environmental conditions
 
-Third, list the environmental conditions you want to realise. Similar to the target behavior, this should be the desirable state. 
+Third, list the environmental conditions you want to realise. Similar to the target behavior, this should be the _*desirable state*_. 
 
-Note that sometimes in step 1 environmental program goals were not specified. In that case, you also do not yet specify any environmental conditions here (but you may still end up specifying environmental conditions below).
+*Note that in step 1 environmental program goals are not always specified. In that case, you also do not specify environmental conditions here yet (but you may still end up specifying environmental conditions below).*
 
-## Identify sub-behaviors / performance objectives
+## Identify sub-behaviors/performance objectives
 
 
-Target behaviors are often very broadly defined (see the examples below). Therefore, it is important to identify the sub-behaviors that make up the target behaviors. In Intervention Mapping, these sub-behaviors, ultimately being objectives you want to achieve with your intervention, are called Performance Objectives.
+Target behaviors are often very broadly defined (see the examples below). It is therefore important to identify the _sub-behaviors_ that make up the target behaviors. These ultimately being objectives you want to achieve with your intervention, In Intervention Mapping, these sub-behaviors are called Performance Objectives.
 
 <div class="coreProcesses">
 
@@ -187,7 +187,7 @@ In an intervention, you don't target "attitude" or "knowledge": you communicate 
 
 ### Long-list sub-determinants and determinants
 
-First, you establish a long list, by simply including everything that might be important. Normally, you do this for every performance objective - for the target behavior of your target population, but also for the target behavior of each environmental agent. In real IM life you use all core processes and thus could look at theories, literature (e.g. meta-analyses), do your own experimental studies, or qualitative research, or do all of them. However, in this workbook, just select one environmental agent.
+First, you establish a long list by simply including everything that might be important. Normally, you do this for every performance objective - for the target behavior of your target population, but also for the target behavior of each environmental agent. In real IM life you use all core processes and thus should look at theories, literature (e.g. meta-analyses), do your own experimental studies, or qualitative research, or do all of them. However, in this workbook, just select one environmental agent.
 
 <div class="coreProcesses">
 
@@ -197,15 +197,31 @@ First, you establish a long list, by simply including everything that might be i
 
 <div class="exampleList">
 
-1. target individual, hand washing: expectations regarding effectivenes of hand washing; degree to which hand washing is automated; etc
+Target behavior individual = hand washing
 
-2. environmental agent = employer
-Determinants regarding hand washing: belief that handwashing will reduce work production; belief that illness will reduce work production; perceived norm regarding good employership.
+- Determinants of the individuals' target behavior:
+   - expectations regarding effectivenes of hand washing; 
+   - degree to which hand washing is automated; etc
 
-3. gay sauna owner, safe sex: expectation that more customers will come when free lube is provided; potential false belief: with free lube, people will slip and die.
+Environmental agent = employer
+
+- Determinants regarding hand washing: 
+    - belief that handwashing will reduce work production;
+    - belief that illness will reduce work production; 
+    - perceived norm regarding good employership, etc.
+
+Environmental agent = Gay sauna owner
+Target behavior = promoting safe sex in his sauna 
+- Determinants regarding safe sex:
+    - expectation that more customers will come when free lube is provided; 
+    - potential false belief: with free lube, people will slip and die.
 
 
-4. individual, keeping distance in the street: belief that becoming ill sooner than later is a positive thing because ICU's might be full in two months; expectation that one's immune system is strong enough; negative attitude towards older people in the streets; etc. 
+Target behavior individuals = keeping distance from eachother in the busy street
+- Determinants regarding social istancing:
+  - belief that becoming ill sooner than later is a positive thing because ICU's might be full in two months; 
+  - expectation that one's immune system is strong enough; 
+  - negative attitude towards elderly people in the streets; etc. 
 
 </div>
 
@@ -222,24 +238,27 @@ Determinants regarding hand washing: belief that handwashing will reduce work pr
 
 ### Select, defer, or forgo sub-determinants and determinants
 
-Second, you go through the list and you select those (sub-)determinants and determinants you will retain for your intervention. There are three potential actions at this point:
+Second, you go through the list and you select those (sub-)determinants and determinants you wish to keep for your intervention. There are three potential actions at this point:
 
-1. Select a (sub-)determinant: in this case, you will retain this (sub-)determinant for step 3, and it will be targeted in your intervention.
-2. Defer a (sub-)determinant: in this case, you are not confident that this (sub-)determinant is not important (or not changeable), but you lack the resources to (also) target this (sub-)determinant in this intervention. This means you retain it for potential future iterations of your intervention.
-3. Forgo a (sub-)determinant: in this case, you decide that the (sub-)determinant is probably not important for the target behavior; or that it is important, but not feasible changeable with the means you have available or can conceivably secure in the future.
+1. *Select a (sub-)determinant*: you will retain this (sub-)determinant for step 3, to target it with your intervention.
+2. *Defer a (sub-)determinant*: you lack the resources to (also) target this (sub-)determinant in this intervention. You think   that this (sub-)determinant is important (and changeable), but you keep it for potential future iterations of your intervention.
+3. *Forgo a (sub-)determinant*: you decide that the (sub-)determinant is probably not so important for the target behavior; or that it is important, but not changeable with the means you have available or can conceivably secure in the future.
 
-Select from your list the most relevant determinants for your intervention that are important - they contribute significantly to the behavior (0, +, or ++), and that are changeable - they can be changed with the available methods (0, +, or ++). Consult the literature and your common sense to make these decisions.   
+Select from your list the most relevant determinants for your intervention that are important - *they contribute significantly to the behavior (0, +, or ++*), and that are *changeable - they can be changed with the available methods (0, +, or ++*). Consult the literature and your common sense to make these decisions.   
 
 <div class="coreProcesses">
 
 - Read ‘Rating importance of determinants’, IM Book, pp. 306-308.  
-- Decide for each determinant whether to select, defer, or forgo it, based on information about the determinants' associations to (proxies of) behavior in the case of the population (e.g. your target group or an environmental agent), and information about the changeability of the determinants, for example based on psychological theory.
+- Decide for each determinant whether to select, defer, or forgo it, based on information about the determinants' associations to (proxies of) behavior in the case of the population (e.g., your target group or an environmental agent), and information about the changeability of the determinants, for example based on psychological theory.
 
 </div>
 
 <div class="exampleList">
 
-- examples about determinant selection based on importance and changeability, using e.g. https://www.healthpsychologybulletin.com/articles/10.5334/hpb.18/
+Here are links with examples of determinant selection based on importance and changeability:
+
+- Cannabis use:
+https://www.healthpsychologybulletin.com/articles/10.5334/hpb.18/
 
 - Eating behavior: https://www.sciencedirect.com/science/article/abs/pii/S0195666320300672
 
@@ -264,7 +283,7 @@ Out of the long list of potentially important stuff, decide which you select. If
 
 <div class="exampleList">
 
-selection based on how important stuff is for the behavior (relevance; iusuall =y correlational evidence) and how easy it is to change somehting (sadly usually anecdotal evidence; sometimes fofr detemrinants meta analyses or sysrevs)
+Selection based on how important stuff is for the behavior (relevance; usually correlational evidence) and how easy it is to change something (sadly, this is too often just anecdotal evidence; sometimes for determinants meta-analyses or systematic reviews)
 
 </div>
 
@@ -276,7 +295,14 @@ selection based on how important stuff is for the behavior (relevance; iusuall =
 
 ## Produce Matrices of Change Objectives
 
-A Change Objective is a sub-determinant that you selected from the long list, reformulated according to specific guidelines. By applying these guidelines, you formulate change objectives according to similar principles as you applied for performance objectives. The idea is that while sub-determinants express a psychological state or process, change objectives are formulated to be measurable ('SMART').
+Matrices of change objectives are generally made for each level of intervention planning: 
+Individual
+Interpersonal
+Organizational
+Community
+Societal
+
+Change objectives are the specific goals of your intervention. Change objectives literally state what should change at the individual levels, or what should change among environmental agents. A change objective is a sub-determinant that you selected from the long list, but reformulated. You formulate change objectives according to similar principles as you applied for performance objectives. Change Objectives are statements that, when true, mean that the corresponding sub-determinant has been achieved. The idea is that while sub-determinants express a psychological state or process, change objectives are formulated to be measurable **('SMART')**.
 
 SMART refers to:  
     
@@ -287,7 +313,21 @@ SMART refers to:
 * **_Time_**: Within what period will you achieve your change goals?
 
 
-Change Objectives are statements that, when true, mean that the corresponding sub-determinant has been achieved. They use so-called action words are listed in the Intervention Mapping book (4th ed.: Table 5.10, p. 317). Note that (sub-)determinants that you deferred or forwent are *not* included in your Matrix of Change Objectives.
+<div class="coreProcesses">
+
+For change objective at the individual level ask: _“What do people need to learn with regard to the determinant to do the performance objective?”_ 
+
+ - For example, for a change objective regarding self-efficacy, you might ask: _“What do people need to learn with regard to self-efficacy to carry a condom?”_
+ 
+For environmental level change objectives you might ask: _“What do agents need to learn with regard to the determinant in order to do the performance objective?”_ 
+
+ - For a change objective regarding social norms in the community you might thus ask: _“What do people in the community need to learn in order for the person to keep a social distance in a busy street?”_ 
+
+Formulate change objectives in a way that makes them **measurable** by using active verbs such as “shows”, “indicates”, “demonstrates” etc; see page 317 of the IM book for examples of active verbs (4th ed.: Table 5.10, p. 317).
+ 
+</div>
+
+Note that (sub-)determinants that you deferred or forwent are *not* included in your Matrix of Change Objectives.
 
 <div class="exampleList">
 
@@ -296,8 +336,8 @@ Change Objectives are statements that, when true, mean that the corresponding su
 Who or what will change can be at 
 
 * the _individual level of change_, e.g.,"adolescents will express confidence regarding negotiating condom use with a sexual partner"  
-* the _organizational level change_, e.g., "school administrators will acknowledge the advantages of condom distribution in school'  
-* or the _community level change_, e.g., "community leaders will approve of the sale of inexpensive condoms in schools and meeting places". 
+* the _organizational level change_, e.g., "sauna owners will acknowledge the advantages of condom distribution in the sauna'  
+* or the _community level change_, e.g., "community leaders will approve of extracurricular physical workouts in school buildings". 
 
 </div>
 
@@ -309,11 +349,6 @@ The Matrix of Change Objectives is structured as follows:
 
 Note that some cells will contain multiple change objectives, and some cells will be empty, because not all determinants are important for all performance objectives.
 
-<div class="exampleList">
-
-Je pakt de sub-determinanten (die je selecteerde, dus) en herformuleert ze als COs volgens IM richtlijnen.
-
-</div>
 
 <div class="produceSomething">
 
@@ -323,19 +358,19 @@ Je pakt de sub-determinanten (die je selecteerde, dus) en herformuleert ze als C
 
 ## Start on the logic model of change
 
-The logic of change is a model showing how you expect your intervention to work. These logic models can be easily produced using Acyclic Behavior Change Diagrams (ABCD).
+The logic model of change is a model showing how you expect your intervention to work. These logic models can be easily produced using Acyclic Behavior Change Diagrams (ABCD).
 
-To produce the ABCDs, you first fill the ABCD matrix. The ABCD matrix is a table into which you copypaste, in the fourth, fifth, sixth, and seventh columns, the information in your Matrix of Change Objectives. This ABCD matrix is then used to produce the ABCD itself.
+To produce the ABCDs, you first fill in the ABCD matrix. The ABCD matrix is a table into which you copypaste (in columns 4, 5, 6 and 7) the information in your Matrix of Change Objectives. This ABCD matrix is then used to produce the ABCD itself.
 
 Open the Matrix of Change Objectives that you just produced, and open the empty ABCD matrix provided in the Google document. Then, copy the following cells from the Matrix of Change Objectives spreadsheet to the ABCD matrix spreadsheet:
 
 - Cell A1 lists the target behavior: copy it to cell G2, and then duplicate it to the cells in column G for every row you end up filling in the ABCD matrix.
 - The row headers (column A) contain the performance objectives (the sub-behaviors). Copy these to column F of the ABCD matrix.
 - The column headers (row 1) contain the determinants. You will eventually copy these to column E of the ABCD matrix (but see the next bullet).
-- In the cells, the Matrix of Change Objectives contains the Change Objectives themselves. These are sub-determinants that have been rephrased conform the specific guidelines for Change Objective phrasing. Each of these sub-determinants/Change Objectives has its own line in the ABCD matrix. The sub-determinant/Change Objective itself is in column D of that row. Note that the Matrix of Change Objectives can have multiple Change Objectives in one cell, so some cells in your Matrix of Change Objectives may end up corresponding to multiple rows in your ABCD matrix, because in your ABCD matrix, it is crucial that each sub-determinant/Change Objective has its own line.
+- In the cells, the Matrix of Change Objectives contains the Change Objectives themselves. These are sub-determinants that have been rephrased conform the specific guidelines for Change Objective phrasing. Each of these sub-determinants/Change Objectives has its own line in the ABCD matrix. The sub-determinant/Change Objective itself is in column D of that row. Note that the Matrix of Change Objectives can have multiple Change Objectives in one cell. Some cells in your Matrix of Change Objectives may thus end up corresponding to multiple rows in your ABCD matrix, because in your ABCD matrix, it is crucial that each sub-determinant/Change Objective has its own line.
 - After you copy-pasted all sub-determinants/Change Objectives into column D of the ABCD matrix, verify that every row also has the corresponding determinant in column E, the corresponding sub-behavior/performance objective in column F, and the corresponding target behavior in column G.
 
-You will fill columns A, B, and C in step 3.
+You will fill in columns A, B, and C in step 3.
 
 
 
@@ -389,26 +424,16 @@ tmpNode$`Target Behavior`$name <- "Target Behavior of\nEnvironmental Agent";
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
-<!-- Dit stukje hieronder is het oude stukje. --------------------------------->
+<!-- Dit stukje hieronder is het oude stukje. Wat het onduidelijk maakt voor mij, is dat daaronder weer staat dat iets HEEL belangrijk is. Niet oud en niet weg doen, dus? ik heb wat gemixt met hierboven. --------------------------------->
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
 <!-- Alles hieronder moet worden verwijderd en eventueel, als het er al ------->
-<!-- niet staat, geintegreerd in het stuk hierboven. -------------------------->
+<!-- niet staat, geintegreerd in het stuk hierboven.  -------------------------->
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
 
-
-
-
-
-
-
-
-![Logic model of Change](img/LogicModelofChange.png)
-
-Figure: Logic Model of Change (Bartholomew et al., 2016, p. 285)
 
 ## Task: Individual health-related behavior and environmental outcomes 
 
@@ -484,9 +509,5 @@ Formulate change objectives in a way that makes them **measurable** by using act
 ![Logic model of Change](img/LogicModelofChange.png)
 
 
-## Task - Finish the powerpoint slides
 
-Tomorrow morning, Dr. G. J. Peters will give feedback on your Logic Model of Change. 
-●	Bring the presentation on a USB stick tomorrow!
-●	Prepare explanation of the slides of your logic model of change, and the 2 matrices of change objectives of task 4.4
 
