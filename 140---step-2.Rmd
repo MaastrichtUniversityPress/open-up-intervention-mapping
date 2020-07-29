@@ -520,7 +520,11 @@ logicModelOfBehavior_graph <-
     c("fontname", "arial", "node"),
     c("style", "rounded,filled", "node"),
     c("dir", "back", "edge"));
-DiagrammeR::render_graph(logicModelOfBehavior_graph);
+
+### Not displaying for now because of the problem explained at
+### https://stackoverflow.com/questions/62856190/error-with-r-version-4-0-2-but-not-in-r-version-3-6-3-with-diagrammr-latex-er
+
+#DiagrammeR::render_graph(logicModelOfBehavior_graph);
 
 ```
 

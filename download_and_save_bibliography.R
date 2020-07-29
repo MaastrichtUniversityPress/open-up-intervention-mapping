@@ -16,5 +16,3 @@ cat(bibliography,
 print(gsub("^@[a-zA-Z0-9]+\\{(.*),",
            "\\1",
            bibliography)[grep("^@[a-zA-Z0-9]+\\{(.*),", bibliography)]);
-
-
