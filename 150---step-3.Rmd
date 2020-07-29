@@ -1,3 +1,8 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
 # Step 3
 
 You produced a matrix of change objectives and you started on the Acyclic Behavior Change Diagram (ABCD; the logic model of change) in the previous step. In step 3, you complete this ABCD by filling in the three leftmost columns. You will then wrap all this together into one coherent intervention by producing a program theme, designating each application to one or more program components, and deciding on the components' sequence and the program scope.
@@ -93,7 +98,155 @@ You also need a theme. You can think of the theme as the 'face' or 'corporate id
 
 </div>
 
+
+
+```{r logic-model-of-behavior, fig.caption = "A Logic Model of Change with two environmental conditions"}
+
+### scales::show_col(viridis::viridis(end=.8, 6))
+col_qol <- "#000000";
+col_hlt <- "#000000";
+col_env <- "#444444";
+col_beh <- "#440154";
+col_pob <- "#453882";
+col_det <- "#32658E";
+col_sdt <- "#228B8D";
+col_app <- "#2CB17E";
+col_bcp <- "#7AD151";
+col_font <- "#FFFFFF";
+
+### Create logic model of behavior
+logicModelOfChange <-
+  data.tree::Node$new("Quality Of Life");
+data.tree::SetNodeStyle(logicModelOfChange, 
+                        fontcolor = col_font, fillcolor = col_qol);
+
+tmpNode_healthOutcomes <-
+  logicModelOfChange$AddChild("Health Outcomes");
+data.tree::SetNodeStyle(tmpNode_healthOutcomes, 
+                        fontcolor = col_font, fillcolor = col_hlt);
+
+### Target behavior
+logicModelOfChange_targetBehavior <-
+  tmpNode_healthOutcomes$AddChild("At-Risk Population Behavior");
+data.tree::SetNodeStyle(logicModelOfChange_targetBehavior, 
+                        fontcolor = col_font, fillcolor = col_beh);
+
+tmpNode_performanceObjective <-
+  logicModelOfChange_targetBehavior$
+    AddChild("Performance Objectives /\nsub-behaviors");
+data.tree::SetNodeStyle(tmpNode_performanceObjective, 
+                        fontcolor = col_font, fillcolor = col_pob);
+
+tmpNode <-
+  tmpNode_performanceObjective$AddChild("Determinants");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_det);
+
+tmpNode <-
+  tmpNode$AddChild("Sub-determinants /\nChange Objectives");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_sdt);
+
+tmpNode <-
+  tmpNode$AddChild("Applications");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_app);
+
+tmpNode <-
+  tmpNode$AddChild("Behavior Change Methods");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_bcp);
+
+### Environment on behavior
+tmpNode_environment <-
+  tmpNode_healthOutcomes$AddChild("Environmental Condition");
+data.tree::SetNodeStyle(tmpNode_environment, 
+                        fontcolor = col_font, fillcolor = col_env);
+
+tmpNode <-
+  tmpNode_environment$AddChild("Behavior of\nEnvironmental Agent");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_beh);
+
+tmpNode <-
+  tmpNode$AddChild("Performance Objectives /\nsub-behaviors");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_pob);
+
+tmpNode <-
+  tmpNode$AddChild("Determinants");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_det);
+
+tmpNode <-
+  tmpNode$AddChild("Sub-determinants /\nChange Objectives");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_sdt);
+
+tmpNode <-
+  tmpNode$AddChild("Applications");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_app);
+
+tmpNode <-
+  tmpNode$AddChild("Behavior Change Methods");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_bcp);
+
+### Environment on performance objective
+tmpNode_PO_environment <-
+  tmpNode_performanceObjective$AddChild("Environmental Condition");
+data.tree::SetNodeStyle(tmpNode_PO_environment, 
+                        fontcolor = col_font, fillcolor = col_env);
+
+tmpNode <-
+  tmpNode_PO_environment$AddChild("Behavior of\nEnvironmental Agent");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_beh);
+
+tmpNode <-
+  tmpNode$AddChild("Performance Objectives /\nsub-behaviors");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_pob);
+
+tmpNode <-
+  tmpNode$AddChild("Determinants");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_det);
+
+tmpNode <-
+  tmpNode$AddChild("Sub-determinants /\nChange Objectives");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_sdt);
+
+tmpNode <-
+  tmpNode$AddChild("Applications");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_app);
+
+tmpNode <-
+  tmpNode$AddChild("Behavior Change Methods");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_bcp);
+
+logicModelOfChange_graph <-
+  data.tree::ToDiagrammeRGraph(logicModelOfChange);
+logicModelOfChange_graph <-
+  behaviorchange::apply_graph_theme(
+    logicModelOfChange_graph,
+    c("layout", "dot", "graph"),
+    c("rankdir", "BT", "graph"),
+    c("outputorder", "nodesfirst", "graph"),
+    c("shape", "box", "node"),
+    c("fontname", "arial", "node"),
+    c("style", "rounded,filled", "node"),
+    c("dir", "back", "edge"));
+DiagrammeR::render_graph(logicModelOfChange_graph);
+
+```
+
+
 <!-- Replace this image with a better version -->
 
-![Program Design](img/programdesign.png)
+<!-- ![Program Design](img/programdesign.png) -->
 

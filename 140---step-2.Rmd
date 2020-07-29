@@ -211,17 +211,19 @@ Environmental agent = employer
     - perceived norm regarding good employership, etc.
 
 Environmental agent = Gay sauna owner
+
 Target behavior = promoting safe sex in his sauna 
+
 - Determinants regarding safe sex:
     - expectation that more customers will come when free lube is provided; 
     - potential false belief: with free lube, people will slip and die.
 
-
 Target behavior individuals = keeping distance from eachother in the busy street
-- Determinants regarding social istancing:
-  - belief that becoming ill sooner than later is a positive thing because ICU's might be full in two months; 
-  - expectation that one's immune system is strong enough; 
-  - negative attitude towards elderly people in the streets; etc. 
+
+- Determinants regarding social distancing:
+    - belief that becoming ill sooner than later is a positive thing because ICU's might be full in two months; 
+    - expectation that one's immune system is strong enough; 
+    - negative attitude towards elderly people in the streets; etc. 
 
 </div>
 
@@ -295,12 +297,13 @@ Selection based on how important stuff is for the behavior (relevance; usually c
 
 ## Produce Matrices of Change Objectives
 
-Matrices of change objectives are generally made for each level of intervention planning: 
-Individual
-Interpersonal
-Organizational
-Community
-Societal
+Matrices of change objectives are generally made for each level of intervention planning:
+
+- Individual
+- Interpersonal
+- Organizational
+- Community
+- Societal
 
 Change objectives are the specific goals of your intervention. Change objectives literally state what should change at the individual levels, or what should change among environmental agents. A change objective is a sub-determinant that you selected from the long list, but reformulated. You formulate change objectives according to similar principles as you applied for performance objectives. Change Objectives are statements that, when true, mean that the corresponding sub-determinant has been achieved. The idea is that while sub-determinants express a psychological state or process, change objectives are formulated to be measurable **('SMART')**.
 
@@ -374,47 +377,136 @@ You will fill in columns A, B, and C in step 3.
 
 
 
-```{r logic-model-of-behavior}
+```{r logic-model-of-behavior, fig.caption = "Logic Model of Behavior"}
 
-### First specify the "target behavior subtree"
-logicModelOfBehavior_targetBehavior <-
-  data.tree::Node$new("Target Behavior");
+# ### First specify the "target behavior subtree"
+# logicModelOfBehavior_targetBehavior <-
+#   data.tree::Node$new("Target Behavior");
+# 
+# ### Because data.tree uses R6, objects are references,
+# ### not copies, so use tmpNode to conveniently build
+# ### a deeper tree
+# tmpNode <-
+#   logicModelOfBehavior_targetBehavior$
+#     AddChild("Performance Objectives /\nsub-behaviors");
+# 
+# tmpNode <-
+#   tmpNode$AddChild("Determinants");
+# 
+# tmpNode <-
+#   tmpNode$AddChild("Sub-determinants /\nChange Objectives");
+# 
+# ### Create logic model of behavior
+# logicModelOfBehavior <-
+#   data.tree::Node$new("Quality Of Life");
+# 
+# tmpNode_healthOutcomes <-
+#   logicModelOfBehavior$AddChild("Health Outcomes");
+# 
+# ### Add behavior tree to target population
+# ### and rename target behavior
+# logicModelOfBehavior_targetBehavior_health <-
+#   logicModelOfBehavior_targetBehavior$clone();
+# logicModelOfBehavior_targetBehavior_health$name <-
+#   "At-Risk Population Behavior";
+# tmpNode_healthOutcomes$AddChildNode(logicModelOfBehavior_targetBehavior_health);
+# tmpNode_healthOutcomes$`Target Behavior`$name <- "At-Risk Population Behavior";
+# 
+# ### Store convenient reference to node for
+# ### environmental condition
+# tmpNode <-
+#   tmpNode_healthOutcomes$AddChild("Environmental Condition");
+# 
+# ### Add behavior tree to environmental
+# ### agent and rename target behavior
+# tmpNode$AddChildNode(logicModelOfBehavior_targetBehavior$clone());
+# tmpNode$`Target Behavior`$name <- "Target Behavior of\nEnvironmental Agent";
 
-### Because data.tree uses R6, objects are references,
-### not copies, so use tmpNode to conveniently build
-### a deeper tree
-tmpNode <-
-  logicModelOfBehavior_targetBehavior$
-    AddChild("Performance Objectives /\nsub-behaviors");
 
-tmpNode <-
-  tmpNode$AddChild("Determinants");
-
-tmpNode <-
-  tmpNode$AddChild("Sub-determinants /\nChange Objectives");
+### scales::show_col(viridis::viridis(end=.8, 6))
+col_qol <- "#000000";
+col_hlt <- "#000000";
+col_env <- "#444444";
+col_beh <- "#440154";
+col_pob <- "#453882";
+col_det <- "#32658E";
+col_sdt <- "#228B8D";
+col_app <- "#2CB17E";
+col_bcp <- "#7AD151";
+col_font <- "#FFFFFF";
 
 ### Create logic model of behavior
 logicModelOfBehavior <-
   data.tree::Node$new("Quality Of Life");
+data.tree::SetNodeStyle(logicModelOfBehavior, 
+                        fontcolor = col_font, fillcolor = col_qol);
 
 tmpNode_healthOutcomes <-
   logicModelOfBehavior$AddChild("Health Outcomes");
+data.tree::SetNodeStyle(tmpNode_healthOutcomes, 
+                        fontcolor = col_font, fillcolor = col_hlt);
 
-### Add behavior tree to target population
-### and rename target behavior
-tmpNode_healthOutcomes$AddChildNode(logicModelOfBehavior_targetBehavior$clone());
-tmpNode_healthOutcomes$`Target Behavior`$name <- "At-Risk Population Behavior";
+### Target behavior
+logicModelOfBehavior_targetBehavior <-
+  tmpNode_healthOutcomes$AddChild("At-Risk Population Behavior");
+data.tree::SetNodeStyle(logicModelOfBehavior_targetBehavior, 
+                        fontcolor = col_font, fillcolor = col_beh);
 
-### Store convenient reference to node for
-### environmental condition
 tmpNode <-
+  logicModelOfBehavior_targetBehavior$
+    AddChild("Performance Objectives /\nsub-behaviors");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_pob);
+
+tmpNode <-
+  tmpNode$AddChild("Determinants");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_det);
+
+tmpNode <-
+  tmpNode$AddChild("Sub-determinants /\nChange Objectives");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_sdt);
+
+### Environment
+tmpNode_environment <-
   tmpNode_healthOutcomes$AddChild("Environmental Condition");
+data.tree::SetNodeStyle(tmpNode_environment, 
+                        fontcolor = col_font, fillcolor = col_env);
 
-### Add behavior tree to environmental
-### agent and rename target behavior
-tmpNode$AddChildNode(logicModelOfBehavior_targetBehavior$clone());
-tmpNode$`Target Behavior`$name <- "Target Behavior of\nEnvironmental Agent";
+tmpNode <-
+  tmpNode_environment$AddChild("Behavior of\nEnvironmental Agent");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_beh);
 
+tmpNode <-
+  tmpNode$AddChild("Performance Objectives /\nsub-behaviors");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_pob);
+
+tmpNode <-
+  tmpNode$AddChild("Determinants");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_det);
+
+tmpNode <-
+  tmpNode$AddChild("Sub-determinants /\nChange Objectives");
+data.tree::SetNodeStyle(tmpNode, 
+                        fontcolor = col_font, fillcolor = col_sdt);
+
+logicModelOfBehavior_graph <-
+  data.tree::ToDiagrammeRGraph(logicModelOfBehavior);
+logicModelOfBehavior_graph <-
+  behaviorchange::apply_graph_theme(
+    logicModelOfBehavior_graph,
+    c("layout", "dot", "graph"),
+    c("rankdir", "BT", "graph"),
+    c("outputorder", "nodesfirst", "graph"),
+    c("shape", "box", "node"),
+    c("fontname", "arial", "node"),
+    c("style", "rounded,filled", "node"),
+    c("dir", "back", "edge"));
+DiagrammeR::render_graph(logicModelOfBehavior_graph);
 
 ```
 
@@ -483,7 +575,7 @@ tmpNode$`Target Behavior`$name <- "Target Behavior of\nEnvironmental Agent";
 
 
 
-![Logic model of Change](img/LogicModelofChange.png)
+<!-- ![Logic model of Change](img/LogicModelofChange.png) -->
 
 
 
