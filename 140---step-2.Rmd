@@ -526,8 +526,15 @@ logicModelOfBehavior_graph <-
 
 #DiagrammeR::render_graph(logicModelOfBehavior_graph);
 
+DiagrammeR::export_graph(
+  logicModelOfBehavior_graph,
+  file_name = "img/140---logic-model-of-behavior.png",
+  width = 1800
+)
+
 ```
 
+![Logic model of Behavior](140---logic-model-of-behavior.png)
 
 
 

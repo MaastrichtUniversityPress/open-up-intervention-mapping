@@ -3,6 +3,7 @@ output: html_document
 editor_options: 
   chunk_output_type: console
 ---
+
 # Step 3
 
 You produced a matrix of change objectives and you started on the Acyclic Behavior Change Diagram (ABCD; the logic model of change) in the previous step. In step 3, you complete this ABCD by filling in the three leftmost columns. You will then wrap all this together into one coherent intervention by producing a program theme, designating each application to one or more program components, and deciding on the components' sequence and the program scope.
