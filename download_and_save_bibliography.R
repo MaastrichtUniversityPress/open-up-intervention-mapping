@@ -8,7 +8,7 @@ tryCatch({
   cat("Error downloading the references from Zotero's API:\n\n", e$message);
 });
 
-writeLines(bibliography, here::here("bibliography.bib"));
+writeLines(bibliography, here::here("im-wb.bib"));
 
 cat(bibliography,
     sep="\n");
