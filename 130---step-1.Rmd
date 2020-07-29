@@ -2,22 +2,22 @@
 
 Intervention Mapping guides health promotion planners through the process of program design by means of a series of steps and tasks. It also provides tools and aids to structure and monitor the work during the process: matrices, tables, lists and working documents.
 
-In the 4th edition of the Intervention Mapping textbook, step 1 is discussed in Chapter 4, where the following learning objectives and tasks are discussed:
+In the 4th edition of the Intervention Mapping textbook (Chapter 4), step 1 includes the following learning objectives and tasks:
 
 - Establish and work with a planning group
 - Conduct a needs assessment to create a logic model of the problem
 - Describe the context for the intervention, including the population, setting and community
 - State program goals.
 
-In this chapter of the workbook, we will do the same work. However, in the following exercises, we deviate from the structure in the book by splitting up each task into subtasks, which makes it all easier.
+In this workbook, we will do the same work. However, in the following exercises, we deviate from the structure in the book by splitting up each task into subtasks, which makes it all easier.
 
-In the online version of this workbook, we use boxes with different colours to clearly signal types of content:
+In this workbook, we use boxes with different colours to clearly signal types of content:
 
 - Green box: Brainstorm (and other core processes)
 - Blue/purple box: Examples 
 - Red box: Product that should be done in the main google doc/google sheet/presentation. 
 
-In the downloadable version of this workbook, these boxes do not yet have a colour. On that note: if you happen to be good with LaTeX and willing to help out, it would be great if you would get in touch with us.
+In the downloadable version of this workbook, these boxes do not have a colour. On that note: if you happen to be fluent with LaTeX and willing to help out, it would be great if you would get in touch with us.
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
@@ -25,7 +25,7 @@ In the downloadable version of this workbook, these boxes do not yet have a colo
 
 ## Task: Planning group
 
-To ensure that you comprehensively define your problem, IM starts with a _planning group_, the first task of which is to gather data from multiple sources about the problem and its background. This is to better understand all the facets of the problem, and to estimate the feasibility of possible interventions. Usually this will be a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, often this is your target group (or for instance when you want to change behavior in children, your target group will be the parents of the at-risk group) and individuals with the relevant expertise. Here, your little group is the planning group, but we also want you to think of who would need to be in the planning group.
+To ensure that you comprehensively define your problem, IM starts with a _planning group_, the first task of which is to gather data from multiple sources about the problem and its background. This is to better understand all the facets of the problem, and to estimate the feasibility of possible interventions. Usually this will be a combination of a work group and various advisory groups, consisting of members of the community, including those with the problem, often this is your target group (or for instance when you want to change behavior in children, your target group will be the parents of the at-risk group) and individuals with the relevant expertise. Here, your little group is the planning group, but we also want you to think of who would need to be in the planning group. 
 
 ### Core Processes
 
