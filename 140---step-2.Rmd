@@ -494,10 +494,24 @@ tmpNode <-
 data.tree::SetNodeStyle(tmpNode, 
                         fontcolor = col_font, fillcolor = col_sdt);
 
+apply_graph_theme <- function (graph, ...) 
+{
+    for (currentSetting in list(...)) {
+        if ((length(currentSetting) != 3) && is.character(currentSetting)) {
+            stop("Only provide character vectors of length 3 in the dots (...) argument!")
+        }
+        else {
+            graph <- DiagrammeR::add_global_graph_attrs(graph, 
+                currentSetting[1], currentSetting[2], currentSetting[3])
+        }
+    }
+    return(graph)
+}
+
 logicModelOfBehavior_graph <-
   data.tree::ToDiagrammeRGraph(logicModelOfBehavior);
 logicModelOfBehavior_graph <-
-  behaviorchange::apply_graph_theme(
+  apply_graph_theme(
     logicModelOfBehavior_graph,
     c("layout", "dot", "graph"),
     c("rankdir", "BT", "graph"),
