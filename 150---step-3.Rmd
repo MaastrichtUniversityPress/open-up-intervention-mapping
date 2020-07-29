@@ -271,6 +271,8 @@ DiagrammeR::export_graph(
 
 ```
 
+![Logic Model of Change](img/150---logic-model-of-change.png)
+
 
 <!-- Replace this image with a better version -->
 
