@@ -263,7 +263,7 @@ logicModelOfChange_graph <-
 #DiagrammeR::render_graph(logicModelOfChange_graph);
 
 DiagrammeR::export_graph(
-  logicModelOfBehavior_graph,
+  logicModelOfChange_graph,
   file_name = "img/150---logic-model-of-change.png",
   width = 1800
 )
