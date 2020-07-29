@@ -101,7 +101,7 @@ You also need a theme. You can think of the theme as the 'face' or 'corporate id
 
 
 
-```{r logic-model-of-change, fig.caption = "A Logic Model of Change with two environmental conditions"}
+```{r logic-model-of-change, fig.caption = "A Logic Model of Change with two environmental conditions", echo=FALSE}
 
 ### scales::show_col(viridis::viridis(end=.8, 6))
 col_qol <- "#000000";
@@ -261,6 +261,13 @@ logicModelOfChange_graph <-
 ### https://stackoverflow.com/questions/62856190/error-with-r-version-4-0-2-but-not-in-r-version-3-6-3-with-diagrammr-latex-er
 
 #DiagrammeR::render_graph(logicModelOfChange_graph);
+
+DiagrammeR::export_graph(
+  logicModelOfBehavior_graph,
+  file_name = "img/150---logic-model-of-change.png",
+  width = 1800
+)
+
 
 ```
 

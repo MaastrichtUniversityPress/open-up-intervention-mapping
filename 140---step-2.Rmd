@@ -377,7 +377,7 @@ You will fill in columns A, B, and C in step 3.
 
 
 
-```{r logic-model-of-behavior, fig.caption = "Logic Model of Behavior"}
+```{r logic-model-of-behavior, fig.caption = "Logic Model of Behavior", echo=FALSE}
 
 # ### First specify the "target behavior subtree"
 # logicModelOfBehavior_targetBehavior <-
@@ -534,8 +534,7 @@ DiagrammeR::export_graph(
 
 ```
 
-![Logic model of Behavior](140---logic-model-of-behavior.png)
-
+![Logic model of Behavior](img/140---logic-model-of-behavior.png)
 
 
 <!----------------------------------------------------------------------------->
