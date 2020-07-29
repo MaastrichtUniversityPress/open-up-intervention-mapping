@@ -13,13 +13,11 @@ description: "The general aim of the workshop is to practice the steps of the in
 
 # Introduction {-}
 
-This book lives at https://im-wb.com. It is Open Access and is freely available under the [Creative Commons CC-BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-![CC-BY-NC-SA](img/by-nc-sa.eu.png)
+This is the Intervention Mapping Work Book. Is is an Open Access book, freely available under the [Creative Commons CC-BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/) at https://im-wb.com. This book is accompanied by an Exercise Book, which is available as a Google Sheet at https://im-wb.com/exercise-book. 
 
 ## Aim of the workshop
 
-The general aim of the workshop is to practice the steps of the intervention mapping protocol in groups. The structure of the workshop is guided by the IM protocol, as described in the book PLANNING HEALTH PROMOTION PROGRAMS by Bartholomew et al (2016). Below, a detailed outline is presented of working with the Intervention Mapping protocol. For each step of the protocol, specific tasks are formulated.
+The general aim of the workshop is to practice the steps of the Intervention Mapping protocol in groups. The structure of the workshop is guided by the IM protocol, as described in the book PLANNING HEALTH PROMOTION PROGRAMS by Bartholomew et al (2016). Below, a detailed outline is presented of working with the Intervention Mapping protocol. For each step of the protocol, specific tasks are formulated.
 
 ### Group Work
 
@@ -47,3 +45,5 @@ Note that like most aspects of IM, application of the core processes is iterativ
 In this course, there is no time to comprehensively apply these core processes. Therefore, instead, you will mostly just brainstorm potential answers. You can supplement the brainstorm with the literature that is provided and with quick internet searches, but make sure to not spend too much on obtaining the best answers.
 
 It is important that you understand which choices you have to make and how you can justify those choices. The quality of the evidence and theory you use is crucial in real life, but not important in this course.
+
+![CC-BY-NC-SA](img/by-nc-sa.eu.png)
