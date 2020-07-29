@@ -100,7 +100,7 @@ You also need a theme. You can think of the theme as the 'face' or 'corporate id
 
 
 
-```{r logic-model-of-behavior, fig.caption = "A Logic Model of Change with two environmental conditions"}
+```{r logic-model-of-change, fig.caption = "A Logic Model of Change with two environmental conditions"}
 
 ### scales::show_col(viridis::viridis(end=.8, 6))
 col_qol <- "#000000";
