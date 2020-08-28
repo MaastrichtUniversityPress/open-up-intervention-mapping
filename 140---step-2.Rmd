@@ -338,17 +338,17 @@ Note that (sub-)determinants that you deferred or forwent are *not* included in 
 
 Who or what will change can be at 
 
-* the _individual level of change_, e.g.,"adolescents will express confidence regarding negotiating condom use with a sexual partner"  
-* the _organizational level change_, e.g., "sauna owners will acknowledge the advantages of condom distribution in the sauna'  
-* or the _community level change_, e.g., "community leaders will approve of extracurricular physical workouts in school buildings". 
+- the _individual level of change_, e.g.,"adolescents will express confidence regarding negotiating condom use with a sexual partner"  
+- the _organizational level change_, e.g., "sauna owners will acknowledge the advantages of condom distribution in the sauna'  
+- or the _community level change_, e.g., "community leaders will approve of extracurricular physical workouts in school buildings". 
 
 </div>
 
 The Matrix of Change Objectives is structured as follows:
 
-1. Each row corresponds to a performance objective;
-2. Each column corresponds to a determinant;
-3. Each cell contains all change objectives for that performance objectives and determinant.
+- Each row corresponds to a performance objective;
+- Each column corresponds to a determinant;
+- Each cell contains all change objectives for that performance objectives and determinant.
 
 Note that some cells will contain multiple change objectives, and some cells will be empty, because not all determinants are important for all performance objectives.
 
@@ -377,7 +377,7 @@ You will fill in columns A, B, and C in step 3.
 
 
 
-```{r logic-model-of-behavior, fig.caption = "Logic Model of Behavior", echo=FALSE}
+```{r logic-model-of-behavior, fig.caption = "Logic Model of Behavior", echo=FALSE, out.width="50%"}
 
 # ### First specify the "target behavior subtree"
 # logicModelOfBehavior_targetBehavior <-
