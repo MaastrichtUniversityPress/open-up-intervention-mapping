@@ -34,12 +34,20 @@ pre code {
   padding: 5px;
 }
 
-.produceSomething ul {
+.produceSomething ul, .exampleList ul, .coreProcesses ul {
   list-style-type: none;
 }
 
 .produceSomething li:before {
   content: '✔️'; margin-left: -10px; margin-right: 10px;
+}
+
+.exampleList li:before {
+  content: '👉️'; margin-left: -10px; margin-right: 10px;
+}
+
+.coreProcesses li:before {
+  content: '🎓️'; margin-left: -10px; margin-right: 10px;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal .coreProcesses ul, .book .book-body .page-wrapper .page-inner section.normal .exampleList ul, .book .book-body .page-wrapper .page-inner section.normal .produceSomething ul {

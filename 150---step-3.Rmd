@@ -89,7 +89,7 @@ You also need a theme. You can think of the theme as the 'face' or 'corporate id
 
 <div class="exampleList">
 
--  This is really the moment to be creative together! Of course you could find themes on the internet of well-known interventions, which  might inspire you, but first seeing other examples might be creativity-crippling and turn you into a copy-cat. We therefore will not give you any examples. 
+- This is really the moment to be creative together! Of course you could find themes on the internet of well-known interventions, which  might inspire you, but first seeing other examples might be creativity-crippling and turn you into a copy-cat. We therefore will not give you any examples. 
 
 </div>
 
