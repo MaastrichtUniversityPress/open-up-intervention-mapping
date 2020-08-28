@@ -97,8 +97,7 @@ In this section, you merge two lists:
 
 <div class="coreProcesses">
 
-To find out the performance objectives for the environmental conditions, ask yourself the following question:
-"What does the environmental agent *need to do* to accomplish the changes in environmental condition?"
+To find out the performance objectives for the environmental conditions, ask yourself the following question: "What does the environmental agent *need to do* to accomplish the changes in environmental condition?"
 
 </div>
 
