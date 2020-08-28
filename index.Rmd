@@ -18,15 +18,17 @@ This is the Intervention Mapping Work Book. It is an Open Access book, freely av
 
 ## Aim of the workshop
 
-The general aim of the workshop is to practice the steps of the Intervention Mapping protocol in groups in one week. The structure of the workshop is guided by the IM protocol, as described in the book PLANNING HEALTH PROMOTION PROGRAMS by Bartholomew et al (2016). Below, a detailed outline is presented of working with the Intervention Mapping protocol. For each step of the protocol, specific tasks are formulated.
+The general aim of the workshop is to practice the steps of the Intervention Mapping protocol in groups in one week. The structure of the workshop is guided by the IM protocol, as described in the book PLANNING HEALTH PROMOTION PROGRAMS by Bartholomew et al. [-@bartholomew_eldredge_planning_2016]. Below, a detailed outline is presented of working with the Intervention Mapping protocol. For each step of the protocol, specific tasks are formulated.
 
 ### Group Work
 
-You are performing the tasks in workgroups.
+As a student, you will be performing the tasks in this workbook in workgroups.
 
-To collaborate on the exercises in this book, a main document is available as a Google Doc word processor document. Either your course instructors have prepared a version for your group, in which case they will provide the link in your electronic learning environment, or you can copy the [standard read-only version that is available here](https://im-wb.com/exercise-book). In addition to providing a structure for the answers you will produce in this course, the main document will also link to a number of Google Sheets.
+To collaborate on the exercises in this book, a main document is available as a Google Doc word processor document. Your course instructors may have prepared a version for your group, in which case they will provide the link to you (e.g. in your electronic learning environment). Alternatively, you can copy the standard read-only version that is available at [https://im-wb.com/exercise-book](https://im-wb.com/exercise-book). Instructions as to how to copy that document are provided in the beginning of the document itself.
 
-From the main document and the associated spreadsheets, you will make selections of the most important progress points, decisions, justifications, and issues. You will regularly present these in plenary sessions so that you can receive feedback from an IM expert. Whereas the main document is highly structured, following the structure of this workbook, *it is up to you to decide what to present and how*. We recommend using Google Slides to enable smooth synchronous collaboration, but if you prefer, you can also use other applications such as Microsoft PowerPoint, Apple Keynote, or Prezi. 
+In addition to providing a structure for the answers you will produce in this course, the main document will also link to a number of Google Sheets that are better suited for specific tasks. For those spreadsheets, the same is true: either your course instructors may have prepared versions for your group (in which case they will provide the links), or you can copy the read-only versions of the spreadsheets.
+
+From the main document and the associated spreadsheets, you will make selections of the most important progress points, decisions, justifications, and issues. You will regularly present these in plenary sessions so that you can receive feedback from an IM expert. Whereas the main document is highly structured, following the structure of this workbook, *it is up to you to decide what to present and how*. We recommend using Google Slides to enable smooth synchronous collaboration, but if you prefer, you can also use other applications such as Microsoft PowerPoint, Apple Keynote, or Prezi.
 
 By Friday, your group will have gone through all the steps, and you will have a full main document as well as a full presentation of the most important points. On Friday, you will present this final product - your intervention - for one last round of IM-expert feedback, and time to process that feedback to improve your intervention plans. The final set of documents (the presentation, the main document, and the associated spreadsheets) must be handed in at the end of the workshop week on CANVAS (deadline Friday 18:00 CEST).
 

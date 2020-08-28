@@ -76,7 +76,7 @@ Brainstorm about the topic: what do you all already know about the problem? When
 
 ### Core Processes
 
-Remember that in this course, instead of applying the core processes as they are defined in Intervention Mapping, you should stick to brainstorming, supplemented by the provided literature and quick internet searches (see section \@ref{core-processes}).
+Remember that in this course, instead of applying the core processes as they are defined in Intervention Mapping, you should stick to brainstorming, supplemented by the provided literature and quick internet searches (see section \@ref(core-processes)).
 
 <div class="coreProcesses">
 

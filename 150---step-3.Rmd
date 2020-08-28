@@ -16,7 +16,6 @@ In the 4th edition of the Intervention Mapping textbook, step 3 is discussed in 
 
 Pages 345-364 of the fourth edition of the IM book cover these tasks and give some examples. In this workbook, we still do the same work. However, the following exercises deviate from the structure in the textbook, as it is easier to split up each task into subtasks.
 
-
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
