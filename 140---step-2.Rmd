@@ -44,7 +44,6 @@ Third, list the environmental conditions you want to realise. Similar to the tar
 
 ## Identify sub-behaviors/performance objectives
 
-
 Target behaviors are often very broadly defined (see the examples below). It is therefore important to identify the _sub-behaviors_ that make up the target behaviors. These ultimately being objectives you want to achieve with your intervention, In Intervention Mapping, these sub-behaviors are called Performance Objectives.
 
 <div class="coreProcesses">
@@ -97,11 +96,9 @@ In this section, you merge two lists:
 
 <div class="coreProcesses">
 
-To find out the performance objectives for the environmental conditions, ask yourself the following question: "What does the environmental agent *need to do* to accomplish the changes in environmental condition?"
+For each performance objective, specific environmental conditions may be relevant. To identify these think about what could be barriers hindering each performance objectives, and what could facilitate them?
 
 </div>
-
-
 
 <div class="exampleList">
 
@@ -111,8 +108,7 @@ To find out the performance objectives for the environmental conditions, ask you
     - Environmental agents' target behavior = the boss provides soap
         - Performance objective 1: the boss buys soap 
         - Performance objective 2: the boss tasks employee to regularly refill soap containers
-        
-        
+
 - Target behavior: condom use in gay sauna
     - Environmental condition: Sauna visitor is welcomed in a non-judgmental fashion towards using condoms in the sauna
     - Performance objective 1: Sauna employees receive customers in a non-judgmental fashion and have an empathic attitude (interpersonal level)
@@ -122,13 +118,11 @@ To find out the performance objectives for the environmental conditions, ask you
 
 <div class="produceSomething">
 
-
 - List all potentially relevant environmental conditions.
 - For each environmental condition, list the corresponding environmental agent(s).
 - For each agent, list their environmental level (i.e. the interpersonal level, the organizational level, and the community / societal level).
 
 </div>
-
 
 ## Identify environmental agent (sub-)behaviors
 
@@ -143,6 +137,12 @@ In many cases, environmental agents will be involved in work you yourself are un
 ### Sub-behaviors / performance objectives
 
 Because target behaviors for environmental agents are broadly defined, intervening on them requires specification. You specify them by formulating sub-behaviors or performance objectives. So, repeat what you did for the target group, but do it now for the environmental agents' target behaviors.
+
+<div class="coreProcesses">
+
+To find out the performance objectives for the environmental conditions, ask yourself the following question: "What does the environmental agent *need to do* to accomplish the changes in environmental condition?"
+
+</div>
 
 <div class="exampleList">
 
