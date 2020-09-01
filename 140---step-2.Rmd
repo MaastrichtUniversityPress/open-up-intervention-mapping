@@ -65,15 +65,15 @@ For example, when the target behavior is "washing hands", valid sub-behaviors/pe
 
  1. Use soap
  2. Wash hands at least 20 secs
- 3. Clean throughly (also the wrist, and under the nails)
+ 3. Clean thoroughly (also the wrists, and under the nails)
  4. Use paper towel to dry hands
  5. Use paper towel to close the watertap
 
 For example, when you like to promote condom use (health promoting behavior), you want people to plan condom use.
 
- 1. Plan to purchase condoms.
- 2. Go to the store and buy condoms.
- 3. Use condoms. 
+ 1. Plan to purchase condoms
+ 2. Go to the store and buy condoms
+ 3. Use condoms 
 
 </div>
 
