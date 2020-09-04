@@ -20,7 +20,16 @@ This is the Intervention Mapping Work Book. It is an Open Access book, freely av
 
 The general aim of the workshop is to practice the steps of the Intervention Mapping protocol in groups in one week. The structure of the workshop is guided by the IM protocol, as described in the book PLANNING HEALTH PROMOTION PROGRAMS by Bartholomew et al. [-@bartholomew_eldredge_planning_2016]. Below, a detailed outline is presented of working with the Intervention Mapping protocol. For each step of the protocol, specific tasks are formulated.
 
-### Group Work
+## Preparation
+
+To prepare for the workshop, you can read the following Open Access articles:
+
+- Peters, G.-J. Y. (2014). *A practical guide to effective behavior change: How to identify what to change in the first place*. European Health Psychologist, 16(5), 142-155. https://doi.org/10.31234/osf.io/r78wh
+- Kok, G. (2014). *A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention.* European Health Psychologist, 16(5), 156-170. https://doi.org/10.31234/osf.io/hy7mj
+- Ruiter, R. A. C. & Crutzen, R. (2020) *Core Processes: How to Use Evidence, Theories, and Research in Planning Behavior Change Interventions.* Frontiers in Public Health (8) https://doi.org/10.3389/fpubh.2020.00247
+- Kok, G., Gottlieb, N. H., Peters, G.-J. Y., Dolan Mullen, P., Parcel, G. S., Ruiter, R. A. C., Fernández, M. E., Markham, C., & Bartholomew, L. K. (2016) *A taxonomy of behaviour change methods: an Intervention Mapping approach*, Health Psychology Review, 10:3, 297-312.  https://doi.org/10.1080/17437199.2015.1077155
+
+## Group Work
 
 As a student, you will be performing the tasks in this workbook in workgroups.
 
