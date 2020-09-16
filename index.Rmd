@@ -12,21 +12,19 @@ always_allow_html: true
 description: "This is the Intervention Mapping Work Book. In the workshop/training that this workbook can be used for, the steps of the Intervention Mapping protocol are practised in groups. The structure of the workshop, therefore, is guided by the IM protocol. This is an Open Access book, freely available under the Creative Commons CC-BY-NC-SA license."
 ---
 
-# {-}
+# Introduction {-}
 
 ```{r preface-cover, echo=FALSE}
 knitr::include_graphics(here::here("img", "im-wb-cover.png"));
 ```
 
-# Introduction {-}
-
 This is the Intervention Mapping Work Book. It is an Open Access book, freely available under the [Creative Commons CC-BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/) at https://im-wb.com. This book is accompanied by an Exercise Book, which is available as a Google Sheet at https://im-wb.com/exercise-book. 
 
-## Aim of the workshop
+## Aim of the workshop {-}
 
 The general aim of the workshop is to practice the steps of the Intervention Mapping protocol in groups in one week. The structure of the workshop is guided by the IM protocol, as described in the book PLANNING HEALTH PROMOTION PROGRAMS by Bartholomew et al. [-@bartholomew_eldredge_planning_2016]. Below, a detailed outline is presented of working with the Intervention Mapping protocol. For each step of the protocol, specific tasks are formulated.
 
-## Preparation
+## Preparation {-}
 
 To prepare for the workshop, you can read the following Open Access articles:
 
@@ -35,7 +33,7 @@ To prepare for the workshop, you can read the following Open Access articles:
 - Ruiter, R. A. C. & Crutzen, R. (2020) *Core Processes: How to Use Evidence, Theories, and Research in Planning Behavior Change Interventions.* Frontiers in Public Health (8) https://doi.org/10.3389/fpubh.2020.00247
 - Kok, G., Gottlieb, N. H., Peters, G.-J. Y., Dolan Mullen, P., Parcel, G. S., Ruiter, R. A. C., Fernández, M. E., Markham, C., & Bartholomew, L. K. (2016) *A taxonomy of behaviour change methods: an Intervention Mapping approach*, Health Psychology Review, 10:3, 297-312.  https://doi.org/10.1080/17437199.2015.1077155
 
-## Group Work
+## Group Work {-}
 
 As a student, you will be performing the tasks in this workbook in workgroups.
 
@@ -47,7 +45,7 @@ From the main document and the associated spreadsheets, you will make selections
 
 By Friday, your group will have gone through all the steps, and you will have a full main document as well as a full presentation of the most important points. On Friday, you will present this final product - your intervention - for one last round of IM-expert feedback, and time to process that feedback to improve your intervention plans. The final set of documents (the presentation, the main document, and the associated spreadsheets) must be handed in at the end of the workshop week on CANVAS (deadline Friday 18:00 CEST).
 
-## Core processes {#core-processes}
+## Core processes {-} {#core-processes}
 
 In Intervention Mapping, questions are answered using the core processes. These processes are a systematic approach to obtaining answers that are theory- and evidence based, and allow balancing pragmatic considerations such as resource availability (time, funding) with optimizing answer quality and scientific integrity. These are explained in Chapter 1 of the Intervention Mapping book. The Core Processes are:
 
