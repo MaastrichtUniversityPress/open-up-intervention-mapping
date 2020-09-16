@@ -12,11 +12,13 @@ always_allow_html: true
 description: "This is the Intervention Mapping Work Book. In the workshop/training that this workbook can be used for, the steps of the Intervention Mapping protocol are practised in groups. The structure of the workshop, therefore, is guided by the IM protocol. This is an Open Access book, freely available under the Creative Commons CC-BY-NC-SA license."
 ---
 
-# Introduction {-}
+# {-}
 
 ```{r preface-cover, echo=FALSE}
 knitr::include_graphics(here::here("img", "im-wb-cover.png"));
 ```
+
+# Introduction {-}
 
 This is the Intervention Mapping Work Book. It is an Open Access book, freely available under the [Creative Commons CC-BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/) at https://im-wb.com. This book is accompanied by an Exercise Book, which is available as a Google Sheet at https://im-wb.com/exercise-book. 
 
