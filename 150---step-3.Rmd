@@ -57,9 +57,11 @@ Use the determinants in column E to select the methods (the tables referred to a
 
 
 <div class="exampleList">
-As you will see in the 2 examples, not every ABCD matrix looks the same. So, do not immediately think you did something wrong if it is not entirely similar to the examples. 
 
-- Link to 2 ABCD's unrelated to sex. 
+As you will see in the 2 examples, every ABCD matrix looks different. So, do not immediately think you did something wrong if it is not entirely similar to the examples.
+
+- A list of student-produced ABCD matrices for different behaviors is available at https://im-wb.com/abcd-examples
+- A simple ABCD matrix for refraining from using a high dose of MDMA is available [here](https://docs.google.com/spreadsheets/d/1iZpCcUDtqVfHvoSmWv5nDeRqLBX31K4iSFN4dJFOtqw)
 
 </div>
 
