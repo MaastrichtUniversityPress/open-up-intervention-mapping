@@ -1,0 +1,44 @@
+# Glossary {#glossary}
+
+## General terms from psychology, science, etc
+
+: Behavior
+
+  
+
+: Determinant
+
+  In behavior change science, a determinant (also *behavioral determinant* or *psycho-social determinant) is a modifiable psychological construct that is hypothesized to cause behavior (or contribute to causing behavior) by at least one theory.
+
+: Construct
+  
+  In psychology, a construct is usually a hypothesized psychological variable or process. Construct definitions describe which aspects of human psychology comprise that construct. Some examples of psychological constructs are attitude, positive affect, working memory, extraversion, depression, stress, executive functioning, self-regulation, planning, sadness, habit, intrinsic motivation, and risk perception. Constructs are generally not natural kinds: they do not exist in the world as discrete, modular things that exist regardless of what humans think about them. Water ($H_2O$) is a natural kind (all molecules consisting of two hydrogen atoms and one oxygen atom is water, and vice versa), but "attitude" does not exist independently of our definitions. Because these constructs don't exist as such, different psychological theories often capture the same psychological aspects but 'slice' human psychology differently. Those aspects of human psychology corresponding to the representation of the potential negative consequences of engaging in drinking large quantities of beer are defined as part of risk perception by some theories; outcome expectation by other theories; and attitude by other theories.
+
+: Logic model
+
+  A logic model is a diagram that visualizes (theoretical, empirically derived, or hypothetical) relationships between concepts. Those concepts can be pretty much anything, such as constructs (e.g. attitude, intention, stress), mechanisms, processes or behaviors (e.g. goal setting, doing the dishes, buying a beer), or other aspects of the natural world (e.g. the weather, the state of the environment, whether it's day or night). The relationships, too, can be pretty much anything, such as causal relationships (one thing causing another) or structural relationships (such as one thing being made up of other things). Some specific types of logic models exist, such as Directed Acyclic Graphs (DAGs; used to reason about causal inference in psychological science and other sciences), Acyclic Behavior Change Diagrams (used to represent the causal and structural assumptions underlying a behavior change intervention), the PRECEDE diagram (used to represent the results of a needs assessment), and a COMPLECS overview (also used to represent the results of a needs assessment).
+
+: Theory
+
+  A theory is an explanation of a bit of the world. Theories in the social sciences often hypothesize (and then define) one or more psychological constructs and then describe how they relate to each other. For example, the Intervention Mapping book lists a series of theories that explain human behavior. Theories are by definition constrained to small parts of reality. For example, the Reasoned Action Approach explicitly explains reasoned action (and so makes no effort to explain habitual behavior; note, though, that reasoned is often not rational); the Health Belief Model explains how health beliefs influence health behavior; the Common Sense Model of Illness explains hoe lay people think about illness; etc. This clear delineation is a feature of theories, not a bug - and this is why in applied research and in behavior change intervention development, it is almost always necessary to adopt an eclectic approach and combine multiple theories.
+
+
+## Intervention Mapping terms
+
+
+## Non-IM behavior change terms
+
+This section mostly lists stuff that Rik and GJ came up with.
+
+: ABCD
+
+: COMPLECS
+
+: CIBER
+
+: MAP
+
+
+
+
+
