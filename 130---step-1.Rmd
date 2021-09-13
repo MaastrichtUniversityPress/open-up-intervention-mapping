@@ -137,6 +137,14 @@ Example: We want primary school children to exercise more frequently.
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
 
+## Task: Describe the context for the intervention, including the population, setting and community
+
+In step 1, you don't only map out the problems and their causes, but you also map out your target population's landscape more generally. Specifically, it's important to identify in which setting the problem occurs (i.e. also aspects that may not play a role for the problem), understand the population (e.g. culture, existing communities, etc), and other assets that you may be able to involve in the intervention later on. This is broadly referred to as the asset assessment. The result is a description of your target population and their surroundings.
+
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
+
 ## Task: Stating program goals 
 
 Determine your program goals. You prioritize the potential goals on the basis of the needs assessment (see p. 254). This includes deciding what behaviors or environmental conditions are _most relevant_ and _most likely to change_. 
@@ -151,6 +159,8 @@ Distinguish the following types of goals:
 
 A program always has one or more ultimate goals. The environmental goals and behavioral goals are means to achieve those ultimate goals, but it is possible a program only has environmental goals, or only behavioral goals.^[Note that in step 2, each environmental goal will be analysed and will result in behavioral goals for the environmental agents that have agency over the relevant environmental conditions.]
 
+Note that you may want to change behaviors of environmental agents, too. However, in that case, often those _behaviors_ are in fact not what is important: instead the environmental condition that is caused or maintained by their behavior is important. That environmental condition (e.g. a certain norm) is what influences the problem(s) you want to address, so often you are better off specifying you want to change that environmental condition. In step 2, you will identify which behaviors each environmental agent needs to change in order to change the environmental condition.
+
 ### Core Processes
 
 <div class="coreProcesses">
@@ -161,11 +171,13 @@ A program always has one or more ultimate goals. The environmental goals and beh
 - Are effects on relevant health outcomes quantifiable within the chosen relevant and realistic time frame or should we choose a certain behavior or environment?
 </div>
 
+Note that selecting goals is not a purely theory- and evidence-based decision. It often requires compromises between several interests. For example, there are often political interests. Funders often want to see a certain problem addressed, and may prefer evaluating that problem specifically; or on the other hand, you may collaborate with governmental organisations that want (or don't want) certain outcomes to be selected. Simultaneously, there are methodological considerations: can that problem be measured well? What effect size would you expect, and is that sample size reasonable? Other considerations are theoretical: how quickly do you expect that a potential outcome can change if your intervention is succesful? This is often combined with pragmatic considerations (e.g. how long will you have for the evaluation), and sometimes activistic considerations play a role, too (e.g. you might collaborate with a volunteer foundation that prioritizes certain outcomes to enhance visibility).
+
 ### Examples
 
 <div class="exampleList">
 
-Reaching the 60+ population is more difficult, and they are physically slower, so although they are the at-risk group,we now choose the younger adults as target group. To do this in the entire city is not feasible, so we focus at one busy street. To set our goals too far in the future, would be useless, so we want fast implementation and fast results. The program goal would therefore be *to increase social distancing of adults under 30 by 50% on the sidewalk in the Kalverstraat in Amsterdam within 2 weeks.*
+Reaching the 60+ population is more difficult, and they are physically slower, so although they are the at-risk group, we now choose the younger adults as target group. To do this in the entire city is not feasible, so we focus at one busy street. To set our goals too far in the future would be useless, so we want fast implementation and fast results. The program goal would therefore be *to increase social distancing of adults under 30 by 50% on the sidewalk in the Kalverstraat in Amsterdam within 2 weeks.*
 
 - We wanted primary school children to exercise more frequently. We chose the following program goals: 
     - *to increase physical activity in children between 6 and 10 by 30% and to decrease weight in the overweight children by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord.* 
