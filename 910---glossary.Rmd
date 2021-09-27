@@ -2,67 +2,67 @@
 
 ## General terms from psychology, science, etc
 
-: Behavior
+Behavior
 
-  Behavior is often defined as muscle activity. In Intervention Mapping, behavior is defined a bit more broadly and can include decisions people take. Behaviors are always processes that take place over time. Although the duration can be brief (e.g. for decisions), you can always identify a time when a behavior was not yet engaged in and a time after people have engaged in the behavior. This is very different from determinants, which describe a psychological state, not a process (although an exception is that determinants can sometimes describe the desired manner in which a psychological process should unfold).
+  : Behavior is often defined as muscle activity. In Intervention Mapping, behavior is defined a bit more broadly and can include decisions people take. Behaviors are always processes that take place over time. Although the duration can be brief (e.g. for decisions), you can always identify a time when a behavior was not yet engaged in and a time after people have engaged in the behavior. This is very different from determinants, which describe a psychological state, not a process (although an exception is that determinants can sometimes describe the desired manner in which a psychological process should unfold).
 
-: Determinant
-
-  In behavior change science, a determinant (also *behavioral determinant* or *psycho-social determinant) is a modifiable psychological construct that is hypothesized to cause behavior (or contribute to causing behavior) by at least one theory. From this general definition, it follows that determinants can in principle describe psychological processes, but they almost always describe psychological states, or dimensions along which a set of states are organized, instead. For example, a determinant of behavior is an attitude: people can have a very positive attitude, a mildly positive attitude, or a negative attitude. This state is assumed to (partially) determine their behavior. Like constructs, determinants can be defined on a spectrum from very generic very specific. "General self-efficacy" is a very generically defined construct; self-efficacy as applied to a given target behavior is more specific; and somebody's expectation that a certain barrier will prohibit them from engaging in a given target behavior is even more specific. All three are determinants; but along this spectrum, there is a point where determinants are so specifically defined that they become sufficiently concrete to communicate about them in an intervention, and determinants that are so specific are called subdeterminants. For example, general and specific self-efficacy are abstract, generic determinants: but the expectation that condoms can be obtained for free is very specific and concrete. The latter relates to the potential barrier that condoms are expensive, and this subdeterminant can directly inform intervention efforts.
-
-: Construct
+Construct
   
-  In psychology, a construct is usually a hypothesized psychological variable or process. Construct definitions describe which aspects of human psychology comprise that construct. Some examples of psychological constructs are attitude, positive affect, working memory, extraversion, depression, stress, executive functioning, self-regulation, planning, sadness, habit, intrinsic motivation, and risk perception. Constructs are generally not natural kinds: they do not exist in the world as discrete, modular things that exist regardless of what humans think about them. Water ($H_2O$) is a natural kind (all molecules consisting of two hydrogen atoms and one oxygen atom is water, and vice versa), but "attitude" does not exist independently of our definitions. Because these constructs don't exist as such, different psychological theories often capture the same psychological aspects but 'slice' human psychology differently. Those aspects of human psychology corresponding to the representation of the potential negative consequences of engaging in drinking large quantities of beer are defined as part of risk perception by some theories; outcome expectation by other theories; and attitude by other theories.
+  : In psychology, a construct is usually a hypothesized psychological variable or process. Construct definitions describe which aspects of human psychology comprise that construct. Some examples of psychological constructs are attitude, positive affect, working memory, extraversion, depression, stress, executive functioning, self-regulation, planning, sadness, habit, intrinsic motivation, and risk perception. Constructs are generally not natural kinds: they do not exist in the world as discrete, modular things that exist regardless of what humans think about them. Water ($H_2O$) is a natural kind (all molecules consisting of two hydrogen atoms and one oxygen atom is water, and vice versa), but "attitude" does not exist independently of our definitions. Because these constructs don't exist as such, different psychological theories often capture the same psychological aspects but 'slice' human psychology differently. Those aspects of human psychology corresponding to the representation of the potential negative consequences of engaging in drinking large quantities of beer are defined as part of risk perception by some theories; outcome expectation by other theories; and attitude by other theories.
 
-: Logic model
+Determinant
 
-  A logic model is a diagram that visualizes (theoretical, empirically derived, or hypothetical) relationships between concepts. Those concepts can be pretty much anything, such as constructs (e.g. attitude, intention, stress), mechanisms, processes or behaviors (e.g. goal setting, doing the dishes, buying a beer), or other aspects of the natural world (e.g. the weather, the state of the environment, whether it's day or night). The relationships, too, can be pretty much anything, such as causal relationships (one thing causing another) or structural relationships (such as one thing being made up of other things). Some specific types of logic models exist, such as Directed Acyclic Graphs (DAGs; used to reason about causal inference in psychological science and other sciences), Acyclic Behavior Change Diagrams (used to represent the causal and structural assumptions underlying a behavior change intervention), the PRECEDE diagram (used to represent the results of a needs assessment), and a COMPLECS overview (also used to represent the results of a needs assessment).
+  : In behavior change science, a determinant (also *behavioral determinant* or *psycho-social determinant) is a modifiable psychological construct that is hypothesized to cause behavior (or contribute to causing behavior) by at least one theory. From this general definition, it follows that determinants can in principle describe psychological processes, but they almost always describe psychological states, or dimensions along which a set of states are organized, instead. For example, a determinant of behavior is an attitude: people can have a very positive attitude, a mildly positive attitude, or a negative attitude. This state is assumed to (partially) determine their behavior. Like constructs, determinants can be defined on a spectrum from very generic very specific. "General self-efficacy" is a very generically defined construct; self-efficacy as applied to a given target behavior is more specific; and somebody's expectation that a certain barrier will prohibit them from engaging in a given target behavior is even more specific. All three are determinants; but along this spectrum, there is a point where determinants are so specifically defined that they become sufficiently concrete to communicate about them in an intervention, and determinants that are so specific are called subdeterminants. For example, general and specific self-efficacy are abstract, generic determinants: but the expectation that condoms can be obtained for free is very specific and concrete. The latter relates to the potential barrier that condoms are expensive, and this subdeterminant can directly inform intervention efforts.
 
-: Theory
+Logic model
 
-  A theory is an explanation of a bit of the world. Theories in the social sciences often hypothesize (and then define) one or more psychological constructs and then describe how they relate to each other. For example, the Intervention Mapping book lists a series of theories that explain human behavior. Theories are by definition constrained to small parts of reality. For example, the Reasoned Action Approach explicitly explains reasoned action (and so makes no effort to explain habitual behavior; note, though, that reasoned is often not rational); the Health Belief Model explains how health beliefs influence health behavior; the Common Sense Model of Illness explains hoe lay people think about illness; etc. This clear delineation is a feature of theories, not a bug - and this is why in applied research and in behavior change intervention development, it is almost always necessary to adopt an eclectic approach and combine multiple theories.
+  : A logic model is a diagram that visualizes (theoretical, empirically derived, or hypothetical) relationships between concepts. Those concepts can be pretty much anything, such as constructs (e.g. attitude, intention, stress), mechanisms, processes or behaviors (e.g. goal setting, doing the dishes, buying a beer), or other aspects of the natural world (e.g. the weather, the state of the environment, whether it's day or night). The relationships, too, can be pretty much anything, such as causal relationships (one thing causing another) or structural relationships (such as one thing being made up of other things). Some specific types of logic models exist, such as Directed Acyclic Graphs (DAGs; used to reason about causal inference in psychological science and other sciences), Acyclic Behavior Change Diagrams (used to represent the causal and structural assumptions underlying a behavior change intervention), the PRECEDE diagram (used to represent the results of a needs assessment), and a COMPLECS overview (also used to represent the results of a needs assessment).
+
+Theory
+
+  : A theory is an explanation of a bit of the world. Theories in the social sciences often hypothesize (and then define) one or more psychological constructs and then describe how they relate to each other. For example, the Intervention Mapping book lists a series of theories that explain human behavior. Theories are by definition constrained to small parts of reality. For example, the Reasoned Action Approach explicitly explains reasoned action (and so makes no effort to explain habitual behavior; note, though, that reasoned is often not rational); the Health Belief Model explains how health beliefs influence health behavior; the Common Sense Model of Illness explains hoe lay people think about illness; etc. This clear delineation is a feature of theories, not a bug - and this is why in applied research and in behavior change intervention development, it is almost always necessary to adopt an eclectic approach and combine multiple theories.
 
 ## Intervention Mapping terms
 
-: Change Objective
+Change Objective
 
-  definition
+  : definition
 
-: Environmental Agent
+Environmental Agent
 
-  Environmental agents (sometimes called environmental actors) are people or groups of people that have agency over one or more environmental conditions. They are often decision makers or similarly central stakeholders, such as school or hospital boards, teachers, or nurses. Environmental agents often exist on one or several environmental levels.
+  : Environmental agents (sometimes called environmental actors) are people or groups of people that have agency over one or more environmental conditions. They are often decision makers or similarly central stakeholders, such as school or hospital boards, teachers, or nurses. Environmental agents often exist on one or several environmental levels.
 
-: Environmental Condition
+Environmental Condition
 
-  An environmental condition is an aspect of the environment of the target population, of an environmental agent, or of an implementer. Environmental conditions usually describe a state of the world, for example, "condoms are freely available", "there are many facilities for exercise", or "sufficient healthy options are on offer in the school cafetaria". Environmental conditions are under the control of environmental agents.
+  : An environmental condition is an aspect of the environment of the target population, of an environmental agent, or of an implementer. Environmental conditions usually describe a state of the world, for example, "condoms are freely available", "there are many facilities for exercise", or "sufficient healthy options are on offer in the school cafetaria". Environmental conditions are under the control of environmental agents.
   
-: Environmental Level
+Environmental Level
 
-  An environmental level is the level at which an environmental agent exists. These levels determine which methods are available for targeting those agents. Usually, the levels that are distinguished are the individual level (i.e. not an 'environmental' level), the interpersonal level (e.g. peers or family), the organizational level (e.g. a hospital or school), the community level (e.g. a church or social organization), and society level (e.g. local or national government), and the global level (e.g. the WHO, the UN, etc).
+  : An environmental level is the level at which an environmental agent exists. These levels determine which methods are available for targeting those agents. Usually, the levels that are distinguished are the individual level (i.e. not an 'environmental' level), the interpersonal level (e.g. peers or family), the organizational level (e.g. a hospital or school), the community level (e.g. a church or social organization), and society level (e.g. local or national government), and the global level (e.g. the WHO, the UN, etc).
   
-: Performance Objective
+Performance Objective
 
-  A performance objective is a sub-behavior ...
+  : A performance objective is a sub-behavior ...
 
 ## Non-IM behavior change terms
 
 This section mostly lists stuff that Rik and GJ came up with.
 
-: ABCD
+ABCD
 
-  Definition here
+  : Definition here
 
-: COMPLECS
+COMPLECS
 
-  Definition here
+  : Definition here
 
-: CIBER
+CIBER
 
-  Definition here
+  : Definition here
 
-: MAP
+MAP
 
-  Definition here
+  : Definition here
 
 
 
