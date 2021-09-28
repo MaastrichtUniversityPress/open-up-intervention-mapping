@@ -1,5 +1,7 @@
 # Glossary {#glossary}
 
+In the definitions in this glossary, terms that refer to concepts that are defined elsewhere in the glossary are printed in *italic*.
+
 ## General terms from psychology, science, etc
 
 Behavior
@@ -12,7 +14,7 @@ Construct
 
 Determinant
 
-  : In behavior change science, a determinant (also *behavioral determinant* or *psycho-social determinant) is a modifiable psychological construct that is hypothesized to cause behavior (or contribute to causing behavior) by at least one theory. From this general definition, it follows that determinants can in principle describe psychological processes, but they almost always describe psychological states, or dimensions along which a set of states are organized, instead. For example, a determinant of behavior is an attitude: people can have a very positive attitude, a mildly positive attitude, or a negative attitude. This state is assumed to (partially) determine their behavior. Like constructs, determinants can be defined on a spectrum from very generic very specific. "General self-efficacy" is a very generically defined construct; self-efficacy as applied to a given target behavior is more specific; and somebody's expectation that a certain barrier will prohibit them from engaging in a given target behavior is even more specific. All three are determinants; but along this spectrum, there is a point where determinants are so specifically defined that they become sufficiently concrete to communicate about them in an intervention, and determinants that are so specific are called subdeterminants. For example, general and specific self-efficacy are abstract, generic determinants: but the expectation that condoms can be obtained for free is very specific and concrete. The latter relates to the potential barrier that condoms are expensive, and this subdeterminant can directly inform intervention efforts.
+  : In behavior change science, a determinant (also called behavioral determinant or psycho-social determinant) is a modifiable psychological construct that is hypothesized to cause behavior (or contribute to causing behavior) by at least one theory. From this general definition, it follows that determinants can in principle describe psychological processes, but they almost always describe psychological states, or dimensions along which a set of states are organized, instead. For example, a determinant of behavior is an attitude: people can have a very positive attitude, a mildly positive attitude, or a negative attitude. This state is assumed to (partially) determine their behavior. Like constructs, determinants can be defined on a spectrum from very generic very specific. "General self-efficacy" is a very generically defined construct; self-efficacy as applied to a given target behavior is more specific; and somebody's expectation that a certain barrier will prohibit them from engaging in a given target behavior is even more specific. All three are determinants; but along this spectrum, there is a point where determinants are so specifically defined that they become sufficiently concrete to communicate about them in an intervention, and determinants that are so specific are called *subdeterminants*. For example, general and specific self-efficacy are abstract, generic determinants: but the expectation that condoms can be obtained for free is very specific and concrete. The latter relates to the potential barrier that condoms are expensive, and this *subdeterminant* can directly inform intervention efforts.
 
 Logic model
 
@@ -20,13 +22,13 @@ Logic model
 
 Theory
 
-  : A theory is an explanation of a bit of the world. Theories in the social sciences often hypothesize (and then define) one or more psychological constructs and then describe how they relate to each other. For example, the Intervention Mapping book lists a series of theories that explain human behavior. Theories are by definition constrained to small parts of reality. For example, the Reasoned Action Approach explicitly explains reasoned action (and so makes no effort to explain habitual behavior; note, though, that reasoned is often not rational); the Health Belief Model explains how health beliefs influence health behavior; the Common Sense Model of Illness explains hoe lay people think about illness; etc. This clear delineation is a feature of theories, not a bug - and this is why in applied research and in behavior change intervention development, it is almost always necessary to adopt an eclectic approach and combine multiple theories.
+  : A theory is an explanation of a bit of the world. Theories in the social sciences often hypothesize (and then define) one or more (e.g., psychological) constructs and then describe how they relate to each other. For example, the Intervention Mapping book lists a series of theories that explain human behavior. Theories are by definition constrained to small parts of reality. For example, the Reasoned Action Approach explicitly explains reasoned action (and so makes no effort to explain habitual behavior; note, though, that reasoned is often not rational); the Health Belief Model explains how health beliefs influence health behavior; the Common Sense Model of Illness explains hoe lay people think about illness; etc. This clear delineation is a feature of theories, not a bug - and this is why in applied research and in behavior change intervention development, it is almost always necessary to adopt an eclectic approach and combine multiple theories.
 
 ## Intervention Mapping terms
 
 Change Objective
 
-  : definition
+  : Change Objectives are *subdeterminants* that have been formulated according to a specific set of guidelines. This means that they have to describe a behavior that, if the corresponding target individual performs it, provides evidence that in the target individual's psychology, the corresponding subdeterminant has the desired state. For example, the subdeterminant "the expectation that using a condom prevents HIV", a subdeterminant that is an instance of overarching determinant "instrumental attitude belief expectation" can be reformulated into "an adolescent explains how condom use prevents HIV". Note that Change Objectives are representations of the corresponding subdeterminant - even though they are formulated as behaviors, the behavioral component is purely instrumental to facilitate formulating the Change Objective in a way that lends itself to measurement. Change Objectives, therefore, are psychological constructs (very specific psychological constructs, just like the subdeterminants that they express), not behaviors or performance objectives.
 
 Environmental Agent
 
@@ -52,6 +54,10 @@ ABCD
 
   : Definition here
 
+Aspect of human psychology
+
+  : An aspect of human psychology is a raw expression of somebody's psychology (e.g. "I really hate broccoli!" or "At that party, everybody was drinking cocktails."). Aspects can be categorized into specific psychological constructs (e.g. into (sub)determinants). Aspects can be identified, for example, in qualitative data such as interviews transcripts, or from information provided by experts or target population members in the planning group.
+
 COMPLECS
 
   : Definition here
@@ -64,7 +70,9 @@ MAP
 
   : Definition here
 
+Subdeterminant
 
+  : A subdeterminant is an *aspect* that has been categorized as a specific psychological construct (i.e. a determinant). *Determinants* are psychological *constructs* that cause behavior (as specified in at least one theory). Psychological constructs can be defined on various levels of specificity: "intelligence" or "personality" are very broadly defines constructs, whereas "attitude" is more specific, and "risk perception" even more specific. On this general-specific-dimension, there are no default or optimals levels of specificity. However, there is a point where definitions become sufficiently specific and contextually embedded that it becomes possible to express the related psychological content verbally or visually. Determinants (i.e. psychological constructs) that are defined with that level of specificity are called subdeterminants. These are important to distinguish in behavior change science and practice because behavior change interventions can never target determinants - they can only target subdeterminants, since the stimuli that form the intervention (e.g. texts, images, videos) must necessarily be concrete and specific. Therefore, a required step in intervention development is identifying the subdeterminants that need to be targeted. In Intervention Mapping, subdeterminants can be formulated as Change Objectives by following a specific set of guidelines.
 
 
 
