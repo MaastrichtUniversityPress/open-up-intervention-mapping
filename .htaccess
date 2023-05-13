@@ -32,15 +32,15 @@ RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
 RewriteRule ^bcps$ "https://osf.io/ng3xh" [R=302,L,NC]
 
-RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
-RewriteRule ^$ "https\:\/\/intervention\-mapping\.gitlab\.io\/im\-wb\/$1" [R=302,L]
+#RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
+#RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
+#RewriteRule ^$ "https\:\/\/intervention\-mapping\.gitlab\.io\/im\-wb\/$1" [R=302,L]
 
-RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ "https\:\/\/intervention\-mapping\.gitlab\.io\/im\-wb\/$1" [R=302,L]
+#RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
+#RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^(.*)$ "https\:\/\/intervention\-mapping\.gitlab\.io\/im\-wb\/$1" [R=302,L]
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the “ea-php70” package as the default “PHP” programming language.
