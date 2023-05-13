@@ -33,11 +33,11 @@ book:
 format:
   html:
     theme: cosmo
-    cover-image: img/sysrevving-book-cover.png
+    cover-image: img/im-wb-cover.png
   pdf:
     documentclass: scrreprt
-    cover-image: img/sysrevving-book-cover.png
+    cover-image: img/im-wb-cover.png
   epub:
     lang: en
-    cover-image: img/sysrevving-book-cover.png
+    cover-image: img/im-wb-cover.png
 
