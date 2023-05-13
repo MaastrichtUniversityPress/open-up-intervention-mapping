@@ -7,7 +7,7 @@ bookdown::gitbook:
       after: |
         <li><a href="./im-workbook.pdf" target="blank">PDF</a></li>
         <li><a href="./im-workbook.epub" target="blank">EPUB</a></li>
-    edit: https://gitlab.com/intervention-mapping/uva-im/edit/master/%s
+    edit: https://gitlab.com/intervention-mapping/im-wb/edit/master/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:

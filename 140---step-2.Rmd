@@ -423,15 +423,16 @@ You will fill in columns A, B, and C in step 3.
 
 
 ### scales::show_col(viridis::viridis(end=.8, 6))
-col_qol <- "#000000";
-col_hlt <- "#000000";
-col_env <- "#444444";
-col_beh <- "#440154";
-col_pob <- "#453882";
-col_det <- "#32658E";
-col_sdt <- "#228B8D";
-col_app <- "#2CB17E";
-col_bcp <- "#7AD151";
+col_qol <- "#000000"; # "#000000";
+col_hlt <- "#404040"; # "#000000";
+col_env <- "#443399"; # "#444444";
+col_beh <- "#84315e"; # "#440154";
+col_pob <- "#a4519e"; # "#453882";
+col_det <- "#3f7d3f"; # "#32658E";
+col_sdt <- "#69ae9e"; # "#228B8D";
+col_app <- "#3f7ab5"; # "#2CB17E";
+col_bcp <- "#8ee9ff"; # "#7AD151";
+col_par <- "#d0edfe";
 col_font <- "#FFFFFF";
 
 ### Create logic model of behavior

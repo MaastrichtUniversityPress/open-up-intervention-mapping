@@ -1,0 +1,50 @@
+
+
+RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
+RewriteRule ^exercise-book$ "https://docs.google.com/document/d/1U5eHyZNc-mCUv1YziEZGyYpaPlcGjiUXwcQ5SYE_Ji4/edit?usp=sharing" [R=302,L,NC]
+
+RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
+RewriteRule ^sub-determinant-identification$ "https://docs.google.com/spreadsheets/d/1vb0FjRwj_pc-FRpLcv39kWCJBMJohRoPrnvgRe-gbsQ/edit?usp=sharing" [R=302,L,NC]
+
+RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
+RewriteRule ^matrix-of-change-objectives$ "https://docs.google.com/spreadsheets/d/1fvR_vDgJZUf9vvYlkjfpHqiW6i4KWezZO0uf2QGHcBs/edit?usp=sharing" [R=302,L,NC]
+
+RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
+RewriteRule ^abcd-matrix$ "https://docs.google.com/spreadsheets/d/1OyDbgZ-Bf6I2oALSTfAf7-h0hRBkjSsAqGvkizFCHJo/edit?usp=sharing" [R=302,L,NC]
+
+RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
+RewriteRule ^abcd-app$ "https://matherion.shinyapps.io/ABCD---Shiny-App/" [R=302,L,NC]
+
+RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
+RewriteRule ^abcd-examples$ "https://drive.google.com/drive/folders/1XnRnEjfNdWG7ifgcDR-OneWy2jkSJCYc?usp=sharing" [R=302,L,NC]
+
+RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
+RewriteRule ^ebc$ "https://effectivebehaviorchange.com" [R=302,L,NC]
+
+RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
+RewriteRule ^bcps$ "https://osf.io/ng3xh" [R=302,L,NC]
+
+RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
+RewriteRule ^$ "https\:\/\/intervention\-mapping\.gitlab\.io\/im\-wb\/$1" [R=302,L]
+
+RewriteCond %{HTTP_HOST} ^im\-wb\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.im\-wb\.com$
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ "https\:\/\/intervention\-mapping\.gitlab\.io\/im\-wb\/$1" [R=302,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php70” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php70 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
