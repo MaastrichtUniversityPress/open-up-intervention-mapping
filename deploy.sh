@@ -21,17 +21,17 @@ PATH=$PATH:/var/www/vhosts/im-wb.com/.phpenv/shims:/opt/plesk/phpenv/bin:/usr/lo
 
 pwd
 echo $PATH
-echo Calling Bookdown
+echo Calling Quarto
 
 ### Render the site
-#/usr/local/bin/quarto render --to all
-/usr/local/bin/R -e "source('download_and_save_bibliography.R')"
-/usr/local/bin/R -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
-/usr/local/bin/R -e "options(tinytex.verbose = TRUE);bookdown::render_book('index.Rmd', 'bookdown::pdf_book')"
-/usr/local/bin/R -e "bookdown::render_book('index.Rmd', 'bookdown::epub_book')"
+/usr/local/bin/quarto render --to all
+#/usr/local/bin/R -e "source('download_and_save_bibliography.R')"
+#/usr/local/bin/R -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
+#/usr/local/bin/R -e "options(tinytex.verbose = TRUE);bookdown::render_book('index.Rmd', 'bookdown::pdf_book')"
+#/usr/local/bin/R -e "bookdown::render_book('index.Rmd', 'bookdown::epub_book')"
 
 
-echo Finished Bookdown
+echo Finished Quarto
 
 ### Delete all contents in public HTML directory
 rm -rf ~/public_html/*.*

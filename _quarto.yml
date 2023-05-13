@@ -1,0 +1,43 @@
+project:
+  type: book
+  output-dir: public
+
+book:
+  title: "Intervention Mapping Work Book"
+  author: "Gjalt-Jorn Peters, Nicole Oei & Rob Ruiter"
+  output-file: "im-wb"
+#  date: "`r format(Sys.time(), '%Y-%m-%d at %H:%M:%S (UTC%z)')`"
+  date: today
+  repo-url: https://gitlab.com/intervention-mapping/im-wb/
+  repo-branch: master
+  repo-actions: [edit, source, issue]
+  downloads: [pdf, epub]
+  cookie-consent: false
+  url: https://im-wb.com
+  chapters:
+    - index.qmd
+    - part: "Workbook"
+      chapters:
+        - step-1.qmd
+        - step-2.qmd
+        - step-3.qmd
+        - step-4.qmd
+        - step-5.qmd
+    - part: "Appendices and references"
+      chapters:
+        - references.qmd
+        - glossary.qmd
+
+#bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    cover-image: img/sysrevving-book-cover.png
+  pdf:
+    documentclass: scrreprt
+    cover-image: img/sysrevving-book-cover.png
+  epub:
+    lang: en
+    cover-image: img/sysrevving-book-cover.png
+
