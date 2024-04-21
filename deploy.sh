@@ -41,6 +41,9 @@ rm -f ~/public_html/.htaccess
 ### Copy website
 cp -RT public ~/public_html
 
+### Copy PDF
+cp im-wb.pdf ~/public_html
+
 ### Copy .htaccess
 cp .htaccess ~/public_html
 
