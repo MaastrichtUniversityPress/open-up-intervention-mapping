@@ -7,7 +7,7 @@ output: bookdown::gitbook
 documentclass: book
 bibliography: [im-wb.bib]
 biblio-style: apalike
-link-citations: yes
+link-citations: true
 always_allow_html: true
 description: "This is the Intervention Mapping Work Book. In the workshop/training that this workbook can be used for, the steps of the Intervention Mapping protocol are practised in groups. The structure of the workshop, therefore, is guided by the IM protocol. This is an Open Access book, freely available under the Creative Commons CC-BY-NC-SA license."
 ---
