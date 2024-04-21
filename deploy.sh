@@ -43,6 +43,7 @@ cp -RT public ~/public_html
 
 ### Copy PDF
 cp im-wb.pdf ~/public_html
+cp public/im-wb.pdf ~/public_html
 
 ### Copy .htaccess
 cp .htaccess ~/public_html
