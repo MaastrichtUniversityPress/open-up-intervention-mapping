@@ -78,11 +78,11 @@ For example, when you like to promote condom use (health promoting behavior), yo
 </div>
 
 
-<div class="produceSomething">
+::: {.callout-important title="Products"}
 
 - List the performance objectives that comprise the target behavior.
 
-</div>
+:::
 
 "In real life", if you did not select a target group and target behavior in The Flip, you do not select performance objectives here yet. Also note that even if in another situation, you do not select a target population and a target behavior, you will still select performance objectives for your environmental agent(s). The concept is quite central to Intervention Mapping.
 
