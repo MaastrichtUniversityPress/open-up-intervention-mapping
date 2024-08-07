@@ -54,11 +54,13 @@ In Intervention Mapping, questions are answered using the core processes. These 
 5. Assess whether new data are needed, and if so, collect and process these.
 6. Develop a semi-definite list of answers.
 
-Note that like most aspects of IM, application of the core processes is iterative; therefore, the semi-definite list produced in the sixth phase can always be revised.
+Note that like most aspects of IM, application of the core processes is iterative; therefore, the semi-definite list produced in the sixth phase can always be revised. To read more about the Core Processes, there is an Open Access article at [doi.org/gb59](https://doi.org/gb59).
 
-In this course, there is no time to comprehensively apply these core processes. Therefore, instead, you will mostly just brainstorm potential answers. You can supplement the brainstorm with the literature that is provided (if any) and with quick internet searches, but make sure to not spend too much on obtaining the best answers.
+In this course, there is no time to comprehensively apply these core processes. Therefore, instead, you will mostly just brainstorm potential answers. You can supplement the brainstorm with the literature that is provided (if any) and quick internet searches. To find scientific articles, use OpenAlex.
 
-It is important that you understand which choices you have to make and how you can justify those choices. The quality of the evidence and theory you use is crucial in real life, but not important in this course.
+OpenAlex is an open source bibliographic database with scientific literature which you can access at [openalex.org](https://openalex.org). For example, this link searches for all articles with ["determinants" or "psychosocial correlates" in their title, as well as "condom use"](https://openalex.org/works?page=1&filter=display_name.search%3A%28%22determinants%22%20OR%20%22psychosocial%20correlates%22%29%20AND%20%22condom%20use%22).
+
+Make sure to not spend too much on obtaining the best answers. It is important that you understand which choices you have to make and how you can justify those choices. The quality of the evidence and theory you use is crucial in real life, but not important in this course.
 
 ```{r CC-BY-NC-SA, fig.cap="CC-BY-NC-SA", echo=FALSE, fig.out="150px"}
 #knitr::include_graphics(here::here("img", "by-nc-sa.eu.png"));

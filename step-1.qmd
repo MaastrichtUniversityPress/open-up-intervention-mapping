@@ -86,8 +86,6 @@ Brainstorm about the topic: what do you all already know about the problem? When
 
 Remember that in this course, instead of applying the core processes as they are defined in Intervention Mapping, you should stick to brainstorming, supplemented by the provided literature and quick searches for more scientific literature in OpenAlex.
 
-OpenAlex is an open source bibliographic database with scientific literature which you can access at [openalex.org](https://openalex.org). For example, this link searches for all articles with ["determinants" or "psychosocial correlates" in their title, as well as "condom use"](https://openalex.org/works?page=1&filter=display_name.search%3A%28%22determinants%22%20OR%20%22psychosocial%20correlates%22%29%20AND%20%22condom%20use%22).
-
 ::: {.callout-note title="Guiding questions"}
 
 - What is the central problem?   
@@ -108,8 +106,6 @@ OpenAlex is an open source bibliographic database with scientific literature whi
 - Who is the target group (can be the same as the at-risk group)?
 
 :::
-
-To read more about the Core Processes, there is an Open Access article at [doi.org/gb59](https://doi.org/gb59).
 
 ### Examples
 
