@@ -175,7 +175,7 @@ Note that you may want to change behaviors of environmental agents, too. However
 
 Note that selecting goals is not a purely theory- and evidence-based decision. It often requires compromises between several interests. For example, there are often political interests. Funders often want to see a certain problem addressed, and may prefer evaluating that problem specifically; or on the other hand, you may collaborate with governmental organisations that want (or don't want) certain outcomes to be selected. Simultaneously, there are methodological considerations: can that problem be measured well? What effect size would you expect, and is that sample size reasonable? Other considerations are theoretical: how quickly do you expect that a potential outcome can change if your intervention is succesful? This is often combined with pragmatic considerations (e.g. how long will you have for the evaluation), and sometimes activistic considerations play a role, too (e.g. you might collaborate with a volunteer foundation that prioritizes certain outcomes to enhance visibility).
 
-To search for scientific literature, you can use OpenAlex, an open source bibliographic database with scientific literature: [openalex.org](https://openalex.org).
+To search for scientific literature, you can use OpenAlex, an open source bibliographic database with scientific literature: [openalex.org](https://openalex.org). For example, this link searches for all articles with ["determinants" or "psychosocial correlates" in their title, as well as "condom use"](https://openalex.org/works?page=1&filter=display_name.search%3A%28%22determinants%22%20OR%20%22psychosocial%20correlates%22%29%20AND%20%22condom%20use%22).
 
 ### Examples
 
