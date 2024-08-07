@@ -46,11 +46,11 @@ Third, list the environmental conditions you want to realise. Similar to the tar
 
 Target behaviors are often very broadly defined (see the examples below). It is therefore important to identify the _sub-behaviors_ that make up the target behaviors. These ultimately being objectives you want to achieve with your intervention, In Intervention Mapping, these sub-behaviors are called Performance Objectives.
 
-<div class="coreProcesses">
+::: {.callout-note title="Guiding questions"}
 
 To identify the performance objectives for your target behavior, ask yourself the following question: _*"What do the people have to do to perform this target behavior?"*_ 
 
-</div>
+:::
 
 Formulate performance objectives in a way that includes the target group and that makes them measurable and that describes action, for example in the form of a statement like "[target population] [sub-behavior]", such as "Women recovering from breast cancer register at their local gym".
 
@@ -59,7 +59,7 @@ A major mistake is to formulate performance objectives as determinants, for exam
 A useful guideline is that if all performance objectives, as you formulated them, are true, the target behavior should by definition be performed. For example, if the statements "University students consistently carry condoms" and "University students consistently use condoms when engaging in sex" are true, you know that the target behavior "condom use" is achieved. That is, assuming these two performance objectives exhaustively cover the target behavior!
 
 
-<div class="exampleList">
+::: {.callout-tip title="Examples"}
 
 For example, when the target behavior is "washing hands", valid sub-behaviors/performance objectives are:
 
@@ -75,8 +75,7 @@ For example, when you like to promote condom use (health promoting behavior), yo
  2. Go to the store and buy condoms
  3. Use condoms 
 
-</div>
-
+:::
 
 ::: {.callout-important title="Products"}
 
@@ -94,13 +93,14 @@ In this section, you merge two lists:
 1. All environmental conditions that you listed in The Flip; and
 2. All environmental conditions for the performance objectives.
 
-<div class="coreProcesses">
+
+::: {.callout-note title="Guiding questions"}
 
 For each performance objective, specific environmental conditions may be relevant. To identify these think about what could be barriers hindering each performance objectives, and what could facilitate them?
 
-</div>
+:::
 
-<div class="exampleList">
+::: {.callout-tip title="Examples"}
 
 - Target behavior: handwashing at work
     - Environmental condition = Soap is available in every bathroom at work
@@ -114,15 +114,15 @@ For each performance objective, specific environmental conditions may be relevan
     - Performance objective 1: Sauna employees receive customers in a non-judgmental fashion and have an empathic attitude (interpersonal level)
     - Performance objective 2: Sauna owner buys condoms (organisational level)
 
-</div>
+:::
 
-<div class="produceSomething">
+::: {.callout-important title="Products"}
 
 - List all potentially relevant environmental conditions.
 - For each environmental condition, list the corresponding environmental agent(s).
 - For each agent, list their environmental level (i.e. the interpersonal level, the organizational level, and the community / societal level).
 
-</div>
+:::
 
 ## Identify environmental agent (sub-)behaviors
 
@@ -138,13 +138,13 @@ In many cases, environmental agents will be involved in work you yourself are un
 
 Because target behaviors for environmental agents are broadly defined, intervening on them requires specification. You specify them by formulating sub-behaviors or performance objectives. So, repeat what you did for the target group, but do it now for the environmental agents' target behaviors.
 
-<div class="coreProcesses">
+::: {.callout-note title="Guiding questions"}
 
 To find out the performance objectives for the environmental conditions, ask yourself the following question: "What does the environmental agent *need to do* to accomplish the changes in environmental condition?"
 
-</div>
+:::
 
-<div class="exampleList">
+::: {.callout-tip title="Examples"}
 
 - Environmental condition = hand hygiene resources are available for employees
     - Environmental agent = employer 
@@ -157,14 +157,14 @@ To find out the performance objectives for the environmental conditions, ask you
     - Target behavior of environmental agent = "clearly indicate with signs that people should keep distance" 
         - Performance objective = municipality orders the placing of signs (organisational level)
 
-</div>
+:::
 
-<div class="produceSomething">
+::: {.callout-important title="Products"}
 
 - List the target behavior for each environmental agent
 - List the performance object for each target behavior
 
-</div>
+:::
 
 ## Identify determinants and sub-determinants
 
@@ -188,13 +188,13 @@ In an intervention, you don't target "attitude" or "knowledge": you communicate 
 
 First, you establish a long list by simply including everything that might be important. Normally, you do this for every performance objective - for the target behavior of your target population, but also for the target behavior of each environmental agent. In real IM life you use all core processes and thus should look at theories, literature (e.g. meta-analyses), do your own experimental studies, or qualitative research, or do all of them. However, in this workbook, just select one environmental agent.
 
-<div class="coreProcesses">
+::: {.callout-note title="Guiding questions"}
 
 - Brainstorm and use literature and behavioral theories (see chapter 2 of the book) to compile a long list of determinants for the individuals' target behavior and for the environmental agent(s). 
 
-</div>
+:::
 
-<div class="exampleList">
+::: {.callout-tip title="Examples"}
 
 Target behavior individual = hand washing
 
@@ -224,14 +224,14 @@ Target behavior individuals = keeping distance from eachother in the busy street
     - expectation that one's immune system is strong enough; 
     - negative attitude towards elderly people in the streets; etc. 
 
-</div>
+:::
 
 
-<div class="produceSomething">
+::: {.callout-important title="Products"}
 
 - Create a long list of potential (sub-)determinants in the spreadsheet linked to from the Google doc (complete columns A-E).
 
-</div>
+:::
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
@@ -247,14 +247,14 @@ Second, you go through the list and you select those (sub-)determinants and dete
 
 Select from your list the most relevant determinants for your intervention that are important - *they contribute significantly to the behavior (0, +, or ++*), and that are *changeable - they can be changed with the available methods (0, +, or ++*). Consult the literature and your common sense to make these decisions.   
 
-<div class="coreProcesses">
+::: {.callout-note title="Guiding questions"}
 
 - Read ‘Rating importance of determinants’, IM Book, pp. 306-308.  
 - Decide for each determinant whether to select, defer, or forgo it, based on information about the determinants' associations to (proxies of) behavior in the case of the population (e.g., your target group or an environmental agent), and information about the changeability of the determinants, for example based on psychological theory.
 
-</div>
+:::
 
-<div class="exampleList">
+::: {.callout-tip title="Examples"}
 
 Here are links with examples of determinant selection based on importance and changeability:
 
@@ -265,14 +265,13 @@ https://www.healthpsychologybulletin.com/articles/10.5334/hpb.18/
 
 - Using a high dose of MDMA: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5508122/
 
+:::
 
-</div>
-
-<div class="produceSomething">
+::: {.callout-important title="Products"}
 
 - Process each sub-determinant listed in the spreadsheet doc and select, defer, or forgo each (sub-)determinant (complete columns F and G)
 
-</div>
+:::
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
@@ -282,17 +281,17 @@ https://www.healthpsychologybulletin.com/articles/10.5334/hpb.18/
 
 Out of the long list of potentially important stuff, decide which you select. If you do not select something, you can either defer (retain for potential later intervention) or forgo (eliminate, e.g. because it's irrelevant).
 
-<div class="exampleList">
+::: {.callout-tip title="Examples"}
 
 Selection based on how important stuff is for the behavior (relevance; usually correlational evidence) and how easy it is to change something (sadly, this is too often just anecdotal evidence; sometimes for determinants meta-analyses or systematic reviews)
 
-</div>
+:::
 
-<div class="produceSomething">
+::: {.callout-important title="Products"}
 
 - List your decisions regarding environmental conditions and agents
 
-</div>
+:::
 
 ## Produce Matrices of Change Objectives
 
@@ -315,7 +314,7 @@ SMART refers to:
 * **_Time_**: Within what period will you achieve your change goals?
 
 
-<div class="coreProcesses">
+::: {.callout-note title="Guiding questions"}
 
 For change objective at the individual level ask: _“What do people need to learn with regard to the determinant to do the performance objective?”_ 
 
@@ -327,11 +326,11 @@ For environmental level change objectives you might ask: _“What do agents need
 
 Formulate change objectives in a way that makes them **measurable** by using active verbs such as “shows”, “indicates”, “demonstrates” etc; see page 317 of the IM book for examples of active verbs (4th ed.: Table 5.10, p. 317).
  
-</div>
+:::
 
 Note that (sub-)determinants that you deferred or forwent are *not* included in your Matrix of Change Objectives.
 
-<div class="exampleList">
+::: {.callout-tip title="Examples"}
 
 **Background Step 2**: IM change objectives have to be specified explaining _who and what will change as a result of the intervention_. 
 
@@ -341,7 +340,7 @@ Who or what will change can be at
 - the _organizational level change_, e.g., "sauna owners will acknowledge the advantages of condom distribution in the sauna'  
 - or the _community level change_, e.g., "community leaders will approve of extracurricular physical workouts in school buildings". 
 
-</div>
+:::
 
 The Matrix of Change Objectives is structured as follows:
 
@@ -352,11 +351,11 @@ The Matrix of Change Objectives is structured as follows:
 Note that some cells will contain multiple change objectives, and some cells will be empty, because not all determinants are important for all performance objectives.
 
 
-<div class="produceSomething">
+::: {.callout-important title="Products"}
 
 - Produce a Matrix of Change Objectives for each target behavior (for the target group and for each environmental agent).
 
-</div>
+:::
 
 ## Start on the logic model of change
 

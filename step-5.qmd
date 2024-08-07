@@ -10,7 +10,7 @@ So, start step 1 again, with identifying potential *adopters and implementers*.
 
 Then, adapt your planningsgroup (re-evaluate who should be in there), etc.
 
-<div class="exampleList">
+::: {.callout-tip title="Examples"}
 
 Example of more exercise for young children at schools:
 
@@ -26,4 +26,4 @@ Example for social distancing in the Kalverstraat:
 - How will they know that our intervention exists?
     - The municipality should inform them.
 
-</div>
+:::
