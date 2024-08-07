@@ -41,7 +41,7 @@ Who would you ask for your planning group? To help answer this question, brainst
 
 ### Examples
 
-<div class="exampleList">
+::: {.callout-tip title="Examples"}
 
 We want to increase physical activity in young children, and decrease overweight, but the at-risk group is a bit too young for the planning group, so asking parents (possible target group) is an idea.
 
@@ -50,15 +50,15 @@ We want to increase physical activity in young children, and decrease overweight
 - Experts in physical exercise and obesity in children
 - You also want people who are critical of your ideas, and who are not convinced about the intervention. They may provide you with good feedback that will eventually improve the intervention.  
 
-</div>
+:::
 
 ### Product
 
-<div class="produceSomething">
+::: {.callout-important title="Products"}
 
 - List the important groups of stakeholders and other populations, groups, and experts that should be included in your planning group.
 
-</div>
+:::
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
@@ -76,7 +76,9 @@ Brainstorm about the topic: what do you all already know about the problem? When
 
 ### Core Processes
 
-Remember that in this course, instead of applying the core processes as they are defined in Intervention Mapping, you should stick to brainstorming, supplemented by the provided literature and quick internet searches (see section \@ref(core-processes)).
+Remember that in this course, instead of applying the core processes as they are defined in Intervention Mapping, you should stick to brainstorming, supplemented by the provided literature and quick searches in for more scientific literature in OpenAlex.
+
+OpenAlex is an open source bibliographic database with scientific literature: [openalex.org](https://openalex.org). For example, this link searches for all articles with ["determinants" or "psychosocial correlates" in their title, as well as "condom use"](https://openalex.org/works?page=1&filter=display_name.search%3A%28%22determinants%22%20OR%20%22psychosocial%20correlates%22%29%20AND%20%22condom%20use%22).
 
 <div class="coreProcesses">
 
@@ -125,13 +127,13 @@ Example: We want primary school children to exercise more frequently.
 
 ### Product
 
-<div class="produceSomething">
+::: {.callout-important title="Products"}
 
 - List at least four determinants.
 - List at least four environmental conditions.
 - Produce a diagram that visualises the logic model of the problem.
 
-</div>
+:::
 
 ![Logic model of the problem, see book p. 227.](img/LogicModel.png)
 
@@ -163,7 +165,7 @@ A program always has one or more ultimate goals. The environmental goals and beh
 
 Note that you may want to change behaviors of environmental agents, too. However, in that case, often those _behaviors_ are in fact not what is important: instead the environmental condition that is caused or maintained by their behavior is important. That environmental condition (e.g. a certain norm) is what influences the problem(s) you want to address, so often you are better off specifying you want to change that environmental condition. In step 2, you will identify which behaviors each environmental agent needs to change in order to change the environmental condition.
 
-### Core Processes
+### Program Goal
 
 <div class="coreProcesses">
 
@@ -171,15 +173,14 @@ Note that you may want to change behaviors of environmental agents, too. However
 - How much behavior change can we expect from our target group? 
 - How quickly (or in what timeframe) would it be possible to reach that goal? Is this very likely?
 - Are effects on relevant health outcomes quantifiable within the chosen relevant and realistic time frame or should we choose a certain behavior or environment?
+
 </div>
 
 Note that selecting goals is not a purely theory- and evidence-based decision. It often requires compromises between several interests. For example, there are often political interests. Funders often want to see a certain problem addressed, and may prefer evaluating that problem specifically; or on the other hand, you may collaborate with governmental organisations that want (or don't want) certain outcomes to be selected. Simultaneously, there are methodological considerations: can that problem be measured well? What effect size would you expect, and is that sample size reasonable? Other considerations are theoretical: how quickly do you expect that a potential outcome can change if your intervention is succesful? This is often combined with pragmatic considerations (e.g. how long will you have for the evaluation), and sometimes activistic considerations play a role, too (e.g. you might collaborate with a volunteer foundation that prioritizes certain outcomes to enhance visibility).
 
-To search for scientific literature, you can use OpenAlex, an open source bibliographic database with scientific literature: [openalex.org](https://openalex.org). For example, this link searches for all articles with ["determinants" or "psychosocial correlates" in their title, as well as "condom use"](https://openalex.org/works?page=1&filter=display_name.search%3A%28%22determinants%22%20OR%20%22psychosocial%20correlates%22%29%20AND%20%22condom%20use%22).
-
 ### Examples
 
-<div class="exampleList">
+::: {.callout-note title="Examples"}
 
 Reaching the 60+ population is more difficult, and they are physically slower, so although they are the at-risk group, we now choose the younger adults as target group. To do this in the entire city is not feasible, so we focus at one busy street. To set our goals too far in the future would be useless, so we want fast implementation and fast results. The program goal would therefore be *to increase social distancing of adults under 30 by 50% on the sidewalk in the Kalverstraat in Amsterdam within 2 weeks.*
 
@@ -189,16 +190,16 @@ Reaching the 60+ population is more difficult, and they are physically slower, s
 
 Note that we separated increasing activity and decreasing weight. Here we might picked the parents as the target group (we need them to bring the children to the extracurricular gymnastic classes) or the heads of schools in Amsterdam-Noord (who need to implement our intervention program at their school). By the way: the program goals should be feasible! Our examples might not be that feasible, but at least we focused at a specific agegroup of children in a specific area (Amsterdam-Noord), instead of 'all children in the world'.  
 
-</div>
+:::
 
-### Product
+### Products
 
 Although "in real life", it is quite possible to not have any behavioral program goals, when working with this workbook, you *must* select a target group (which can be either the at-risk group or a different population) and a behavioral goal.
 
-<div class="produceSomething">
+::: {.callout-important title="Products"}
 
 - List the ultimate program goal(s).
 - List the environmental program goal(s), if any.
 - List the behavioral program goal(s).
 
-</div>
+:::
