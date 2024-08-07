@@ -61,6 +61,6 @@ In this course, there is no time to comprehensively apply these core processes. 
 It is important that you understand which choices you have to make and how you can justify those choices. The quality of the evidence and theory you use is crucial in real life, but not important in this course.
 
 ```{r CC-BY-NC-SA, fig.cap="CC-BY-NC-SA", echo=FALSE, fig.out="150px"}
-knitr::include_graphics(here::here("img", "by-nc-sa.eu.png"));
+#knitr::include_graphics(here::here("img", "by-nc-sa.eu.png"));
 ```
 
