@@ -13,9 +13,17 @@ In this workbook, we will do the same work. However, in the following exercises,
 
 In this workbook, we use boxes with different colours to clearly signal types of content:
 
-- Green box: Brainstorm (and other core processes)
-- Blue/purple box: Examples 
-- Red box: Product that should be done in the main google doc/google sheet/presentation. 
+::: {.callout-note title="Guiding questions"}
+Questions to guide the application of core processes (mostly brainstorming)
+:::
+
+::: {.callout-tip title="Examples"}
+One or more examples to help you along
+:::
+
+::: {.callout-important title="Products"}
+One or more products, usually to complete in the main google doc/google sheet/presentation
+:::
 
 In the downloadable version of this workbook, these boxes do not have a colour. On that note: if you happen to be fluent with LaTeX and willing to help out, it would be great if you would get in touch with us.
 
@@ -31,13 +39,13 @@ To ensure that you comprehensively define your problem, IM starts with a _planni
 
 Who would you ask for your planning group? To help answer this question, brainstorm about questions such as:
  
-<div class="coreProcesses">
+::: {.callout-note title="Guiding questions"}
  
 - Who represents your target population? (e.g. members of the at-risk group are important participants in a planning group)
 - Who are possible environmental agents (e.g. decision makers)?
 - Who are the potential program implementers (e.g. the professionals who are going to implement your program)?
 
-</div>
+:::
 
 ### Examples
 
@@ -76,11 +84,11 @@ Brainstorm about the topic: what do you all already know about the problem? When
 
 ### Core Processes
 
-Remember that in this course, instead of applying the core processes as they are defined in Intervention Mapping, you should stick to brainstorming, supplemented by the provided literature and quick searches in for more scientific literature in OpenAlex.
+Remember that in this course, instead of applying the core processes as they are defined in Intervention Mapping, you should stick to brainstorming, supplemented by the provided literature and quick searches for more scientific literature in OpenAlex.
 
-OpenAlex is an open source bibliographic database with scientific literature: [openalex.org](https://openalex.org). For example, this link searches for all articles with ["determinants" or "psychosocial correlates" in their title, as well as "condom use"](https://openalex.org/works?page=1&filter=display_name.search%3A%28%22determinants%22%20OR%20%22psychosocial%20correlates%22%29%20AND%20%22condom%20use%22).
+OpenAlex is an open source bibliographic database with scientific literature which you can access at [openalex.org](https://openalex.org). For example, this link searches for all articles with ["determinants" or "psychosocial correlates" in their title, as well as "condom use"](https://openalex.org/works?page=1&filter=display_name.search%3A%28%22determinants%22%20OR%20%22psychosocial%20correlates%22%29%20AND%20%22condom%20use%22).
 
-<div class="coreProcesses">
+::: {.callout-note title="Guiding questions"}
 
 - What is the central problem?   
 - Why is it a problem? Is it a serious problem?  
@@ -99,13 +107,13 @@ OpenAlex is an open source bibliographic database with scientific literature: [o
 - Who is the at-risk group?
 - Who is the target group (can be the same as the at-risk group)?
 
-</div>
+:::
 
 To read more about the Core Processes, there is an Open Access article at [doi.org/gb59](https://doi.org/gb59).
 
 ### Examples
 
-<div class="exampleList">
+::: {.callout-tip title="Examples"}
 
 Example: We want to promote social distancing in Amsterdam and we want to target the older population.
 
@@ -123,7 +131,7 @@ Example: We want primary school children to exercise more frequently.
 - Environmental conditions = no possibility to play outside
 - Environmental agents = heads of schools 
 
-</div>
+:::
 
 ### Product
 
@@ -167,14 +175,14 @@ Note that you may want to change behaviors of environmental agents, too. However
 
 ### Program Goal
 
-<div class="coreProcesses">
+::: {.callout-note title="Guiding questions"}
 
 - Which specific target group do we choose? 
 - How much behavior change can we expect from our target group? 
 - How quickly (or in what timeframe) would it be possible to reach that goal? Is this very likely?
 - Are effects on relevant health outcomes quantifiable within the chosen relevant and realistic time frame or should we choose a certain behavior or environment?
 
-</div>
+:::
 
 Note that selecting goals is not a purely theory- and evidence-based decision. It often requires compromises between several interests. For example, there are often political interests. Funders often want to see a certain problem addressed, and may prefer evaluating that problem specifically; or on the other hand, you may collaborate with governmental organisations that want (or don't want) certain outcomes to be selected. Simultaneously, there are methodological considerations: can that problem be measured well? What effect size would you expect, and is that sample size reasonable? Other considerations are theoretical: how quickly do you expect that a potential outcome can change if your intervention is succesful? This is often combined with pragmatic considerations (e.g. how long will you have for the evaluation), and sometimes activistic considerations play a role, too (e.g. you might collaborate with a volunteer foundation that prioritizes certain outcomes to enhance visibility).
 
