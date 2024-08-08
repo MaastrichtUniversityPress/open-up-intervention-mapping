@@ -52,3 +52,8 @@ Make sure to not spend too much on obtaining the best answers. It is important t
 #knitr::include_graphics(here::here("img", "by-nc-sa.eu.png"));
 ```
 
+## Citing this book
+
+If you cite this work book, please cite it as:
+
+Peters, G.-J., Oei, N., & Ruiter, R. A. C. (2024) Intervention Mapping Work Book. Academy of Behavior Change. https://doi.org/10.5281/zenodo.13269533
