@@ -25,7 +25,7 @@ One or more examples to help you along
 One or more products, usually to complete in the main google doc/google sheet/presentation
 :::
 
-In the downloadable version of this workbook, these boxes do not have a colour. On that note: if you happen to be fluent with LaTeX and willing to help out, it would be great if you would get in touch with us.
+In the epub version of this workbook, these boxes do not have a colour. On that note: if you happen to have expertise in this area and are willing to help out, it would be great if you would get in touch with us.
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->
