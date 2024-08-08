@@ -5,6 +5,12 @@ project:
 book:
   title: "Intervention Mapping Work Book"
   author: "Gjalt-Jorn Peters, Nicole Oei & Rob Ruiter"
+  description: >
+    This is the Intervention Mapping Work Book. In the workshop/training
+    that this workbook can be used for, the steps of the Intervention
+    Mapping protocol are practised in groups. The structure of the workshop,
+    therefore, is guided by the IM protocol. This is an Open Access book,
+    freely available under the Creative Commons CC-BY-NC-SA license.
   output-file: "im-wb"
 #  date: "`r format(Sys.time(), '%Y-%m-%d at %H:%M:%S (UTC%z)')`"
   date: today
