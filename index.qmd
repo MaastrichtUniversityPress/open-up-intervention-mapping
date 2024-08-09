@@ -56,4 +56,4 @@ Make sure to not spend too much on obtaining the best answers. It is important t
 
 If you cite this work book, please cite it as:
 
-Peters, G.-J., Oei, N., & Ruiter, R. A. C. (2024) Intervention Mapping Work Book. Academy of Behavior Change. https://doi.org/10/nb6j
+Peters, G.-J., Oei, N., & Ruiter, R. A. C. (2024) Intervention Mapping Work Book. Academy of Behavior Change. [https://doi.org/10/nb6j](https://doi.org/10/nb6j)
