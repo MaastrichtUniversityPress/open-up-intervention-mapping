@@ -30,6 +30,7 @@ pages:
     - mv _book public
 #    - ./_build.sh
 #    - ./_deploy.sh
+  only: never
   artifacts:
     paths:
       - public
