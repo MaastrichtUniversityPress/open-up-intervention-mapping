@@ -1,24 +1,24 @@
-image: rocker/tidyverse
-
-variables:
-  GIT_SUBMODULE_STRATEGY: recursive
-#  pandoc_version: 1.19.2.1
-  _R_CHECK_CRAN_INCOMING_: "false"
-  _R_CHECK_FORCE_SUGGESTS_: "true"
-#  APT_PKGS: "libcurl4-openssl-dev libssh2-1-dev libssl-dev libxml2-dev zlib1g-dev git libgsl0-dev"
-  APT_PKGS: "libcurl4-openssl-dev libssh2-1-dev libssl-dev libxml2-dev git libgsl0-dev"
-
-before_script:
-#  - apt-get update && apt-get -y install pandoc texlive-xetex
-  - apt-get update && apt-get -y install pandoc
-  - apt-get install -y --no-install-recommends ${APT_PKGS}
-  - R -e "install.packages('bookdown', repos='http://cran.rstudio.com')"
-  - R -e "install.packages('DiagrammeR', repos='http://cran.rstudio.com')"
-  - R -e "install.packages('data.tree', repos='http://cran.rstudio.com')"
-  - R -e "install.packages('here', repos='http://cran.rstudio.com')"
-  - R -e "install.packages(c('tinytex', 'rmarkdown'), repos='http://cran.rstudio.com')"
-  - R -e "tinytex::install_tinytex()"
-
+# image: rocker/tidyverse
+#
+# variables:
+#   GIT_SUBMODULE_STRATEGY: recursive
+# #  pandoc_version: 1.19.2.1
+#   _R_CHECK_CRAN_INCOMING_: "false"
+#   _R_CHECK_FORCE_SUGGESTS_: "true"
+# #  APT_PKGS: "libcurl4-openssl-dev libssh2-1-dev libssl-dev libxml2-dev zlib1g-dev git libgsl0-dev"
+#   APT_PKGS: "libcurl4-openssl-dev libssh2-1-dev libssl-dev libxml2-dev git libgsl0-dev"
+#
+# before_script:
+# #  - apt-get update && apt-get -y install pandoc texlive-xetex
+#   - apt-get update && apt-get -y install pandoc
+#   - apt-get install -y --no-install-recommends ${APT_PKGS}
+#   - R -e "install.packages('bookdown', repos='http://cran.rstudio.com')"
+#   - R -e "install.packages('DiagrammeR', repos='http://cran.rstudio.com')"
+#   - R -e "install.packages('data.tree', repos='http://cran.rstudio.com')"
+#   - R -e "install.packages('here', repos='http://cran.rstudio.com')"
+#   - R -e "install.packages(c('tinytex', 'rmarkdown'), repos='http://cran.rstudio.com')"
+#   - R -e "tinytex::install_tinytex()"
+#
 # pages:
 #   stage: build
 #   image: rocker/tidyverse
