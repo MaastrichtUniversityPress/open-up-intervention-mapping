@@ -44,7 +44,11 @@ Environmental Level
   
 Performance Objective
 
+<<<<<<< HEAD
   : A performance objective is a sub-behavior. The concept is used to get more fine-grained insights into the determinants and environmental conditions that together predict a behavior. For example, if you want to promote condom use, people will have to acquire condoms, discuss condoms with their partner, and appropriately use the condoms. These three sub-behaviors have different determinants and environmental conditions, some of which more easily escape notice when not considering behavior at the more specific sub-behavior level. Performance Objectives (POs) are called Performance Objectives, because, like Change Objectives, they have been selected as objectives to intervene on. In other words, a target behavior may consist of more sub-behaviors than are selected as intervention targets, and in that case there are fewer POs than sub-behaviors.
+=======
+  : A performance objective is a sub-behavior of the target behavior that has been selected as a sub-goal for the intervention.
+>>>>>>> 9993a67fcfc572322ec950dd694076bb8c9bec64
 
 ## Non-IM behavior change terms
 

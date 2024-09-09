@@ -24,7 +24,7 @@ Specify the necessary creative resources (program producers) so that you can pro
 
 Remember that you have to collaborate with experts in different professions and that you are the only expert aware of the parameters of the methods; check the (step 3) applications for parameters!
 
-<div class="exampleList">
+::: {.callout-tip title="Examples"}
 
 Example format for program material plans:
 
@@ -35,13 +35,13 @@ Example format for program material plans:
 
 Note that especially the "Description" should normally be considerably more extensive.
 
-</div>
+:::
 
-<div class="produceSomething">
+::: {.callout-important title="Products"}
 
 - Produce program material plans.
 
-</div>
+:::
 
 ## Draft messages, materials and protocols
 
