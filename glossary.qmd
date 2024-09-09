@@ -2,7 +2,7 @@
 
 In the definitions in this glossary, terms that refer to concepts that are defined elsewhere in the glossary are printed in *italic*.
 
-## General terms from psychology, science, etc
+## General terms from psychology
 
 Behavior
 
@@ -44,35 +44,35 @@ Environmental Level
   
 Performance Objective
 
-  : A performance objective is a sub-behavior ...
+  : A performance objective is a sub-behavior. The concept is used to get more fine-grained insights into the determinants and environmental conditions that together predict a behavior. For example, if you want to promote condom use, people will have to acquire condoms, discuss condoms with their partner, and appropriately use the condoms. These three sub-behaviors have different determinants and environmental conditions, some of which more easily escape notice when not considering behavior at the more specific sub-behavior level. Performance Objectives (POs) are called Performance Objectives, because, like Change Objectives, they have been selected as objectives to intervene on. In other words, a target behavior may consist of more sub-behaviors than are selected as intervention targets, and in that case there are fewer POs than sub-behaviors.
 
 ## Non-IM behavior change terms
 
-This section mostly lists stuff that Rik and GJ came up with.
+This section mostly lists additional terms related to tools created by Crutzens & Peters.
 
 ABCD
 
-  : Definition here
+  : An Acyclic Behavior Change Diagram is to step 3 of IM what a Matrix of Change Objectives is to step 2: it succinctly illustrates which 
 
 Aspect of human psychology
 
   : An aspect of human psychology is a raw expression of somebody's psychology (e.g. "I really hate broccoli!" or "At that party, everybody was drinking cocktails."). Aspects can be categorized into specific psychological constructs (e.g. into (sub)determinants). Aspects can be identified, for example, in qualitative data such as interviews transcripts, or from information provided by experts or target population members in the planning group.
 
-COMPLECS
+<!-- COMPLECS
 
-  : Definition here
+  : Definition here -->
 
-CIBER
+CIBER plot
 
-  : Definition here
+  : A Confidence Interval-Based Estimation of Relevance plot is a visualization to 
 
 MAP
 
   : Definition here
 
-Subdeterminant
+Sub-determinant
 
-  : A subdeterminant is an *aspect* that has been categorized as a specific psychological construct (i.e. a determinant). *Determinants* are psychological *constructs* that cause behavior (as specified in at least one theory). Psychological constructs can be defined on various levels of specificity: "intelligence" or "personality" are very broadly defines constructs, whereas "attitude" is more specific, and "risk perception" even more specific. On this general-specific-dimension, there are no default or optimals levels of specificity. However, there is a point where definitions become sufficiently specific and contextually embedded that it becomes possible to express the related psychological content verbally or visually. Determinants (i.e. psychological constructs) that are defined with that level of specificity are called subdeterminants. These are important to distinguish in behavior change science and practice because behavior change interventions can never target determinants - they can only target subdeterminants, since the stimuli that form the intervention (e.g. texts, images, videos) must necessarily be concrete and specific. Therefore, a required step in intervention development is identifying the subdeterminants that need to be targeted. In Intervention Mapping, subdeterminants can be formulated as Change Objectives by following a specific set of guidelines.
+  : A sub-determinant is an *aspect* that has been categorized as a specific psychological construct (i.e. a determinant). *Determinants* are psychological *constructs* that cause behavior (as specified in at least one theory). Psychological constructs can be defined on various levels of specificity: "intelligence" or "personality" are very broadly defines constructs, whereas "attitude" is more specific, and "risk perception" even more specific. On this general-specific-dimension, there are no default or optimal levels of specificity. However, there is a point where definitions become sufficiently specific and contextually embedded that it becomes possible to express the related psychological content verbally or visually. Determinants (i.e. psychological constructs) that are defined with that level of specificity are called sub-determinants. These are important to distinguish in behavior change science and practice because behavior change interventions can never target determinants - they can only target sub-determinants, since the stimuli that form the intervention (e.g. texts, images, videos) must necessarily be concrete and specific. Therefore, a required step in intervention development is identifying the sub-determinants that need to be targeted. In Intervention Mapping, those sub-determinants that are selected as intervention targets are then formulated as Change Objectives by following a specific set of guidelines.
 
 
 

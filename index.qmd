@@ -24,10 +24,12 @@ The general aim of the workshop is to practice the steps of the Intervention Map
 
 To prepare for the workshop, you can read the following Open Access articles:
 
-- Peters, G.-J. Y. (2014). *A practical guide to effective behavior change: How to identify what to change in the first place*. European Health Psychologist, 16(5), 142-155. [https://doi.org/ghm799](https://doi.org/ghm799)
-- Kok, G. (2014). *A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention.* European Health Psychologist, 16(5), 156-170. [https://doi.org/ghm78g](https://doi.org/ghm78g)
-- Ruiter, R. A. C. & Crutzen, R. (2020) *Core Processes: How to Use Evidence, Theories, and Research in Planning Behavior Change Interventions.* Frontiers in Public Health (8) [https://doi.org/gb59](https://doi.org/gb59)
-- Kok, G., Gottlieb, N. H., Peters, G.-J. Y., Dolan Mullen, P., Parcel, G. S., Ruiter, R. A. C., Fernández, M. E., Markham, C., & Bartholomew, L. K. (2016) *A taxonomy of behaviour change methods: an Intervention Mapping approach*, Health Psychology Review, 10:3, 297-312. [https://doi.org/gf2x2w](https://doi.org/gf2x2w)
+- Peters, G.-J. Y. (2014). *A practical guide to effective behavior change: How to identify what to change in the first place*. European Health Psychologist, 16(5), 142-155. [https://doi.org/10/ghm799](https://doi.org/ghm799)
+- Kok, G. (2014). *A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention.* European Health Psychologist, 16(5), 156-170. [https://doi.org/10/ghm78g](https://doi.org/ghm78g)
+- Ruiter, R. A. C. & Crutzen, R. (2020). *Core Processes: How to Use Evidence, Theories, and Research in Planning Behavior Change Interventions.* Frontiers in Public Health (8) [https://doi.org/10/gb59](https://doi.org/gb59)
+- Kok, G., Gottlieb, N. H., Peters, G.-J. Y., Dolan Mullen, P., Parcel, G. S., Ruiter, R. A. C., Fernández, M. E., Markham, C., & Bartholomew, L. K. (2016). *A taxonomy of behaviour change methods: an Intervention Mapping approach*, Health Psychology Review, 10:3, 297-312. [https://doi.org/10/gf2x2w](https://doi.org/gf2x2w)
+- Metz, G., Peters, G. J. Y., & Crutzen, R. (2022). *Acyclic behavior change diagrams: a tool to report and analyze interventions.* Health Psychology and Behavioral Medicine, 10(1), 1216–1228. [https://doi.org/10/jp9t](https://doi.org/jp9t)
+
 
 ## Group Work {.unnumbered}
 
