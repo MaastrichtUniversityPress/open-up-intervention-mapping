@@ -22,7 +22,7 @@ One or more examples to help you along.
 :::
 
 ::: {.callout-important title="Products"}
-One or more products, usually to complete in the main google doc/google sheet/presentation.
+One or more products, usually to complete in the exercise book, associated spreadsheets, or google sheet/presentation.
 :::
 
 Note: the `.epub` version of this workbook doesn't quite seem to be created properly yet. One problem is that these boxes do not have a color. On that note: if you happen to have expertise in this area and are willing to help out, it would be great if you would get in touch with us. The `.pdf` version seems ok.
