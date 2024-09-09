@@ -44,11 +44,7 @@ Environmental Level
   
 Performance Objective
 
-<<<<<<< HEAD
-  : A performance objective is a sub-behavior. The concept is used to get more fine-grained insights into the determinants and environmental conditions that together predict a behavior. For example, if you want to promote condom use, people will have to acquire condoms, discuss condoms with their partner, and appropriately use the condoms. These three sub-behaviors have different determinants and environmental conditions, some of which more easily escape notice when not considering behavior at the more specific sub-behavior level. Performance Objectives (POs) are called Performance Objectives, because, like Change Objectives, they have been selected as objectives to intervene on. In other words, a target behavior may consist of more sub-behaviors than are selected as intervention targets, and in that case there are fewer POs than sub-behaviors.
-=======
-  : A performance objective is a sub-behavior of the target behavior that has been selected as a sub-goal for the intervention.
->>>>>>> 9993a67fcfc572322ec950dd694076bb8c9bec64
+  : A performance objective is a sub-behavior. The concept is used to get more fine-grained insights into the determinants and environmental conditions that together predict a behavior. For example, if you want to promote condom use, people will have to acquire condoms, discuss condoms with their partner, and appropriately use the condoms. These three sub-behaviors have different determinants and environmental conditions, some of which more easily escape notice when not considering behavior at the more specific sub-behavior level. Performance Objectives (POs) are called Performance Objectives, because, like Change Objectives, they have been selected as objectives to intervene on (i.e. as sub-goals). In other words, a target behavior may consist of more sub-behaviors than are selected as intervention targets, and in that case there are fewer POs than sub-behaviors.
 
 ## Non-IM behavior change terms
 
@@ -58,9 +54,9 @@ ABCD
 
   : An Acyclic Behavior Change Diagram is to step 3 of IM what a Matrix of Change Objectives is to step 2: it succinctly illustrates which 
 
-Aspect of human psychology
+Aspect of the human psyche
 
-  : An aspect of human psychology is a raw expression of somebody's psychology (e.g. "I really hate broccoli!" or "At that party, everybody was drinking cocktails."). Aspects can be categorized into specific psychological constructs (e.g. into (sub)determinants). Aspects can be identified, for example, in qualitative data such as interviews transcripts, or from information provided by experts or target population members in the planning group.
+  : An aspect of the human psyche is a raw expression of somebody's psyche (e.g. "I really hate broccoli!" or "At that party, everybody was drinking cocktails."). Aspects can be categorized into specific psychological constructs (e.g. into (sub)determinants). Aspects can be identified, for example, in qualitative data such as interviews transcripts, or from information provided by experts or target population members in the planning group.
 
 <!-- COMPLECS
 
@@ -68,11 +64,11 @@ Aspect of human psychology
 
 CIBER plot
 
-  : A Confidence Interval-Based Estimation of Relevance plot is a visualization to 
+  : A Confidence Interval-Based Estimation of Relevance plot is a visualization to help select (sub-)determinants to intervene on. It shows two estimates that are important: each (sub-)determinant's univariate distribution (the mean as well as individual participants' scores) as well as each (sub-)determinant's association to behavior or a proxy of behavior (e.g. intention or an intermediate determinant).
 
 MAP
 
-  : Definition here
+  : A Map of Aspects of the Psyche (MAP) shows all psychological *aspects* that may cause a target behavior. It is used as a tool to produce a long-list of sub-determinants from which then change objectives are selected.
 
 Sub-determinant
 
