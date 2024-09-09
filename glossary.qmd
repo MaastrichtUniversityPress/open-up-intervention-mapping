@@ -58,13 +58,13 @@ Aspect of the human psyche
 
   : An aspect of the human psyche is a raw expression of somebody's psyche (e.g. "I really hate broccoli!" or "At that party, everybody was drinking cocktails."). Aspects can be categorized into specific psychological constructs (e.g. into (sub)determinants). Aspects can be identified, for example, in qualitative data such as interviews transcripts, or from information provided by experts or target population members in the planning group.
 
-<!-- COMPLECS
+COMPLECS
 
-  : Definition here -->
+  : COMPLECS is a recursive acronym for COMPLECS Organises Multiple Players & Linked Environments using Connected Specifications. When developing a behavior change intervention, it is first necessary to obtain a comprehensive in-depth understanding of the problem. For example, the Intervention Mapping protocol dedicated the first step, the Needs Assessment, to this endeavour. In this phase, maintaining an overview can be challenging, as all the myraid aspects of reality that are, or may be, relevant are collected and related to each other.
 
 CIBER plot
 
-  : A Confidence Interval-Based Estimation of Relevance plot is a visualization to help select (sub-)determinants to intervene on. It shows two estimates that are important: each (sub-)determinant's univariate distribution (the mean as well as individual participants' scores) as well as each (sub-)determinant's association to behavior or a proxy of behavior (e.g. intention or an intermediate determinant).
+  : A Confidence Interval-Based Estimation of Relevance plot is a visualization to help select (sub-)determinants to intervene on. It shows two estimates that are important: each (sub-)determinant's univariate distribution (the mean as well as individual participants' scores) as well as each (sub-)determinant's association to behavior or a proxy of behavior (e.g. intention or an intermediate determinant). COMPLECS was developed to help to keep an overview during this process. It allows adding new information in a piece-wise manner, and then combines everything into one visualisation.
 
 MAP
 
