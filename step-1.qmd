@@ -174,25 +174,30 @@ Note that you may want to change behaviors of environmental agents, too. However
 ::: {.callout-note title="Guiding questions"}
 
 - Which specific target group do we choose? 
+- What is the current state (e.g. behavior, outcomes)?
 - How much behavior change can we expect from our target group? 
 - How quickly (or in what timeframe) would it be possible to reach that goal? Is this very likely?
 - Are effects on relevant health outcomes quantifiable within the chosen relevant and realistic time frame or should we choose a certain behavior or environment?
 
 :::
 
-Note that selecting goals is not a purely theory- and evidence-based decision. It often requires compromises between several interests. For example, there are often political interests. Funders often want to see a certain problem addressed, and may prefer evaluating that problem specifically; or on the other hand, you may collaborate with governmental organisations that want (or don't want) certain outcomes to be selected. Simultaneously, there are methodological considerations: can that problem be measured well? What effect size would you expect, and is that sample size reasonable? Other considerations are theoretical: how quickly do you expect that a potential outcome can change if your intervention is succesful? This is often combined with pragmatic considerations (e.g. how long will you have for the evaluation), and sometimes activistic considerations play a role, too (e.g. you might collaborate with a volunteer foundation that prioritizes certain outcomes to enhance visibility).
+Note that selecting goals is not a purely theory- and evidence-based decision. It often requires compromises between several interests. For example, there are often political interests. Funders often want to see a certain problem addressed, and may prefer evaluating that problem specifically; or on the other hand, you may collaborate with governmental organisations that want (or don't want) certain outcomes to be selected.
+
+Simultaneously, there are methodological considerations: can that problem be measured well? What effect size would you expect, and is that sample size reasonable? Other considerations are theoretical: how quickly do you expect that a potential outcome can change if your intervention is successful? This is often combined with pragmatic considerations (e.g. how long will you have for the evaluation), and sometimes activistic considerations play a role, too (e.g. you might collaborate with a volunteer foundation that prioritizes certain outcomes to enhance visibility).
+
+Finally, in the goal, include both the present state (the 'baseline') as well as the desired result.
 
 ### Examples
 
 ::: {.callout-note title="Examples"}
 
-Reaching the 60+ population is more difficult, and they are physically slower, so although they are the at-risk group, we now choose the younger adults as target group. To do this in the entire city is not feasible, so we focus at one busy street. To set our goals too far in the future would be useless, so we want fast implementation and fast results. The program goal would therefore be *to increase social distancing of adults under 30 by 50% on the sidewalk in the Kalverstraat in Amsterdam within 2 weeks.*
+Reaching the 60+ population is more difficult, and they are physically slower, so although they are the at-risk group, we now choose the younger adults as target group. To do this in the entire city is not feasible, so we focus at one busy street. To set our goals too far in the future would be useless, so we want fast implementation and fast results. The program goal would therefore be *to increase social distancing of adults under 30 from 60% to 80% on the sidewalk in the Kalverstraat in Amsterdam within 2 weeks.*
 
 - We wanted primary school children to exercise more frequently. We chose the following program goals: 
-    - *to increase physical activity in children between 6 and 10 by 30% and to decrease weight in the overweight children by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord.* 
-    - *to decrease weight in the overweight children children between 6 and 10 by 5%, following 2 years of our intervention at the schools in Amsterdam-Noord.*
+    - *to increase physical activity in children between 6 and 10 from an average of by 26 minutes per week to 52 minutes per week and to decrease weight in the overweight children from an average of 72kg to 65kg, following 2 years of our intervention at the schools in Amsterdam-Noord.* 
+    - *to decrease weight in the overweight children between 6 and 10 from an average of 72kg to 65kg, following 2 years of our intervention at the schools in Amsterdam-Noord.*
 
-Note that we separated increasing activity and decreasing weight. Here we might picked the parents as the target group (we need them to bring the children to the extracurricular gymnastic classes) or the heads of schools in Amsterdam-Noord (who need to implement our intervention program at their school). By the way: the program goals should be feasible! Our examples might not be that feasible, but at least we focused at a specific agegroup of children in a specific area (Amsterdam-Noord), instead of 'all children in the world'.  
+Note that we separated increasing activity and decreasing weight. Here we might picked the parents as the target group (we need them to bring the children to the extracurricular gymnastic classes) or the heads of schools in Amsterdam-Noord (who need to implement our intervention program at their school). By the way: the program goals should be feasible! Our examples might not be that feasible, but at least we focused at a specific age group of children in a specific area (Amsterdam-Noord), instead of 'all children in the world'.  
 
 :::
 
