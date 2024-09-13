@@ -22,7 +22,7 @@ One or more examples to help you along.
 :::
 
 ::: {.callout-important title="Products"}
-One or more products, usually to complete in the main google doc/google sheet/presentation.
+One or more products, usually to complete in the exercise document, associated spreadsheets, or google sheet/presentation.
 :::
 
 Note: the `.epub` version of this workbook doesn't quite seem to be created properly yet. One problem is that these boxes do not have a color. On that note: if you happen to have expertise in this area and are willing to help out, it would be great if you would get in touch with us. The `.pdf` version seems ok.
@@ -148,6 +148,8 @@ Example: We want primary school children to exercise more frequently.
 ## Task: Describe the context for the intervention, including the population, setting and community
 
 In step 1, you don't only map out the problems and their causes, but you also map out your target population's landscape more generally. Specifically, it's important to identify in which setting the problem occurs (i.e. also aspects that may not play a role for the problem), understand the population (e.g. culture, existing communities, etc), and other assets that you may be able to involve in the intervention later on. This is broadly referred to as the asset assessment. The result is a description of your target population and their surroundings.
+
+This also includes the asset assessment, where you map the specific strenghts of the population you want to intervene in. Assets are often mapped for four environment levels: the social environment, the information environment, the policy environment, and the physical environment. Keep in mind that assets are specific characteristics that are not generally true, but specific to your target population (e.g. exceptional infastructure (physical environment), closely knit community bonds (social environment), a specific social medium that is widely followed (information environment), or good adjustment of policies to local needs (policy environment)).
 
 <!----------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------->

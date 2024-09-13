@@ -56,7 +56,7 @@ Use the determinants in column E to select the methods (the tables referred to a
 :::
 
 
-{.callout-tip title="Examples"}
+::: {.callout-tip title="Examples"}
 
 As you will see in the 2 examples, every ABCD matrix looks different. So, do not immediately think you did something wrong if it is not entirely similar to the examples.
 
