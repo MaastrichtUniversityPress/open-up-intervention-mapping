@@ -19,7 +19,7 @@ sphinx:
         text: Intervention Mapping Work Book
       repository_url: "https://github.com/MaastrichtUniversityPress/open-up-intervention-mapping"
       path_to_docs: "book"
-      repository_branch: "migrate-to-teachbooks"
+      repository_branch: "teachbook"
       use_edit_page_button: true
       use_repository_button: true
       use_issues_button: true
