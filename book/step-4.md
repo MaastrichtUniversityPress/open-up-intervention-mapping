@@ -1,0 +1,57 @@
+# Step 4
+
+## Program production
+
+- Read the IM book on Program production, pp. 435-476, as a preparation.
+
+## Program plan
+
+Your program plan needs a good structure. You first organize the methods and applications of choice in a program plan that describes who must do what and when, considering available channels and the delivery systems. The program structure should describe the following:
+
+- the themes, general organizing constructs
+- the scope of the program, the breadth and amount of the program
+- the sequence, the order of program activities
+- the delivery vehicles or channels: what, when, where, how much, how often?
+- the book emphasizes cultural relevance, but when you are a Development and Health psychology student, you might need to be aware of age-relevant issues and developmental stages
+
+## Program materials
+
+Program materials should support your program, and logically follow from the change objectives that you have formulated in step 2, and the methods and applications that were chosen in step 3. The program should reach the intended at-risk population or target group, and the environmental agents, so the **delivery context or setting** is important to consider.
+
+- Prepare plans for program materials: create specifications and working documents.
+- Working documents express the themes and messages of the materials. Points to consider: type of application, length, feasibility, salience, production qualities, design, clarity, and so on.
+
+Specify the necessary creative resources, the program producers, so that you can produce the applications.
+
+Remember that you have to collaborate with experts in different professions and that you are the only expert aware of the parameters of the methods; check the step 3 applications for parameters.
+
+```{tip} Examples
+Example format for program material plans:
+
+| Program Components | Description | Producers |
+| --- | --- | --- |
+| Poster | The poster to hang in the billboards. | Production Company Name X |
+| Website frontend | The interface that end users of the website are exposed to. | Webdesign Company Y |
+
+Note that especially the "Description" should normally be considerably more extensive.
+```
+
+```{important} Products
+- Produce program material plans.
+```
+
+## Draft messages, materials and protocols
+
+Once you have an overview of the program components, you start drafting these components. This is described in the IM book on pages 456-464.
+
+## Pretest, refine, and produce materials
+
+- How would you pretest the program applications and materials?
+- Pretest materials on members of the target population and professionals.
+- Evaluate the results.
+- Anticipate implementation before you finalize the applications and program.
+- Check: are all your change objectives still in the final program?
+
+Of course you will not be able to do all these things in this workshop but in real life IM you shall have to take these steps too.
+
+This is described in the IM book on pages 464-468.

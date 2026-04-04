@@ -1,0 +1,27 @@
+# Step 5
+
+## Planning program adoption and implementation
+
+- See Chapter 8 of the book on step 5.
+
+Step 5 is about how to implement the program: *who has to do what to keep the program up and running*. You want the program that you have developed to be used widely, you want it to be used the way you intended it to be used and you hope it will be used for quite some time. It is therefore very important that potential program users, or implementers, are actually aware of the existence of the program, are motivated to use it, understand how to use it, and so on. Consequently, you will have to repeat all the IM steps, but now aimed at the program users, who are now your target group.
+
+So, start step 1 again, with identifying potential *adopters and implementers*.
+
+Then, adapt your planning group, re-evaluate who should be in there, and so on.
+
+```{tip} Examples
+Example of more exercise for young children at schools:
+
+- Who executes your programme or intervention?
+  - Our intervention for young overweight children will be adopted by parents and teachers.
+- How will they know that our intervention exists?
+  - Head of schools should inform them.
+
+Example for social distancing in the Kalverstraat:
+
+- Who executes your programme or intervention?
+  - The shopkeepers will adopt our intervention.
+- How will they know that our intervention exists?
+  - The municipality should inform them.
+```
