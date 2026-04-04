@@ -8,3 +8,8 @@
 ~$*.*
 
 /.quarto/
+
+# Archived workshop materials not used by the Quarto book build
+/IM stap 2 en 3 GJ 2019/
+/slides/2020-09--ru--Intervention-Mapping-Overview.pdf
+/slides/2020-09--ru--Your-COVID-19-Risk.pdf
