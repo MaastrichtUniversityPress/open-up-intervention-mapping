@@ -16,6 +16,8 @@ sphinx:
     html_theme_options:
       logo:
         text: Intervention Mapping Work Book
+        image_light: im-wb-cover.png
+        image_dark: im-wb-cover.png
       repository_url: "https://github.com/MaastrichtUniversityPress/open-up-intervention-mapping"
       path_to_docs: "book"
       repository_branch: "teachbook"
