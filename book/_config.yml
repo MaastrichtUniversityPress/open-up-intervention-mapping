@@ -1,0 +1,44 @@
+author: Gjalt-Jorn Peters, Nicole Oei & Rob Ruiter, built with <a href="https://teachbooks.io">TeachBooks</a>, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0</a>
+
+execute:
+  execute_notebooks: "off"
+
+html:
+  use_multitoc_numbering: true
+
+sphinx:
+  extra_extensions:
+    - teachbooks_favourites
+  config:
+    language: en
+    html_favicon: "figures/TB_favicon.ico"
+    html_baseurl: "https://maastrichtuniversitypress.github.io/open-up-intervention-mapping"
+    html_static_path: ["figures"]
+    html_theme_options:
+      logo:
+        text: Intervention Mapping Work Book
+      repository_url: "https://github.com/MaastrichtUniversityPress/open-up-intervention-mapping"
+      path_to_docs: "book"
+      repository_branch: "teachbook"
+      use_edit_page_button: true
+      use_repository_button: true
+      use_issues_button: true
+    html_show_copyright: false
+    external_toc_exclude_missing: true
+    external_toc_path: "_toc.yml"
+
+teachbooks:
+  attribution_location: top
+
+bibtex_bibfiles:
+  - references.bib
+
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - dollarmath
+    - linkify
+    - substitution
+    - tasklist
+  myst_url_schemes: [mailto, http, https]
+  myst_links_external_new_tab: true

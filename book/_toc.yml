@@ -1,0 +1,17 @@
+format: jb-book
+root: intro.md
+
+parts:
+  - caption: Workbook
+    chapters:
+      - file: step-1.md
+      - file: step-2.md
+      - file: step-3.md
+      - file: step-4.md
+      - file: step-5.md
+  - caption: Appendices and references
+    chapters:
+      - file: references.md
+      - file: glossary.md
+      - file: credits.md
+      - file: colophon.md
