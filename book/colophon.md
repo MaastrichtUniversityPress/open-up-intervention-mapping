@@ -25,7 +25,7 @@ This work is published open access under the terms of the Creative Commons Attri
 © 2026 Maastricht University. Published by Maastricht University Press on behalf of the authors.
 
 You are free to share and adapt the material, provided appropriate credit is given, it is not used for commercial purposes, and any adaptations are distributed under the same license.
-To learn more, visit  [creativecommons.org/licenses/by-nc-sa/4.0](creativecommons.org/licenses/by-nc-sa/4.0).
+To learn more, visit  [creativecommons.org/licenses/by-nc-sa/4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
 
 **Funding:**  </br>
 This open textbook was made possible with support from [Maastricht University Library](https://library.maastrichtuniversity.nl/) through funding from [Npuls OpenUp](https://npuls.nl/en/openup-scheme)
