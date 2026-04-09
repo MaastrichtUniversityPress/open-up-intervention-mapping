@@ -14,3 +14,4 @@ parts:
       - file: references.md
       - file: glossary.md
       - file: credits.md
+      - file: colophon.md
