@@ -5,7 +5,7 @@
 Gjalt-Jorn Peters | Maastricht University  
 ORCID: [0000-0002-0336-9589](https://orcid.org/0000-0002-0336-9589)
 
-Nicole Oei | Maastricht University  
+Nicole Oei | Maastricht University
 
 Rob Ruiter | Maastricht University  
 
