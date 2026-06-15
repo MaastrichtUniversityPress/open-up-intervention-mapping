@@ -1,54 +1,62 @@
 (intro)=
 # Introduction
 
-This is the Intervention Mapping Work Book. It is an Open Access book, freely available under the [Creative Commons CC-BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/) at [https://im-wb.com](https://im-wb.com). This book is accompanied by an Exercise Document, which is available as a Google Doc at [this link](https://docs.google.com/document/d/1U5eHyZNc-mCUv1YziEZGyYpaPlcGjiUXwcQ5SYE_Ji4/edit?usp=sharing).
+This is the Intervention Mapping WorkBook Maastricht University Edition. This work builds upon Peters, G.-J., Oei, N. Y. L., & Ruiter, R. A. C. (2024) *Intervention Mapping Work Book*. Academy of Behavior Change. [https://doi.org/10/nb6j](https://doi.org/10/nb6j). This is an Open Access book, freely available under the [Creative Commons CC-BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/). This book is accompanied by an Exercise Document, which is available as a Google Doc at (https://docs.google.com/document/d/15ZfofEeb2ovKxoUNsr0eeICvgmqUvCA94R_C3cHOtsA/edit?tab=t.0).
 
-## Aim of the workshop
+The primary goal of this workbook is to offer a concise overview of the rationale behind the six key steps of Intervention Mapping and a comprehensive overview of the tasks to be conducted in these six key steps. It is designed to complement the accompanying exercise book, which provides space to apply and practice each step of the Intervention Mapping approach. For a more comprehensive overview of the approach, refer to PLANNING HEALTH PROMOTION PROGRAMS by Bartholomew et al. (@book{bartholomeweldredgePlanningHealthPromotion2016). 
 
-The general aim of the workshop is to practice the steps of the Intervention Mapping protocol in groups in one week. The structure of the workshop is guided by the IM protocol, as described in the book *Planning Health Promotion Programs* by Bartholomew et al. {cite}`bartholomew_eldredge_planning_2016`. Below, a detailed outline is presented of working with the Intervention Mapping protocol. For each step of the protocol, specific tasks are formulated.
+## Intervention Mapping Steps {.unnumbered #intervention-mapping}
 
-## Preparation
+Intervention Mapping (IM) is a systematic planning approach used to guide the development of theory- and evidence-based behavior change interventions (@bartholomeweldredgePlanningHealthPromotion2016). While IM originated from the field of Health Promotion, it can be applied to all societal problems where behavior change could contribute to, for example, better health and quality of life, public safety, and sustainable environments. IM consists of six iterative and cumulative steps that guide both the development of the intervention and the planning for its implementation and evaluation:
 
-To prepare for the workshop, you can read the following Open Access articles:
+Step 1: Needs and Assets Assessment
+This step begins with a comprehensive needs assessment to understand the health issue, associated behaviors, and environmental factors. It also identifies the key determinants—psychological, social, or structural—that contribute to problematic behaviors and conditions.
 
-- Peters, G.-J. Y. (2014). *A practical guide to effective behavior change: How to identify what to change in the first place*. European Health Psychologist, 16(5), 142-155. [https://doi.org/10/ghm799](https://doi.org/10/ghm799)
-- Kok, G. (2014). *A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention.* European Health Psychologist, 16(5), 156-170. [https://doi.org/10/ghm78g](https://doi.org/10/ghm78g)
-- Ruiter, R. A. C. & Crutzen, R. (2020). *Core Processes: How to Use Evidence, Theories, and Research in Planning Behavior Change Interventions.* Frontiers in Public Health (8) [https://doi.org/10/gb59](https://doi.org/10/gb59)
-- Kok, G., Gottlieb, N. H., Peters, G.-J. Y., Dolan Mullen, P., Parcel, G. S., Ruiter, R. A. C., Fernández, M. E., Markham, C., & Bartholomew, L. K. (2016). *A taxonomy of behaviour change methods: an Intervention Mapping approach*, Health Psychology Review, 10:3, 297-312. [https://doi.org/10/gf2x2w](https://doi.org/gf2x2w)
-- Metz, G., Peters, G. J. Y., & Crutzen, R. (2022). *Acyclic behavior change diagrams: a tool to report and analyze interventions.* Health Psychology and Behavioral Medicine, 10(1), 1216-1228. [https://doi.org/10/jp9t](https://doi.org/10/jp9t)
+Step 2: Intervention Outcomes and Objectives 
+Here, the intervention developers define specific behavioral and environmental outcomes, as well as performance objectives needed to achieve these outcomes. Determinants that influence the desired changes are identified as targets for the intervention.
 
-## Group Work
+Step 3: Methods and Practical Applications 
+In this step, theory- and evidence-based methods for behavior change are selected. These methods are then translated into practical strategies and applications that align with their parameters for effectiveness (Kok et al., 2016).
 
-As a student, you will be performing the tasks in this workbook in workgroups.
+Step 4: Intervention Design and Production
+This step involves developing the actual components of the intervention—such as messages, materials, and activities—which are then pre-tested and pilot-tested to ensure clarity, relevance, and feasibility.
 
-To collaborate on the exercises in this book, an exercise document is available as a Google Doc word processor document. Your course instructors may have prepared a version for your group, in which case they will provide the link to you, for example in your electronic learning environment. Alternatively, you can copy the standard read-only version that is available [here](https://docs.google.com/document/d/1U5eHyZNc-mCUv1YziEZGyYpaPlcGjiUXwcQ5SYE_Ji4/edit?usp=sharing). Instructions as to how to copy that document are provided in the beginning of the document itself.
+Step 5: Implementation Mapping
+Strategies are developed for the adoption, delivery, and long-term maintenance of the intervention. This includes identifying potential implementers and support systems to enhance the intervention’s sustainability (Fernandez et al., 2019).
 
-In addition to providing a structure for the answers you will produce in this course, the exercise document will also link to a number of Google Sheets that are better suited for specific tasks. For those spreadsheets, the same is true: either your course instructors may have prepared versions for your group, or you can copy the read-only versions of the spreadsheets.
+Step 6: Evaluation Plan
+Finally, plans are made for both process and effect evaluations. These assessments measure the effectiveness of the intervention and provide insights into how it was implemented and received.
 
-From the exercise document and the associated spreadsheets, you will make selections of the most important progress points, decisions, justifications, and issues. You will regularly present these in plenary sessions so that you can receive feedback from an IM expert. Whereas the exercise document is highly structured, following the structure of this workbook, *it is up to you to decide what to present and how*. To create these slides, use Google Slides and store the Google Slides document in your Group Folder to enable smooth synchronous collaboration and presentation of the results.
+## Foundational perspectives {.unnumbered #foundational-perspectives}
 
-By the end of the course period, your group will have gone through all the steps, and you will have a full exercise document as well as a full presentation of the most important points. You will then present this final product, your intervention, for one last round of IM-expert feedback, and time to process that feedback to improve your intervention plans. If the course is graded, the final set of documents, the presentation, the exercise document, and the associated spreadsheets, must be handed in at the end of the course period: details will be provided by your instructor.
+Intervention Mapping is built on three foundational perspectives. _First_, embracing a participatory approach, which ensures the active involvement of all relevant stakeholders—such as target populations, implementers, and policymakers—throughout the planning and decision-making process. This collaboration helps ensure the intervention is contextually appropriate and more likely to be accepted and sustained. _Second_, using theory and evidence, which emphasizes using empirical research and theoretical models to inform decisions made in each step of IM. _Third_, adopting an ecological perspective, which recognizes that behavior is influenced not only by individual-level factors, but also by interpersonal, organizational, community, and policy-level factors. By addressing multiple levels of influence, IM supports the creation of comprehensive and effective interventions.
 
-## Core processes
+Core Processes are a helpful and systematic way to address questions that need to be answered to find evidence-based solutions in a problem-driven context (@ruiterCoreProcessesHow2020). Using Core Processes reduces the risk of incomplete understanding of specific problems and their causes, as well as the selection of ineffective solutions. Core Processes are useful to answer questions that arise in each step of Intervention Mapping: an approach to systematically develop, implement, and evaluate behaviour change interventions. While Core Processes are often associated with Intervention Mapping, their origins predate it. Veen (@veenSocialePsychologieToegepast1984) first described these processes before the initial publications on Intervention Mapping by Bartholomew et al. [@bartholomewInterventionMappingProcess1998; @bartholomewInterventionMappingDesigning2001]. They are deeply rooted in applied social psychology [@buunkApplyingSocialPsychology2013; @ruiterApplyingSocialPsychology2013], a foundation that underpins the field of behaviour change more broadly (@varolHERITAGEBehaviourChange2024). While Core Processes are valuable to any planning framework (@ocathainTaxonomyApproachesDeveloping2019), they are particularly well-suited to Intervention Mapping as they align with its foundational perspectives (@crutzenUseCoreProcesses2025).
 
-In Intervention Mapping, questions are answered using the core processes. These processes are a systematic approach to obtaining answers that are theory- and evidence based, and allow balancing pragmatic considerations such as resource availability, time, and funding with optimizing answer quality and scientific integrity. These are explained in Chapter 1 of the Intervention Mapping book. The Core Processes are:
+The Core Processes are:
 
-1. Pose the question(s).
-2. Brainstorm potential answers to establish what the planning group already knows and draft a provisional list of answers.
-3. Review the scientific literature for answers based on empirical evidence and/or theory.
-4. Review applicable theories to expand the potential answers.
-5. Assess whether new data are needed, and if so, collect and process these.
-6. Develop a semi-definite list of answers.
+1. _Pose questions_. The first Core Process involves posing questions that need to be answered in a problem-driven context. Intervention Mapping facilitates the posing of relevant questions at appropriate times.
 
-Note that like most aspects of IM, application of the core processes is iterative; therefore, the semi-definite list produced in the sixth phase can always be revised. To read more about the Core Processes, there is an Open Access article at [doi.org/gb59](https://doi.org/gb59).
+2. _Explore possible answers by engaging community members, implementers, and other interested parties_. The second Core Process involves exploring possible answers to the posed questions. In Intervention Mapping, this initial exploration is often carried out through brainstorming with planning group members.
 
-In this course, there is no time to comprehensively apply these core processes. Therefore, instead, you will mostly just brainstorm potential answers. You can supplement the brainstorm with the literature that is provided, if any, and quick searches for more scientific literature in OpenAlex.
+3. _Review evidence from previous research_. The third Core Process aims to evaluate the provisional answers developed during the second Core Process by either supporting or refuting them.
 
-OpenAlex is an open source bibliographic database with scientific literature which you can access at [openalex.org](https://openalex.org). For example, this link searches for all articles with ["determinants" or "psychosocial correlates" in their title, as well as "condom use"](https://openalex.org/works?page=1&filter=display_name.search%3A%28%22determinants%22%20OR%20%22psychosocial%20correlates%22%29%20AND%20%22condom%20use%22).
+4. _Find theoretical support using the topic, concept and general theories approaches_. The fourth Core Process involves identifying theoretical support to address the questions posed in Core Process 1, after the initial exploration in Core Process 2 and the review of evidence in Core Process 3. The goal is to expand the list of potential answers as much as possible before conducting new research (Core Process 5) and evaluating all answers (Core Process 6).
 
-Make sure to not spend too much on obtaining the best answers. It is important that you understand which choices you have to make and how you can justify those choices. The quality of the evidence and theory you use is crucial in real life, but not important in this course.
+5. _Identify and address the need for new research with community members and other interested parties_. All previously described Core Processes should be completed before moving on to new research, which is the fifth Core Process. The time span for completion can range from a couple of sessions to a full-blown multi year project. It is essential to address all Core Processes in a streamlined manner, rather than skipping any of them. A practical reason for this is that conducting new research requires resources (in terms of time, expertise, and budget). Before launching into new research, all available evidence and insights should be thoroughly examined to identify any gaps or inconsistencies that need to be addressed to make the research more valuable.
 
-![CC-BY-NC-SA](figures/by-nc-sa.eu.png)
+6. _Complete the list of possible answers and assess them by combining information gathered across Core Processes_. Completing the first five Core Processes results in a provisional list of answers to the question(s) posed at the beginning. To refine this into a final list, these answers must be evaluated for their relevance and changeability by integrating the information gathered throughout the Core Processes.
+
+
+
+
+
+
+
+
+
+
+
 
 ## Citing this book
 

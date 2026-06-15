@@ -1,14 +1,15 @@
-# Step 2
+# Chapter 2 Step 2
 
-In step 1, the focus was on the problem and the corresponding problematic behaviors. However, when you want people to do something differently, you have to be able to recommend a course of action to replace the undesirable behavior or to increase healthy behaviors: you want to *change behavior*. IM experts call this "the Flip". Step 2 starts with "The Flip".
+## Intervention Outcomes and Objectives
 
-In the 4th edition of the Intervention Mapping textbook, step 2 is discussed in Chapter 5, where the following learning objectives and tasks are discussed:
+In Step 1, the focus was on the problem and the behaviors related to this problem. However, when you want people to do something differently, you have to be able to recommend a course of action to replace the undesirable behavior or to increase desirable behaviors: you want to _change behavior_. IM experts call this "the Flip". Step 2 starts with "The Flip".
 
-- State expected outcomes for behavior and environment
+In the 4th edition of the Intervention Mapping textbook, Step 2 is discussed in Chapter 5, where the following learning objectives and tasks are discussed:
+
+- State desired behavioral and environmental outcomes 
 - Specify performance objectives for behavioral and environmental outcomes
 - Select determinants for behavioral and environmental outcomes
 - Construct matrices of change objectives
-- Create a logic model of change
 
 In this workbook, we still do the same work. However, the following exercises deviate from the structure in the textbook, as it is easier to split up each task into subtasks.
 
@@ -16,17 +17,17 @@ In this workbook, we still do the same work. However, the following exercises de
 
 ### List target group
 
-First, you decide on the target group, the population whose behavior your program should change. This can be the at-risk group, but it is also possible that your intervention will have to target another group. For instance, when your at-risk group is "new-born babies" your target group will likely be the parents, or GPs.
+First, you decide on the target group (the population whose behavior your program should change). This can be the at-risk group, but it is also possible that your intervention will have to target another group. For instance, when your at-risk group is "new-born baby's" your target group will likely be the parents, or GP's. The target population concerns the individual level agents, specifically, individuals whose behavior change is needed to improve the health outcomes of the at-risk group.
 
 ### Define the target behavior
 
-Second, you define the target behavior. This is the *desirable behavior* of the target group: what should they do exactly?
+Second, you define the target behavior. This is _*the desirable behavior*_ of the target group: what needs to change in the behavior of the target population?
 
 ### List environmental conditions
 
 Third, list the environmental conditions you want to realise. Similar to the target behavior, this should be the *desirable state*.
 
-*Note that in step 1 environmental program goals are not always specified. In that case, you also do not specify environmental conditions here yet, but you may still end up specifying environmental conditions below.*
+*Note that in Step 1 environmental program goals are not always specified. In that case, you also do not specify environmental conditions here yet (but you may still end up specifying environmental conditions below).*
 
 Environmental conditions typically resolve or mitigate barriers your target population may encounter. Make sure you do not fall into the trap of including "potential interventions" here.
 
@@ -44,7 +45,7 @@ In addition, realize that environmental conditions are typically things that cou
 
 ## Identify sub-behaviors/performance objectives
 
-Target behaviors are often very broadly defined. It is therefore important to identify the *sub-behaviors* that make up the target behaviors. These ultimately being objectives you want to achieve with your intervention, In Intervention Mapping, these sub-behaviors are called Performance Objectives.
+Target behaviors are often very broadly defined (see the examples below). It is therefore important to identify the _sub-behaviors_ that make up the target behaviors. These ultimately being objectives you want to achieve with your intervention. In Intervention Mapping, these sub-behaviors are called _Performance Objectives_ [@bartholomeweldredgePlanningHealthPromotion2016; @petersPracticalGuideEffective2014].
 
 ```{note} Guiding questions
 To identify the performance objectives for your target behavior, ask yourself the following question: *"What do the people have to do to perform this target behavior?"*
@@ -52,7 +53,7 @@ To identify the performance objectives for your target behavior, ask yourself th
 
 Formulate performance objectives in a way that includes the target group and that makes them measurable and that describes action, for example in the form of a statement like "[target population] [sub-behavior]", such as "Women recovering from breast cancer register at their local gym".
 
-A major mistake is to formulate performance objectives as determinants, for example, by expressing skills or knowledge. For example, "X should be able to do Y". That statement does not describe the performance of an action; it describes a prerequisite for performance of an action. A performance objective should be: "X does Y".
+A major mistake is to formulate performance objectives as determinants, for example, by expressing skills or self-efficacy. For example, "X should be able to do Y". That statement does not describe the performance of an action; it describes a prerequisite for performance of an action. A performance objective should be: "X does Y".
 
 A useful guideline is that if all performance objectives, as you formulated them, are true, the target behavior should by definition be performed.
 
@@ -71,12 +72,19 @@ For example, when you want to promote condom use, a health promoting behavior, y
 2. Go to the store and buy condoms
 3. Use condoms
 ```
+"In real life", if you did not select a target group and target behavior in The Flip, you do not select performance objectives here yet. Also note that even if in a situation in which you do not focus on the behavior of the target population itself, you will still select performance objectives for your environmental agent(s). This aligns with the foundational perspective of Intervention Mapping adopting an ecological approach.
 
 ```{important} Products
 - List the performance objectives that comprise the target behavior.
 ```
 
 ## Identify environmental conditions and environmental agents
+
+In this task, you define the environmental conditions that must be in place to support your intervention goals, and identify the environmental agents responsible for influencing or maintaining those conditions.
+
+Start by listing the desirable environmental conditions. These are the ideal states or circumstances in the environment (physical, social, organizational, or political) that need to be realized to support the health or behavior outcomes that are targeted. Similar to the target behavior for individuals, these conditions represent the desired state of the environment.
+
+At every environmental level, such as interpersonal, organizational, community, or policy, environmental agents exist. These agents are individuals, groups, or organizations that have the power or responsibility to influence or control specific environmental conditions.
 
 In this section, you merge two lists:
 
@@ -109,13 +117,13 @@ For each performance objective, specific environmental conditions may be relevan
 
 ## Identify environmental agent (sub-)behaviors
 
-Environmental agents, the people, groups, or organisations that have the agency to control one or more environmental conditions, control their corresponding environmental conditions through their behavior.
+Environmental agents control their corresponding environmental conditions through their behavior.
 
 To achieve the environmental conditions you aim for, you need to identify what those environmental agents need to do. Similar as for target groups, this means identifying the constituent performance objectives, or sub-behaviors.
 
 ### Target behaviors
 
-In many cases, environmental agents will be involved in work you yourself are unfamiliar with, so a good specification of the target behaviors is sometimes not straightforward. Fortunately, broad definitions are acceptable at the target behavior level.
+In many cases, environmental agents will be involved in work you yourself are unfamiliar with, so a good specification of the target behaviors is sometimes not straightforward and requires involving them (e.g., in your planning group). If representatives of these environmental agents are not yet part of your planning group, broad definitions are acceptable at the target behavior level. 
 
 ### Sub-behaviors / performance objectives
 
@@ -148,19 +156,19 @@ To find out the performance objectives for the environmental conditions, ask you
 
 If you get to this point, you mapped out the more concrete parts of the intervention. You should next get a clear idea of what the world should look like: what do you think the environment of the important groups in your situation should look like, and how should everybody in those groups behave, for example the at-risk group, the target group, and one or more environmental agents?
 
-To achieve these even more tangible goals, people shall actually have to change their behavior. The behavior of the at-risk group and the target group is directly relevant to your intervention, and the behavior of the environmental agents is instrumental to achieving the environmental conditions.
+To achieve these even more tangible goals, people will need to change their behavior. This concerns behavior of the at-risk group and the target group as well as the behavior of the environmental agents that is instrumental to achieving the environmental conditions.
 
 Roughly speaking, people's behavior is a consequence of their environments and their psychology. You have identified the relevant environmental influences and processed them above as environmental conditions, which yielded environmental agents and their behaviors. That means that at this point, only psychology remains.
 
-There are many theories that explain why people behave like they do. Each theory is designed for a specific purpose: some deal with habitual behavior, some with health behavior, some with reasoned behavior, and some with impulsive behavior. These theories postulate constructs to describe aspects of the human psychology that, according to the relevant theory, contribute to determining behavior. In the context of behavior change, constructs that are theoretically assumed to predict behavior are called *determinants*.
+There are many theories that explain why people behave like they do. Each theory is designed for a specific purpose: some deal with habitual behavior, some with health behavior, some with reasoned behavior, and some with impulsive behavior. These theories postulate constructs to describe aspects of human psychology that, according to the relevant theory, contribute to determining behavior. In the context of behavior change, constructs that are theoretically assumed to predict behavior are called *determinants*.
 
-Determinants are generally defined at a general level. For instance, attitude, knowledge, habits, perceived norms, self-efficacy, willingness, self-identity, and risk perception are all determinants. Such general definitions are useful when studying human behavior over a variety of populations and behaviors, but the generic level of definition provides no guidance for intervention development.
+Determinants are generally defined at a general level. For instance, attitude, habits, perceived norms, self-efficacy, willingness, self-identity, and risk perception are all determinants. Such general definitions are useful when studying human behavior over a variety of populations and behaviors, but the generic level of definition provides no guidance for intervention development. For an overview of determinants, see Psychological Construct Repository at https://psycore.one.
 
-In an intervention, you do not target "attitude" or "knowledge": you communicate about specific facts or list specific advantages or disadvantages. Therefore, when developing a behavior change intervention, the most important thing is identifying the more specifically defined sub-determinants. You identify the relevant sub-determinants and determinants for each performance objective in two steps: listing, and selecting.
+In an intervention, you do not target "attitude" as such, for example, you communicate about specific facts or list specific advantages or disadvantages. Neither do you target “self-efficacy” as such, you boost people's confidence in dealing with specific challenges when engaging in a behaviour. Therefore, when developing a behavior change intervention, the most important thing is identifying the more specifically defined sub-determinants.^[Note that it is also crucial to know the corresponding overarching determinants - you will need that information in step 3.] Sub-determinants are the specific beliefs that underlie broader psychological determinants such as attitude, perceived norms, or self-efficacy. For example, if the determinant is attitude, a related sub-determinant might be the belief that “recycling takes too much time”. You identify the relevant sub-determinants and determinants for each performance objective in two steps: listing and selecting.
 
-### Long-list sub-determinants and determinants
+### Long-list determinants and sub-determinants
 
-First, you establish a long list by simply including everything that might be important. Normally, you do this for every performance objective, for the target behavior of your target population, but also for the target behavior of each environmental agent. In real IM work you use all core processes and thus should look at theories, literature such as meta-analyses, do your own experimental studies, or qualitative research, or do all of them. However, in this workbook, just select one environmental agent.
+First, you establish a long list by simply including everything that might be important. Normally, you do this for every performance objective - for the target behavior of your target population, but also for the target behavior of each environmental agent. 
 
 ```{note} Guiding questions
 - Brainstorm and use literature and behavioral theories, see chapter 2 of the book, to compile a long list of determinants for the individuals' target behavior and for the environmental agent(s).
@@ -192,27 +200,29 @@ Environmental agent = gay sauna owner
 - Create a long list of potential (sub-)determinants in the spreadsheet linked to from the Google doc, complete columns A-E.
 ```
 
-### Select, defer, or forgo sub-determinants and determinants
+### Select, defer, or forgo determinants and sub-determinants
 
 Second, you go through the list and you select those sub-determinants and determinants you wish to keep for your intervention. There are three potential actions at this point:
 
-1. *Select a (sub-)determinant*: you will retain this (sub-)determinant for step 3, to target it with your intervention.
+1. *Select a (sub-)determinant*: you will retain this (sub-)determinant for Step 3, to target it with your intervention.
 2. *Defer a (sub-)determinant*: you lack the resources to also target this (sub-)determinant in this intervention. You think that this (sub-)determinant is important and changeable, but you keep it for potential future iterations of your intervention.
 3. *Forgo a (sub-)determinant*: you decide that the (sub-)determinant is probably not so important for the target behavior, or that it is important, but not changeable with the means you have available or can conceivably secure in the future.
 
 Select from your list the most relevant determinants for your intervention that are important and changeable. Consult the literature and your common sense to make these decisions.
 
 ```{note} Guiding questions
-- Read "Rating importance of determinants", IM Book, pp. 306-308.
+- Program planners refine determinants of behavior by assessing their relevance (strength of association with the behavior) and changeability (likelihood of being influenced by interventions), using research evidence, theory, or related-behavior data when direct evidence is lacking. Some determinants, such as subjective norms, are personal and more easily targeted, while actual norms are environmental and harder to modify, often requiring environmental-level strategies. In cases where environmental conditions cannot be changed, interventions may focus on helping the target population adapt. This prioritization ensures that interventions focus on the most important and changeable factors to improve program effectiveness.  
 - Decide for each determinant whether to select, defer, or forgo it, based on information about the determinants' associations to behavior or proxies of behavior in the case of the population, and information about the changeability of the determinants, for example based on psychological theory.
+
+There are multiple approaches to select determinants, one of which is the _Confidence Interval-Based Estimation of Relevance_ (CIBER) approach, which visualizes confidence intervals for the means and correlation coefficients (@crutzenUsingConfidenceIntervalBased2017). As intervention developers, we need to decide which determinants to include in an intervention. The CIBER approach aids this process by presenting two key pieces of information: the room for improvement (reflected in mean scores) and the association between determinants and intention or behavior (reflected in correlation coefficients). This visualization aids in evaluating the relevance of each determinant by identifying those that are both strongly associated with the behavior and changeable. For example, a determinant like self-efficacy might have a strong correlation with behavior, but if most people already score high on self-efficacy, there is little room to improve it, making it a less effective intervention target. By considering both association and room for improvement, CIBER guides intervention developers to prioritize determinants that are most likely to impact behavior change and can realistically be influenced.
 ```
 
 ```{tip} Examples
 Here are links with examples of determinant selection based on importance and changeability:
 
-- Cannabis use: <https://www.healthpsychologybulletin.com/articles/10.5334/hpb.18/>
-- Eating behavior: <https://www.sciencedirect.com/science/article/abs/pii/S0195666320300672>
-- Using a high dose of MDMA: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5508122/>
+- Hearing protective behaviors (@dezeeuwIdentifyingPsychologicalIntervention2025): <https://doi.org/10.31234/osf.io/p3myj_v1>
+- Using a high dose of MDMA (@crutzenUsingConfidenceIntervalBased2017): <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5508122/>
+- Dementia risk reduction (@bruinsmaSocioCognitiveDeterminantsLifestyle2024): <https://doi.org/10.3233/JAD-231369>
 ```
 
 ```{important} Products
@@ -221,7 +231,7 @@ Here are links with examples of determinant selection based on importance and ch
 
 ## Select environmental conditions, and so agents, and sub-behaviors and sub-determinants
 
-Out of the long list of potentially important stuff, decide which you select. If you do not select something, you can either defer, retain for potential later intervention, or forgo, eliminate it, for example because it is irrelevant.
+Out of the long list, decide which you select. If you do not select something, you can either defer (retain for potential later intervention) or forgo (eliminate, e.g. because it's irrelevant).
 
 ```{tip} Examples
 Selection can be based on how important something is for the behavior, relevance, usually correlational evidence, and how easy it is to change, changeability.
@@ -241,7 +251,9 @@ Matrices of change objectives are generally made for each level of intervention 
 - Community
 - Societal
 
-Change objectives are the specific goals of your intervention. Change objectives literally state what should change at the individual levels, or what should change among environmental agents. A change objective is a sub-determinant that you selected from the long list, but reformulated. You formulate change objectives according to similar principles as you applied for performance objectives. Change objectives are statements that, when true, mean that the corresponding sub-determinant has been achieved. The idea is that while sub-determinants express a psychological state or process, change objectives are formulated to be measurable, or SMART.
+If there are multiple agents at a specific level, then it is recommended to have separate matrices for each agent. 
+
+Change objectives are the specific goals of your intervention. Change objectives literally state what should change in that person (i.e., that the individual level or among environmental agents. A change objective is a sub-determinant that you selected from the long list, but reformulated. Change objectives are constructed by crossing performance objectives with determinants. You formulate change objectives according to similar principles as you applied for performance objectives. Change objectives are statements that, when true, mean that the corresponding sub-determinant has been achieved. The idea is that while sub-determinants express a psychological state or process, change objectives are formulated to be measurable **('SMART')**.
 
 SMART refers to:
 
@@ -283,13 +295,29 @@ The Matrix of Change Objectives is structured as follows:
 
 Note that some cells will contain multiple change objectives, and some cells will be empty, because not all determinants are important for all performance objectives.
 
+Here are links with examples of the Matrix of Change Objectives:
+
+- Stigma reduction (@stutterheimInterventionMappingGuide2025): <https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/188616494/Stutterheim-2023-Intervention-Mapping-as-a-Guide.pdf> 
+- Vaccination uptake (@eversUsingTheoreticalFramework2023): <https://doi.org/10.1186/s12889-023-17311-1>
+- Adolescent smoking cessation (@dalumDevelopmentAdolescentSmoking2012): <https://doi.org/10.1093/her/cyr044>
+
 ```{important} Products
 - Produce a Matrix of Change Objectives for each target behavior, for the target group and for each environmental agent.
 ```
 
 ## Start on the logic model of change
 
-The logic model of change is a model showing how you expect your intervention to work. These logic models can be easily produced using Acyclic Behavior Change Diagrams, or ABCD.
+The logic model of change is a model showing how you expect your intervention to work. These logic models can be easily produced using Acyclic Behavior Change Diagrams (ABCDs) (@metzAcyclicBehaviorChange2022).
+
+ABCDs are a visualization tool specifically designed to help clarify how an intervention is expected to bring about behavior change. An ABCD presents a chain of seven causal links that illustrate the logical connections between different elements of the intervention:
+
+- Which behavior change principles (also called behavior change methods) are used;
+- Whether these methods are applied correctly, according to their parameters for effectiveness (also known as parameters for use);
+- How the methods are applied in the context of the specific intervention;
+- Which sub-determinants the application targets;
+- Which broader determinants these sub-determinants fall under;
+- Which sub-behaviors/performance objectives must be performed;
+- What the overall target behavior is.
 
 To produce the ABCDs, you first fill in the ABCD matrix. The ABCD matrix is a table into which you copy-paste the information in your Matrix of Change Objectives. This ABCD matrix is then used to produce the ABCD itself.
 
@@ -301,6 +329,6 @@ Open the Matrix of Change Objectives that you just produced, and open the empty 
 - In the cells, the Matrix of Change Objectives contains the Change Objectives themselves. These are sub-determinants that have been rephrased according to the specific guidelines for Change Objective phrasing. Each of these sub-determinants or Change Objectives has its own line in the ABCD matrix.
 - After you copied all sub-determinants or Change Objectives into column D of the ABCD matrix, verify that every row also has the corresponding determinant in column E, the corresponding sub-behavior or performance objective in column F, and the corresponding target behavior in column G.
 
-You will fill in columns A, B, and C in step 3.
+You will fill in columns A, B, and C in Step 3.
 
 ![Logic model of Behavior](figures/140---logic-model-of-behavior.png)
