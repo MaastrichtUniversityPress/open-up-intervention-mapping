@@ -19,7 +19,7 @@ Your program plan needs a good structure. You first organize the methods and app
 - the scope of the program, the breadth and amount of the program
 - the sequence, the order of program activities
 - the delivery vehicles or channels: what, when, where, how much, how often?
-- cultural relevance of the program (p. 438)
+- cultural relevance of the program 
 
 While a channel is the route or method used to send a message, which can be interpersonal (directly delivered by one or more individuals) or mediated (all other ways to deliver intervention messages), a vehicle refers to how a message is actually delivered. For instance, in an interpersonal channel, a teacher or a health worker might be the vehicle delivering a message through conversation or a workshop.
 
@@ -71,5 +71,3 @@ Various methods, such as interviews, focus groups, or surveys, can be used for b
 - Evaluate the results.
 - Anticipate implementation before you finalize the applications and program.
 - Check: are all your change objectives still in the final program?
-
-This is described in the IM book on pages 464-468.

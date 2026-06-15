@@ -2,7 +2,7 @@
 
 ## Implementation Mapping
 
-- See Chapter 8 of the book on Step 5.
+- See Chapter 9 of the book on Step 5.
 
 Step 5 focuses on ensuring that the program is successfully adopted, implemented, and maintained. This step outlines: *Who has to do what to keep the program up and running*. 
 

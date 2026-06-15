@@ -1,13 +1,13 @@
 (intro)=
 # Introduction
 
-This is the Intervention Mapping WorkBook Maastricht University Edition. This work builds upon Peters, G.-J., Oei, N. Y. L., & Ruiter, R. A. C. (2024) *Intervention Mapping Work Book*. Academy of Behavior Change. [https://doi.org/10/nb6j](https://doi.org/10/nb6j). This is an Open Access book, freely available under the [Creative Commons CC-BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/). This book is accompanied by an Exercise Document, which is available as a Google Doc at (https://docs.google.com/document/d/15ZfofEeb2ovKxoUNsr0eeICvgmqUvCA94R_C3cHOtsA/edit?tab=t.0).
+This is the Intervention Mapping Work Book Maastricht University Edition. This work builds upon Peters, G.-J., Oei, N. Y. L., & Ruiter, R. A. C. (2024) *Intervention Mapping Work Book*. Academy of Behavior Change. [https://doi.org/10/nb6j](https://doi.org/10/nb6j). This is an Open Access book, freely available under the [Creative Commons CC-BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/). This book is accompanied by an Exercise Document, which is available as a Google Doc at (https://docs.google.com/document/d/15ZfofEeb2ovKxoUNsr0eeICvgmqUvCA94R_C3cHOtsA/edit?tab=t.0).
 
-The primary goal of this workbook is to offer a concise overview of the rationale behind the six key steps of Intervention Mapping and a comprehensive overview of the tasks to be conducted in these six key steps. It is designed to complement the accompanying exercise book, which provides space to apply and practice each step of the Intervention Mapping approach. For a more comprehensive overview of the approach, refer to PLANNING HEALTH PROMOTION PROGRAMS by Bartholomew et al. (@book{bartholomeweldredgePlanningHealthPromotion2016). 
+The primary goal of this work book is to offer a concise overview of the rationale behind the six key steps of Intervention Mapping and a comprehensive overview of the tasks to be conducted in these six key steps. It is designed to complement the accompanying exercise book, which provides space to apply and practice each step of the Intervention Mapping approach. For a more comprehensive overview of the approach, refer to Intervention Mapping: Health Promotion Planning, Implementation, and Evaluation, 5th Edition by Fernández et al. (@book{fernandez_im_2026). 
 
 ## Intervention Mapping Steps {.unnumbered #intervention-mapping}
 
-Intervention Mapping (IM) is a systematic planning approach used to guide the development of theory- and evidence-based behavior change interventions (@bartholomeweldredgePlanningHealthPromotion2016). While IM originated from the field of Health Promotion, it can be applied to all societal problems where behavior change could contribute to, for example, better health and quality of life, public safety, and sustainable environments. IM consists of six iterative and cumulative steps that guide both the development of the intervention and the planning for its implementation and evaluation:
+Intervention Mapping (IM) is a systematic planning approach used to guide the development of theory- and evidence-based behavior change interventions (@fernandez_im_2026). While IM originated from the field of Health Promotion, it can be applied to all societal problems where behavior change could contribute to, for example, better health and quality of life, public safety, and sustainable environments. IM consists of six iterative and cumulative steps that guide both the development of the intervention and the planning for its implementation and evaluation:
 
 Step 1: Needs and Assets Assessment
 This step begins with a comprehensive needs assessment to understand the health issue, associated behaviors, and environmental factors. It also identifies the key determinants—psychological, social, or structural—that contribute to problematic behaviors and conditions.
@@ -46,20 +46,3 @@ The Core Processes are:
 5. _Identify and address the need for new research with community members and other interested parties_. All previously described Core Processes should be completed before moving on to new research, which is the fifth Core Process. The time span for completion can range from a couple of sessions to a full-blown multi year project. It is essential to address all Core Processes in a streamlined manner, rather than skipping any of them. A practical reason for this is that conducting new research requires resources (in terms of time, expertise, and budget). Before launching into new research, all available evidence and insights should be thoroughly examined to identify any gaps or inconsistencies that need to be addressed to make the research more valuable.
 
 6. _Complete the list of possible answers and assess them by combining information gathered across Core Processes_. Completing the first five Core Processes results in a provisional list of answers to the question(s) posed at the beginning. To refine this into a final list, these answers must be evaluated for their relevance and changeability by integrating the information gathered throughout the Core Processes.
-
-
-
-
-
-
-
-
-
-
-
-
-## Citing this book
-
-If you cite this workbook, please cite it as:
-
-Peters, G.-J., Oei, N. Y. L., & Ruiter, R. A. C. (2024) *Intervention Mapping Work Book*. Academy of Behavior Change. [https://doi.org/10/nb6j](https://doi.org/10/nb6j)

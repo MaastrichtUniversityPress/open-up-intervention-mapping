@@ -6,14 +6,14 @@ Intervention Mapping guides planners through the process of intervention design 
 
 Intervention Mapping Step 1 involves an analysis of the problem, the community needs and assets. This analysis addresses what exactly the problem is, how people’s quality of life is influenced by the problem, causing behavioral and environmental conditions, as well as the determinants influencing the behaviors of the at-risk population and decision makers responsible for the environmental conditions, next to an assessment of the capacities within a community that are potentially useful in improving community health. 
 
-In the 4th edition of the Intervention Mapping textbook (Chapter 4), Step 1 includes the following tasks:
+In the 5th edition of the Intervention Mapping textbook (Chapter 5), Step 1 includes the following tasks:
 
 - Establish a planning group
 - Conduct a needs and assets assessment
 - Describe the context for the intervention including the community, population, and setting
 - State intervention goals
 
-In this workbook, we will do the same work. However, in the following exercises, we deviate from the structure in the book by splitting up each task into subtasks, which makes it all easier.
+In this work book, we will do the same work. However, in the following exercises, we deviate from the structure in the book by splitting up each task into subtasks, which makes it all easier.
 
 In this workbook, we use boxes with different colours to clearly signal types of content:
 
@@ -140,7 +140,7 @@ Example: We want primary school children to exercise more frequently.
 ```
 
 
-![Logic model of the problem, see book p. 227.](figures/LogicModel.png)
+![Logic model of the problem](figures/LogicModel.png)
 
 ## Task: Describe the context for the intervention including the community, population, and setting
 

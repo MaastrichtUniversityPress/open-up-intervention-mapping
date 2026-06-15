@@ -4,14 +4,14 @@
 
 In Step 1, the focus was on the problem and the behaviors related to this problem. However, when you want people to do something differently, you have to be able to recommend a course of action to replace the undesirable behavior or to increase desirable behaviors: you want to _change behavior_. IM experts call this "the Flip". Step 2 starts with "The Flip".
 
-In the 4th edition of the Intervention Mapping textbook, Step 2 is discussed in Chapter 5, where the following learning objectives and tasks are discussed:
+In the 4th edition of the Intervention Mapping textbook, Step 2 is discussed in Chapter 6, where the following learning objectives and tasks are discussed:
 
 - State desired behavioral and environmental outcomes 
 - Specify performance objectives for behavioral and environmental outcomes
 - Select determinants for behavioral and environmental outcomes
 - Construct matrices of change objectives
 
-In this workbook, we still do the same work. However, the following exercises deviate from the structure in the textbook, as it is easier to split up each task into subtasks.
+In this work book, we still do the same work. However, the following exercises deviate from the structure in the textbook, as it is easier to split up each task into subtasks.
 
 ## The Flip
 

@@ -4,25 +4,25 @@
 
 You produced a matrix of change objectives and you started on the Acyclic Behavior Change Diagram (ABCD; the logic model of change) in the previous step. In Step 3, you complete this ABCD by filling in the three leftmost columns. You will then wrap all this together into one coherent intervention by producing a program theme, designating each application to one or more program components, and deciding on the components' sequence and the program scope.
 
-In the 4th edition of the Intervention Mapping textbook, Step 3 is discussed in Chapter 6, where the following learning objectives and tasks are discussed:
+In the 5th edition of the Intervention Mapping textbook, Step 3 is discussed in Chapter 7, where the following learning objectives and tasks are discussed:
 
 - Generate intervention ideas with the planning group
 - Choose theory- and evidence-based change methods
 - Select and design practical applications to deliver change methods
 
-Pages 345-364 of the fourth edition of the IM book cover these tasks and give some examples. In this workbook, we still do the same work. However, the following exercises deviate from the structure in the textbook, as it is easier to split up each task into subtasks.
+The textbook covers these tasks and give some examples. In this workbook, we still do the same work. However, the following exercises deviate from the structure in the textbook, as it is easier to split up each task into subtasks.
 
 ## Select methods and applications
 
 Step 3 of Intervention Mapping focuses on selecting theory-based behavior change methods and practical applications to influence the psychological determinants that drive the desired behaviors. This involves first choosing behavior change methods to modify specific psychological constructs, such as risk perceptions or perceived behavioral control. Behavior change methods that effectively alter risk perception might be different than perceived behavioral control.
 
-Once appropriate behavior change methods have been selected, the next step is to translate them into practical delivery formats, known as applications. These applications are the concrete ways in which the target group engages with the intervention. When doing so, it is important to consider the parameters for effectiveness, which are the specific conditions that must be met for each behavior change method to achieve its intended impact. For example, the effectiveness of the behavior change method ‘’consciousness raising’’ depends on whether increased awareness is quickly followed by enhanced problem-solving skills and a sense of (collective) self-efficacy [@bartholomeweldredgePlanningHealthPromotion2016; @kokTaxonomyBehaviourChange2016].
+Once appropriate behavior change methods have been selected, the next step is to translate them into practical delivery formats, known as applications. These applications are the concrete ways in which the target group engages with the intervention. When doing so, it is important to consider the parameters for effectiveness, which are the specific conditions that must be met for each behavior change method to achieve its intended impact. For example, the effectiveness of the behavior change method ‘’consciousness raising’’ depends on whether increased awareness is quickly followed by enhanced problem-solving skills and a sense of (collective) self-efficacy [@fernandez_im_2026; @kokTaxonomyBehaviourChange2016].
 
 Column D of your ABCD matrix contains the complete list of aspects of the psychology of the relevant target group (e.g. your intervention's target group, or an environmental agent, or an implementer, see Step 5). Each  sub-determinant/change objective must be targeted by at least one application in your final intervention.
 
 Therefore, it is best to start by thinking about which methods and applications you want to use. This depends on what is available in your intervention. For example, if the intervention includes interactive components, a wider range of methods can be applied compared to interventions that rely solely on mailings or billboards. While formats like letters or billboards may be more cost-effective and accessible, they may limit the types of methods that can be effectively implemented.
 
-Deciding on your methods and applications is an iterative process, and you can approach it from both directions: either you start thinking from which theoretical methods you want to use, and then think about how to apply them; or you can start thinking about what your intervention will look like (the application) and then decide which methods are suited for those applications [@bartholomeweldredgePlanningHealthPromotion2016; @kokPracticalGuideEffective2018].
+Deciding on your methods and applications is an iterative process, and you can approach it from both directions: either you start thinking from which theoretical methods you want to use, and then think about how to apply them; or you can start thinking about what your intervention will look like (the application) and then decide which methods are suited for those applications [@fernandez_im_2026; @kokPracticalGuideEffective2018].
 
 The important thing is that for every Change Objective in column D of your ABCD matrix, you specify which method you will use to target it in column A; how you will apply that method in column C; and how, in that application, you will implement that method's parameters for effectiveness in column B.
 
@@ -31,7 +31,7 @@ If you target a Change Objective with multiple applications or methods, copy its
 Use the determinants in column E to select the methods, as the tables referred to above are organised per determinant.
 
 ```{note} Guiding questions
-- Study Tables 6.5 to 6.18 in Chapter 6, pages 345-433 of the 4th edition of the IM book, or the tables in the supplementary materials available at <https://osf.io/ng3xh>.
+- Study Tables concerning Methods in Chapter 7 of the 5th edition of the IM book, or the tables in the supplementary materials available at <https://osf.io/ng3xh>.
 - Select theoretical methods for your Change Objectives. If you are unable to identify methods but able to identify applications, ask yourself why it would work. The answer will lead you to a method.
 - Complete columns A, B, and C of your ABCD matrix.
 - Do this both for the ABCD matrix of the target group and for one environmental agent. Note that for environmental agents, different methods exist depending on their environmental level.
