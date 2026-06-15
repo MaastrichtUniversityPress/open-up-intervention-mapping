@@ -3,7 +3,7 @@
 
 You can refer to this book as:
 
-> Peters, G.-J., Oei, N. Y. L., & Ruiter, R. A. C. (2024) *Intervention Mapping Work Book*. Academy of Behavior Change. Source repository: <https://github.com/MaastrichtUniversityPress/open-up-intervention-mapping>. CC BY-NC-SA 4.0.
+> Varol, T., Peters, G.-J., Oei, N. Y. L., Ruiter, R. A. C., Stutterheim, S.E., & Crutzen, R. (2026) *Intervention Mapping Work Book*. Source repository: <https://github.com/MaastrichtUniversityPress/open-up-intervention-mapping>. CC BY-NC-SA 4.0.
 
 ## How the book is made
 

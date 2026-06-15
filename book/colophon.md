@@ -2,18 +2,22 @@
 
 **_Intervention Mapping Work Book_**
 
-Gjalt-Jorn Peters | Maastricht University  
-ORCID: [0000-0002-0336-9589](https://orcid.org/0000-0002-0336-9589)
+Tugce Varol | Maastricht University  
 
-Nicole Oei | Maastricht University
+Gjalt-Jorn Peters | Open University of the Netherlands
+
+Nicole Oei | University of Amsterdam
 
 Rob Ruiter | Maastricht University  
 
+Sarah Stutterheim | Maastricht University  
+
+Rik Crutzen | Maastricht University  
 
 Published by: [Maastricht University Press](https://library.maastrichtuniversity.nl/resources/maastricht-university-press/) | Maastricht University, The Netherlands
 
-Version: 1.0.0 </br>
-Publication date: April 2026  
+Version: 1.1.0 </br>
+Publication date: June 2026  
 DOI: [10.26481/mup.2607](https://doi.org/10.26481/mup.2607)
 
 **Copyright:**  </br>
@@ -25,7 +29,7 @@ This work is published open access under the terms of the Creative Commons Attri
 © 2026 Maastricht University. Published by Maastricht University Press on behalf of the authors.
 
 You are free to share and adapt the material, provided appropriate credit is given, it is not used for commercial purposes, and any adaptations are distributed under the same license.
-To learn more, visit  [creativecommons.org/licenses/by-nc-sa/4.0](creativecommons.org/licenses/by-nc-sa/4.0).
+To learn more, visit  [creativecommons.org/licenses/by-nc-sa/4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
 
 **Funding:**  </br>
 This open textbook was made possible with support from [Maastricht University Library](https://library.maastrichtuniversity.nl/) through funding from [Npuls OpenUp](https://npuls.nl/en/openup-scheme)

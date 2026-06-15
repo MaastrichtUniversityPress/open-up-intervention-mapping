@@ -1,4 +1,4 @@
-author: Gjalt-Jorn Peters, Nicole Oei & Rob Ruiter, © Copyright Maastricht University <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt=""></a>
+author: Tugce Varol, Gjalt-Jorn Peters, Nicole Oei, Rob Ruiter, Sarah Stutterheim, & Rik Crutzen © Copyright Maastricht University <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0
 execute:
   execute_notebooks: "off"
 
@@ -16,8 +16,6 @@ sphinx:
     html_theme_options:
       logo:
         text: Intervention Mapping Work Book
-        image_light: im-wb-cover.png
-        image_dark: im-wb-cover.png
       repository_url: "https://github.com/MaastrichtUniversityPress/open-up-intervention-mapping"
       path_to_docs: "book"
       repository_branch: "teachbook"

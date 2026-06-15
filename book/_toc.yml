@@ -9,6 +9,7 @@ parts:
       - file: step-3.md
       - file: step-4.md
       - file: step-5.md
+      - file: step-6.md
   - caption: Appendices and references
     chapters:
       - file: references.md
