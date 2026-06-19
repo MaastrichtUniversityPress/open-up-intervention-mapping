@@ -5,7 +5,7 @@ This is the Intervention Mapping Work Book Maastricht University Edition. This w
 
 The primary goal of this work book is to offer a concise overview of the rationale behind the six key steps of Intervention Mapping and a comprehensive overview of the tasks to be conducted in these six key steps. It is designed to complement the accompanying exercise book, which provides space to apply and practice each step of the Intervention Mapping approach. For a more comprehensive overview of the approach, refer to Intervention Mapping: Health Promotion Planning, Implementation, and Evaluation, 5th Edition by Fernández et al. (@book{fernandez_im_2026). 
 
-## Intervention Mapping Steps {.unnumbered #intervention-mapping}
+## Intervention Mapping Steps 
 
 Intervention Mapping (IM) is a systematic planning approach used to guide the development of theory- and evidence-based behavior change interventions (@fernandez_im_2026). While IM originated from the field of Health Promotion, it can be applied to all societal problems where behavior change could contribute to, for example, better health and quality of life, public safety, and sustainable environments. IM consists of six iterative and cumulative steps that guide both the development of the intervention and the planning for its implementation and evaluation:
 
@@ -27,7 +27,7 @@ Strategies are developed for the adoption, delivery, and long-term maintenance o
 Step 6: Evaluation Plan
 Finally, plans are made for both process and effect evaluations. These assessments measure the effectiveness of the intervention and provide insights into how it was implemented and received.
 
-## Foundational perspectives {.unnumbered #foundational-perspectives}
+## Foundational perspectives 
 
 Intervention Mapping is built on three foundational perspectives. _First_, embracing a participatory approach, which ensures the active involvement of all relevant stakeholders—such as target populations, implementers, and policymakers—throughout the planning and decision-making process. This collaboration helps ensure the intervention is contextually appropriate and more likely to be accepted and sustained. _Second_, using theory and evidence, which emphasizes using empirical research and theoretical models to inform decisions made in each step of IM. _Third_, adopting an ecological perspective, which recognizes that behavior is influenced not only by individual-level factors, but also by interpersonal, organizational, community, and policy-level factors. By addressing multiple levels of influence, IM supports the creation of comprehensive and effective interventions.
 
