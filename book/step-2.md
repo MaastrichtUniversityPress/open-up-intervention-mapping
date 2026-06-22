@@ -45,7 +45,7 @@ In addition, realize that environmental conditions are typically things that cou
 
 ## Identify sub-behaviors/performance objectives
 
-Target behaviors are often very broadly defined (see the examples below). It is therefore important to identify the _sub-behaviors_ that make up the target behaviors. These ultimately being objectives you want to achieve with your intervention. In Intervention Mapping, these sub-behaviors are called _Performance Objectives_ [Bartholomew Eldredge et al., 2016; Peters, 2014].
+Target behaviors are often very broadly defined (see the examples below). It is therefore important to identify the _sub-behaviors_ that make up the target behaviors. These ultimately being objectives you want to achieve with your intervention. In Intervention Mapping, these sub-behaviors are called _Performance Objectives_ (Fernandez et al., 2026; Peters, 2014).
 
 ```{note} Guiding questions
 To identify the performance objectives for your target behavior, ask yourself the following question: *"What do the people have to do to perform this target behavior?"*
