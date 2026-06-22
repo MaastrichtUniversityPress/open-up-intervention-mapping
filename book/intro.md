@@ -7,7 +7,7 @@ The primary goal of this work book is to offer a concise overview of the rationa
 
 ## Intervention Mapping Steps 
 
-Intervention Mapping (IM) is a systematic planning approach used to guide the development of theory- and evidence-based behavior change interventions (Fernández et al.,2026). While IM originated from the field of Health Promotion, it can be applied to all societal problems where behavior change could contribute to, for example, better health and quality of life, public safety, and sustainable environments. IM consists of six iterative and cumulative steps that guide both the development of the intervention and the planning for its implementation and evaluation:
+Intervention Mapping (IM) is a systematic planning approach used to guide the development of theory- and evidence-based behavior change interventions (Fernández et al., 2026). While IM originated from the field of Health Promotion, it can be applied to all societal problems where behavior change could contribute to, for example, better health and quality of life, public safety, and sustainable environments. IM consists of six iterative and cumulative steps that guide both the development of the intervention and the planning for its implementation and evaluation:
 
 Step 1: Needs and Assets Assessment
 This step begins with a comprehensive needs assessment to understand the health issue, associated behaviors, and environmental factors. It also identifies the key determinants—psychological, social, or structural—that contribute to problematic behaviors and conditions.
