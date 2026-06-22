@@ -1,4 +1,4 @@
-# Chapter 6 Step 6
+# Step 6
 
 ## Evaluation Plan
 
