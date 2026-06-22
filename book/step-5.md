@@ -1,4 +1,4 @@
-# Chapter 5 Step 5
+# Step 5
 
 ## Implementation Mapping
 
@@ -12,7 +12,7 @@ _Implementation_ is the actual use of the program by those who adopted it. This 
 
 _Maintenance_ ensures the program becomes part of an organization’s standard operations. It represents a long-term commitment to continue delivering the intervention consistently and effectively over time.
 
-It is very important that potential program users, or implementers, are actually aware of the existence of the program, are motivated to use it, understand how to use it. Consequently, you will have to repeat all the IM steps, but now aimed at the program users (who are now your target group) and concentrating primarily on the outcomes of adoption, implementation, and maintenance (@fernandezImplementationMappingUsing2019).
+It is very important that potential program users, or implementers, are actually aware of the existence of the program, are motivated to use it, understand how to use it. Consequently, you will have to repeat all the IM steps, but now aimed at the program users (who are now your target group) and concentrating primarily on the outcomes of adoption, implementation, and maintenance (Fernandez et al., 2019).
 
 Tasks of IM Step 5 involve:
 - Conduct an implementation needs and assets assessment and identify program implementers
