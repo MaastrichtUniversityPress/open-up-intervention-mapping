@@ -1,30 +1,56 @@
 # References
 
 Ajzen, I. (2011). The theory of planned behaviour: Reactions and reflections. Psychology & Health, 26(9), 1113–1127. https://doi.org/10.1080/08870446.2011.613995
+
 Bartholomew Eldredge, L. K., Markham, C. M., Ruiter, R. A. C., Fernández, M. E., Kok, G., & Parcel, G. S. (2016). Planning Health Promotion Programs: An Intervention Mapping Approach. John Wiley & Sons.
+
 Bartholomew, L. K., Parcel, G. S., & Kok, G. (1998). Intervention Mapping: A Process for Developing Theory and Evidence-Based Health Education Programs. Health Education & Behavior, 25(5), 545–563. https://doi.org/10.1177/109019819802500502
+
 Bartholomew, L. K., Parcel, G. S., Kok, G., & Gottlieb, N. H. (2001). Intervention mapping: Designing theory-and evidence-based health promotion programs. Mayfield Mountain View, CA.
+
 Bruinsma, J., Loukas, V. S., Kassiotis, T., Heger, I., Rosenberg, A., Visser, L. N. C., Mangialasche, F., Fotiadis, D. I., Hanke, S., & Crutzen, R. (2024). Socio-Cognitive Determinants of Lifestyle Behavior in the Context of Dementia Risk Reduction: A Population-Based Study in the Netherlands. Journal of Alzheimer’s Disease, 99(3), 941–952. https://doi.org/10.3233/JAD-231369
+
 Buunk, A. P., & van Vugt, M. (2013). Applying social psychology: From problems to solutions. Applying Social Psychology, 1–200.
+
 Crutzen, R., & Nalukwago, J. (2025). The use of Core Processes when applying Intervention Mapping.
+
 Crutzen, R., Peters, G.-J. Y., & Noijen, J. (2017). Using Confidence Interval-Based Estimation of Relevance to Select Social-Cognitive Determinants for Behavior Change Interventions. Frontiers in Public Health, 5. https://doi.org/10.3389/fpubh.2017.00165
+
 Dalum, P., Schaalma, H., & Kok, G. (2012). The development of an adolescent smoking cessation intervention—An Intervention Mapping approach to planning. Health Education Research, 27(1), 172–181. https://doi.org/10.1093/her/cyr044
+
 Elling, J. M., Crutzen, R., Talhout, R., & de Vries, H. (2020). Tobacco smoking and smoking cessation in times of COVID-19. Tobacco Prevention & Cessation, 6, 39. https://doi.org/10.18332/tpc/122753
+
 Evers, Y. J., Schneider, F., Widdershoven, V., Goense, C. J. D., Peters, C. M. M., van Elsen, S. G., Hoebe, C. J. P. A., & Dukers-Muijrers, N. H. T. M. (2023). Using a theoretical framework of Intervention Mapping to inform public health communication messages designed to increase vaccination uptake; the example of mpox in the Netherlands. BMC Public Health, 23(1), 2373. https://doi.org/10.1186/s12889-023-17311-1
+
 Fernandez, M. E., ten Hoor, G. A., van Lieshout, S., Rodriguez, S. A., Beidas, R. S., Parcel, G., Ruiter, R. A. C., Markham, C. M., & Kok, G. (2019). Implementation Mapping: Using Intervention Mapping to Develop Implementation Strategies. Frontiers in Public Health, 7. https://doi.org/10.3389/fpubh.2019.00158
+
 Fishbein, M., & Ajzen, I. (2011). Predicting and Changing Behavior: The Reasoned Action Approach. Psychology Press. https://doi.org/10.4324/9780203838020
+
 Kok, G. (2018). A practical guide to effective behavior change: How to apply theory- and evidence-based behavior change methods in an intervention. OSF. https://doi.org/10.31234/osf.io/r78wh
+
 Kok, G., Gottlieb, N. H., Peters, G.-J. Y., Mullen, P. D., Parcel, G. S., Ruiter, R. A. C., Fernández, M. E., Markham, C., & Bartholomew, L. K. (2016). A taxonomy of behaviour change methods: An Intervention Mapping approach. Health Psychology Review, 10(3), 297–312. https://doi.org/10.1080/17437199.2015.1077155
+
 Metz, G., Peters, G.-J. Y., & Crutzen, R. (2022). Acyclic behavior change diagrams: A tool to report and analyze interventions. Health Psychology and Behavioral Medicine, 10(1), 1216–1228. https://doi.org/10.1080/21642850.2022.2149930
+
 O’Cathain, A., Croot, L., Sworn, K., Duncan, E., Rousseau, N., Turner, K., Yardley, L., & Hoddinott, P. (2019). Taxonomy of approaches to developing interventions to improve health: A systematic methods overview. Pilot and Feasibility Studies, 5(1), 41. https://doi.org/10.1186/s40814-019-0425-6
+
 Peters, G.-J., & Crutzen, R. (2018). Establishing determinant relevance using CIBER: An introduction and tutorial. OSF. https://doi.org/10.31234/osf.io/5wjy4
+
 Peters, G.-J. Y. (2014). A practical guide to effective behavior change: How to identify what to change in the first place. European Health Psychologist, 16(5), 142–155.
+
 Ravaghi, H., Guisset, A.-L., Elfeky, S., Nasir, N., Khani, S., Ahmadnezhad, E., & Abdi, Z. (2023). A scoping review of community health needs and assets assessment: Concepts, rationale, tools and uses. BMC Health Services Research, 23(1), 44. https://doi.org/10.1186/s12913-022-08983-3
+
 Ruiter, R. A. C., & Crutzen, R. (2020). Core Processes: How to Use Evidence, Theories, and Research in Planning Behavior Change Interventions. Frontiers in Public Health, 8. https://doi.org/10.3389/fpubh.2020.00247
+
 Ruiter, R. A., Massar, K., van Vugt, M., & Kok, G. (2013). Applying social psychology to understanding social problems. Social Psychology of Social Problems: The Intergroup Context, 337–362.
+
 Stutterheim, S. E., van der Kooij, Y. L., Crutzen, R., Ruiter, R. A. C., Bos, A. E. R., & Kok, G. (2025). Intervention mapping as a guide to developing, implementing, and evaluating stigma reduction interventions. Stigma and Health, 10(1), 3–20. https://doi.org/10.1037/sah0000445
+
 Varol, T., Zimmermann, H., Gültzow, T., Braun, M., Zhang, C., Ramsey, K. A., Gillebaart, M., Raghoebar, S., van Gestel, L., van Valkengoed, A., Peters, G.-J., Crutzen, R., Schneider, F., Solovei, A., & Hoedjes, M. (2024). HERITAGE of Behaviour Change. https://doi.org/10.17605/OSF.IO/EZ7BM
+
 Veen, P. (1984). Sociale psychologie toegepast: Van probleem naar oplossing. Samsom.
+
 Vervoort, L., Naets, T., De Guchtenaere, A., Tanghe, A., & Braet, C. (2020). Using confidence interval-based estimation of relevance to explore bottom-up and top-down determinants of problematic eating behavior in children and adolescents with obesity from a dual pathway perspective. Appetite, 150, 104676. https://doi.org/10.1016/j.appet.2020.104676
+
 Whittingham, J., Ruiter, R. A. C., Zimbile, F., & Kok, G. (2008). Experimental Pretesting of Public Health Campaigns: A Case Study. Journal of Health Communication, 13(3), 216–229. https://doi.org/10.1080/10810730701854045
 
