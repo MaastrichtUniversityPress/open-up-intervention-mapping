@@ -2,8 +2,6 @@
 
 Ajzen, I. (2011). The theory of planned behaviour: Reactions and reflections. Psychology & Health, 26(9), 1113–1127. https://doi.org/10.1080/08870446.2011.613995
 
-Bartholomew Eldredge, L. K., Markham, C. M., Ruiter, R. A. C., Fernández, M. E., Kok, G., & Parcel, G. S. (2016). Planning Health Promotion Programs: An Intervention Mapping Approach. John Wiley & Sons.
-
 Bartholomew, L. K., Parcel, G. S., & Kok, G. (1998). Intervention Mapping: A Process for Developing Theory and Evidence-Based Health Education Programs. Health Education & Behavior, 25(5), 545–563. https://doi.org/10.1177/109019819802500502
 
 Bartholomew, L. K., Parcel, G. S., Kok, G., & Gottlieb, N. H. (2001). Intervention mapping: Designing theory-and evidence-based health promotion programs. Mayfield Mountain View, CA.
@@ -21,6 +19,8 @@ Dalum, P., Schaalma, H., & Kok, G. (2012). The development of an adolescent smok
 Elling, J. M., Crutzen, R., Talhout, R., & de Vries, H. (2020). Tobacco smoking and smoking cessation in times of COVID-19. Tobacco Prevention & Cessation, 6, 39. https://doi.org/10.18332/tpc/122753
 
 Evers, Y. J., Schneider, F., Widdershoven, V., Goense, C. J. D., Peters, C. M. M., van Elsen, S. G., Hoebe, C. J. P. A., & Dukers-Muijrers, N. H. T. M. (2023). Using a theoretical framework of Intervention Mapping to inform public health communication messages designed to increase vaccination uptake; the example of mpox in the Netherlands. BMC Public Health, 23(1), 2373. https://doi.org/10.1186/s12889-023-17311-1
+
+Fernández, M. E., Markham, C. M., Ruiter, R. A. C., Crutzen, R., & Springer, A. E. (2026). Intervention mapping: Health promotion planning, implementation, and evaluation (5th ed.). Jossey-Bass.
 
 Fernandez, M. E., ten Hoor, G. A., van Lieshout, S., Rodriguez, S. A., Beidas, R. S., Parcel, G., Ruiter, R. A. C., Markham, C. M., & Kok, G. (2019). Implementation Mapping: Using Intervention Mapping to Develop Implementation Strategies. Frontiers in Public Health, 7. https://doi.org/10.3389/fpubh.2019.00158
 
