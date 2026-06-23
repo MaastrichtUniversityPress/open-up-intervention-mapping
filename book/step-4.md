@@ -1,4 +1,4 @@
-# Chapter 4 Step 4
+# Step 4
 
 ## Intervention Design and Production
 

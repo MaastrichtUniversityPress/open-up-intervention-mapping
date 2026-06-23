@@ -1,4 +1,4 @@
-# Chapter 2 Step 2
+# Step 2
 
 ## Intervention Outcomes and Objectives
 
@@ -45,7 +45,7 @@ In addition, realize that environmental conditions are typically things that cou
 
 ## Identify sub-behaviors/performance objectives
 
-Target behaviors are often very broadly defined (see the examples below). It is therefore important to identify the _sub-behaviors_ that make up the target behaviors. These ultimately being objectives you want to achieve with your intervention. In Intervention Mapping, these sub-behaviors are called _Performance Objectives_ [@bartholomeweldredgePlanningHealthPromotion2016; @petersPracticalGuideEffective2014].
+Target behaviors are often very broadly defined (see the examples below). It is therefore important to identify the _sub-behaviors_ that make up the target behaviors. These ultimately being objectives you want to achieve with your intervention. In Intervention Mapping, these sub-behaviors are called _Performance Objectives_ (Fernandez et al., 2026; Peters, 2014).
 
 ```{note} Guiding questions
 To identify the performance objectives for your target behavior, ask yourself the following question: *"What do the people have to do to perform this target behavior?"*
@@ -214,15 +214,15 @@ Select from your list the most relevant determinants for your intervention that 
 - Program planners refine determinants of behavior by assessing their relevance (strength of association with the behavior) and changeability (likelihood of being influenced by interventions), using research evidence, theory, or related-behavior data when direct evidence is lacking. Some determinants, such as subjective norms, are personal and more easily targeted, while actual norms are environmental and harder to modify, often requiring environmental-level strategies. In cases where environmental conditions cannot be changed, interventions may focus on helping the target population adapt. This prioritization ensures that interventions focus on the most important and changeable factors to improve program effectiveness.  
 - Decide for each determinant whether to select, defer, or forgo it, based on information about the determinants' associations to behavior or proxies of behavior in the case of the population, and information about the changeability of the determinants, for example based on psychological theory.
 
-There are multiple approaches to select determinants, one of which is the _Confidence Interval-Based Estimation of Relevance_ (CIBER) approach, which visualizes confidence intervals for the means and correlation coefficients (@crutzenUsingConfidenceIntervalBased2017). As intervention developers, we need to decide which determinants to include in an intervention. The CIBER approach aids this process by presenting two key pieces of information: the room for improvement (reflected in mean scores) and the association between determinants and intention or behavior (reflected in correlation coefficients). This visualization aids in evaluating the relevance of each determinant by identifying those that are both strongly associated with the behavior and changeable. For example, a determinant like self-efficacy might have a strong correlation with behavior, but if most people already score high on self-efficacy, there is little room to improve it, making it a less effective intervention target. By considering both association and room for improvement, CIBER guides intervention developers to prioritize determinants that are most likely to impact behavior change and can realistically be influenced.
+There are multiple approaches to select determinants, one of which is the _Confidence Interval-Based Estimation of Relevance_ (CIBER) approach, which visualizes confidence intervals for the means and correlation coefficients (Crutzen et al., 2017). As intervention developers, we need to decide which determinants to include in an intervention. The CIBER approach aids this process by presenting two key pieces of information: the room for improvement (reflected in mean scores) and the association between determinants and intention or behavior (reflected in correlation coefficients). This visualization aids in evaluating the relevance of each determinant by identifying those that are both strongly associated with the behavior and changeable. For example, a determinant like self-efficacy might have a strong correlation with behavior, but if most people already score high on self-efficacy, there is little room to improve it, making it a less effective intervention target. By considering both association and room for improvement, CIBER guides intervention developers to prioritize determinants that are most likely to impact behavior change and can realistically be influenced.
 ```
 
 ```{tip} Examples
 Here are links with examples of determinant selection based on importance and changeability:
 
-- Hearing protective behaviors (@dezeeuwIdentifyingPsychologicalIntervention2025): <https://doi.org/10.31234/osf.io/p3myj_v1>
-- Using a high dose of MDMA (@crutzenUsingConfidenceIntervalBased2017): <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5508122/>
-- Dementia risk reduction (@bruinsmaSocioCognitiveDeterminantsLifestyle2024): <https://doi.org/10.3233/JAD-231369>
+- Hearing protective behaviors (De Zeeuw et al., 2025): <https://doi.org/10.31234/osf.io/p3myj_v1>
+- Using a high dose of MDMA (Crutzen et al., 2017): <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5508122/>
+- Dementia risk reduction (Bruinsma et al., 2024): <https://doi.org/10.3233/JAD-231369>
 ```
 
 ```{important} Products
@@ -297,9 +297,9 @@ Note that some cells will contain multiple change objectives, and some cells wil
 
 Here are links with examples of the Matrix of Change Objectives:
 
-- Stigma reduction (@stutterheimInterventionMappingGuide2025): <https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/188616494/Stutterheim-2023-Intervention-Mapping-as-a-Guide.pdf> 
-- Vaccination uptake (@eversUsingTheoreticalFramework2023): <https://doi.org/10.1186/s12889-023-17311-1>
-- Adolescent smoking cessation (@dalumDevelopmentAdolescentSmoking2012): <https://doi.org/10.1093/her/cyr044>
+- Stigma reduction (Stutterheim et al., 2025): <https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/188616494/Stutterheim-2023-Intervention-Mapping-as-a-Guide.pdf> 
+- Vaccination uptake (Evers et al., 2023): <https://doi.org/10.1186/s12889-023-17311-1>
+- Adolescent smoking cessation (Dalum et al., 2012): <https://doi.org/10.1093/her/cyr044>
 
 ```{important} Products
 - Produce a Matrix of Change Objectives for each target behavior, for the target group and for each environmental agent.
@@ -307,7 +307,7 @@ Here are links with examples of the Matrix of Change Objectives:
 
 ## Start on the logic model of change
 
-The logic model of change is a model showing how you expect your intervention to work. These logic models can be easily produced using Acyclic Behavior Change Diagrams (ABCDs) (@metzAcyclicBehaviorChange2022).
+The logic model of change is a model showing how you expect your intervention to work. These logic models can be easily produced using Acyclic Behavior Change Diagrams (ABCDs) (Metz et al., 2022).
 
 ABCDs are a visualization tool specifically designed to help clarify how an intervention is expected to bring about behavior change. An ABCD presents a chain of seven causal links that illustrate the logical connections between different elements of the intervention:
 

@@ -1,4 +1,4 @@
-# Chapter 3 Step 3
+# Step 3
 
 ## Methods and Practical Application
 
@@ -16,13 +16,13 @@ The textbook covers these tasks and give some examples. In this workbook, we sti
 
 Step 3 of Intervention Mapping focuses on selecting theory-based behavior change methods and practical applications to influence the psychological determinants that drive the desired behaviors. This involves first choosing behavior change methods to modify specific psychological constructs, such as risk perceptions or perceived behavioral control. Behavior change methods that effectively alter risk perception might be different than perceived behavioral control.
 
-Once appropriate behavior change methods have been selected, the next step is to translate them into practical delivery formats, known as applications. These applications are the concrete ways in which the target group engages with the intervention. When doing so, it is important to consider the parameters for effectiveness, which are the specific conditions that must be met for each behavior change method to achieve its intended impact. For example, the effectiveness of the behavior change method ‘’consciousness raising’’ depends on whether increased awareness is quickly followed by enhanced problem-solving skills and a sense of (collective) self-efficacy [@fernandez_im_2026; @kokTaxonomyBehaviourChange2016].
+Once appropriate behavior change methods have been selected, the next step is to translate them into practical delivery formats, known as applications. These applications are the concrete ways in which the target group engages with the intervention. When doing so, it is important to consider the parameters for effectiveness, which are the specific conditions that must be met for each behavior change method to achieve its intended impact. For example, the effectiveness of the behavior change method ‘’consciousness raising’’ depends on whether increased awareness is quickly followed by enhanced problem-solving skills and a sense of (collective) self-efficacy (Fernandez et al., 2026; Kok et al., 2016).
 
 Column D of your ABCD matrix contains the complete list of aspects of the psychology of the relevant target group (e.g. your intervention's target group, or an environmental agent, or an implementer, see Step 5). Each  sub-determinant/change objective must be targeted by at least one application in your final intervention.
 
 Therefore, it is best to start by thinking about which methods and applications you want to use. This depends on what is available in your intervention. For example, if the intervention includes interactive components, a wider range of methods can be applied compared to interventions that rely solely on mailings or billboards. While formats like letters or billboards may be more cost-effective and accessible, they may limit the types of methods that can be effectively implemented.
 
-Deciding on your methods and applications is an iterative process, and you can approach it from both directions: either you start thinking from which theoretical methods you want to use, and then think about how to apply them; or you can start thinking about what your intervention will look like (the application) and then decide which methods are suited for those applications [@fernandez_im_2026; @kokPracticalGuideEffective2018].
+Deciding on your methods and applications is an iterative process, and you can approach it from both directions: either you start thinking from which theoretical methods you want to use, and then think about how to apply them; or you can start thinking about what your intervention will look like (the application) and then decide which methods are suited for those applications (Fernandez et al., 2026; Kok, 2018).
 
 The important thing is that for every Change Objective in column D of your ABCD matrix, you specify which method you will use to target it in column A; how you will apply that method in column C; and how, in that application, you will implement that method's parameters for effectiveness in column B.
 
