@@ -17,8 +17,8 @@ Rik Crutzen | Maastricht University
 Published by: [Maastricht University Press](https://library.maastrichtuniversity.nl/resources/maastricht-university-press/) | Maastricht University, The Netherlands
 
 Version: 1.1.0 </br>
-Publication date: June 2026  
-DOI: [10.26481/mup.2607](https://doi.org/10.26481/mup.2607)
+Publication date: November 2026  
+DOI: [10.26481/mup.2616](https://doi.org/10.26481/mup.2616)
 
 **Copyright:**  </br>
 © 2026 Maastricht University
